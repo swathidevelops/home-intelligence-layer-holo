@@ -33,5 +33,10 @@ __pycache__/
 .venv/
 venv/
 
+# editor / office lock + temp files
+~$*
+*~
+.~lock.*
+
 # vercel
 .vercel
