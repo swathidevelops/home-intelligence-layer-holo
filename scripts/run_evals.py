@@ -139,7 +139,10 @@ def evaluate_classifier(cases, goldens):
 # --------------------------------------------------------------------------- #
 
 NUMBER_RE = re.compile(r"\d[\d,]*\.?\d*")
-WORD_RE = re.compile(r"\b[A-Z][a-zA-Z]+\b")
+# Clause boundaries where a capital letter is grammar, not a proper noun.
+SENTENCE_SPLIT = re.compile(r"[.!?:;\n]+|\s[—–-]+\s")
+WORD_TOKEN = re.compile(r"[A-Za-z][A-Za-z']*")
+CONTRACTION = re.compile(r"'(s|ve|ll|d|m|re|t)$", re.IGNORECASE)
 
 # Sentence-initial and common capitalised words that are not client details.
 COMMON_CAPS = {
@@ -156,6 +159,9 @@ COMMON_CAPS = {
     "Disbursed", "Approval", "Rate", "Payment", "Documents", "Docs", "Case",
     "Client", "Days", "Day", "Week", "Weeks", "Month", "Months",
     "Mr", "Mrs", "Ms", "Dr", "Sir", "Madam", "Team",
+    "January", "February", "March", "April", "May", "June", "July", "August",
+    "September", "October", "November", "December",
+    "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday",
 }
 
 
@@ -285,15 +291,31 @@ def check_action_matches_engine(brief_obj, case, p75):
 
 
 def check_no_invented_details(text, case):
-    """(c) no client details that are not present in the data."""
-    known = set(COMMON_CAPS)
-    known.update(case["client_name"].split())
-    known.update(case["assigned_rm"].split())
-    for b in case["bank_options"]:
-        known.update(b["bank_name"].replace("-", " ").split())
-    known.update(s.title() for s in case["services_attached"])
+    """(c) no client details that are not present in the data.
 
-    suspicious = [w for w in WORD_RE.findall(text or "") if w not in known]
+    Flags only *mid-sentence* capitalised words (the shape of an invented name,
+    employer or place) that aren't in the case record. Sentence-opening words
+    ("Wanted...", "Quick update:") and all-caps acronyms (SLA, AED) are grammar,
+    not client details, so they are not flagged. A hallucinated greeting name is
+    still caught because it sits after "Hi" (not at position 0)."""
+    known = {w.lower() for w in COMMON_CAPS}
+    known.update(w.lower() for w in case["client_name"].split())
+    known.update(w.lower() for w in case["assigned_rm"].split())
+    for b in case["bank_options"]:
+        known.update(w.lower() for w in b["bank_name"].replace("-", " ").split())
+    known.update(s.lower() for s in case["services_attached"])
+
+    suspicious = []
+    for sentence in SENTENCE_SPLIT.split(text or ""):
+        for i, w in enumerate(WORD_TOKEN.findall(sentence)):
+            if i == 0:                       # sentence-initial capital is grammar
+                continue
+            if not w[0].isupper() or w.isupper():   # lower-case, or an acronym
+                continue
+            base = CONTRACTION.sub("", w).lower()
+            if base in known:
+                continue
+            suspicious.append(w)
     return sorted(set(suspicious))
 
 

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T18:27:52+00:00",
+  "generated_at": "2026-07-20T20:40:09+00:00",
   "reference_date": "2026-07-20",
   "classifier": {
     "n": 30,
@@ -104,13 +104,112 @@
     "cases_not_found_in_book": []
   },
   "llm_briefs": {
-    "status": "not_run",
-    "reason": "data/ai_briefs.json not generated yet (Prompt 5, run locally with a key)",
+    "status": "run",
+    "n": 19,
+    "passed": 19,
+    "pass_rate": 1.0,
     "checks": [
       "every number in the brief exists in the case record",
       "recommended action matches the rules engine output",
       "no client details absent from the data",
       "WhatsApp draft under 60 words"
+    ],
+    "results": [
+      {
+        "id": "HOL-0238",
+        "passed": true,
+        "failures": []
+      },
+      {
+        "id": "HOL-0201",
+        "passed": true,
+        "failures": []
+      },
+      {
+        "id": "HOL-0270",
+        "passed": true,
+        "failures": []
+      },
+      {
+        "id": "HOL-0319",
+        "passed": true,
+        "failures": []
+      },
+      {
+        "id": "HOL-0213",
+        "passed": true,
+        "failures": []
+      },
+      {
+        "id": "HOL-0177",
+        "passed": true,
+        "failures": []
+      },
+      {
+        "id": "HOL-0094",
+        "passed": true,
+        "failures": []
+      },
+      {
+        "id": "HOL-0074",
+        "passed": true,
+        "failures": []
+      },
+      {
+        "id": "HOL-0369",
+        "passed": true,
+        "failures": []
+      },
+      {
+        "id": "HOL-0038",
+        "passed": true,
+        "failures": []
+      },
+      {
+        "id": "HOL-0222",
+        "passed": true,
+        "failures": []
+      },
+      {
+        "id": "HOL-0377",
+        "passed": true,
+        "failures": []
+      },
+      {
+        "id": "HOL-0303",
+        "passed": true,
+        "failures": []
+      },
+      {
+        "id": "HOL-0331",
+        "passed": true,
+        "failures": []
+      },
+      {
+        "id": "HOL-0296",
+        "passed": true,
+        "failures": []
+      },
+      {
+        "id": "HOL-0263",
+        "passed": true,
+        "failures": []
+      },
+      {
+        "id": "HOL-0327",
+        "passed": true,
+        "failures": []
+      },
+      {
+        "id": "HOL-0215",
+        "passed": true,
+        "failures": []
+      },
+      {
+        "id": "HOL-0373",
+        "passed": true,
+        "failures": []
+      }
     ]
   }
 }

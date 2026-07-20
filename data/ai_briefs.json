@@ -1,1 +1,275 @@
-[]
+[
+  {
+    "case_id": "HOL-0238",
+    "client_name": "Hamdan Zhang",
+    "stage": "final_offer",
+    "priority_score": 15708,
+    "classification": "HEALTHY",
+    "pause_kind": null,
+    "recommended_action": "Act on the time-sensitive alert; no stall recovery needed.",
+    "flags": [
+      "PAYMENT_CLIFF"
+    ],
+    "brief": "Hamdan is at the final offer stage for a property valued at AED 2,200,000 with a loan amount of AED 1,760,000, and has gone quiet for 12 days despite being 12 days into this stage. A payment milestone is due in 27 days, and without confirmation of his continued engagement, this deadline risks being missed. This matters because AED 18,480 in expected commission is tied to keeping this transaction on track.",
+    "whatsapp": "Hi Hamdan, hope you're well! Just a friendly heads-up that your next payment milestone is due in 27 days. Wanted to check in and see if you have any questions or need help preparing anything ahead of that. Happy to jump on a quick call whenever suits you."
+  },
+  {
+    "case_id": "HOL-0201",
+    "client_name": "Chen Williams",
+    "stage": "final_offer",
+    "priority_score": 15276,
+    "classification": "RATIONAL_PAUSE",
+    "pause_kind": "customer_paused",
+    "recommended_action": "Move to rate-watch nurture and stop active RM time.",
+    "flags": [
+      "VELOCITY_STALL"
+    ],
+    "brief": "Chen has been sitting at the final offer stage for 35 days and hasn't responded in 55 days, having paused after reviewing costs on a property priced at AED 2,350,000 with a loan amount of AED 1,762,000. The risk is that continued active follow-up wastes RM time on a client who has stepped back and is not currently engaged. This matters because AED 17,972 in expected commission is at stake, so the account should move to a low-touch rate-watch nurture rather than active outreach.",
+    "whatsapp": "Hi Chen, hope you're doing well. No rush at all on your end — since this is a home for you to live in, it's worth keeping an eye on how rates move over time rather than deciding under pressure. I'll keep watching things and reach out if there's a shift worth discussing. Here whenever you're ready."
+  },
+  {
+    "case_id": "HOL-0270",
+    "client_name": "Karim Schmidt",
+    "stage": "final_offer",
+    "priority_score": 13808,
+    "classification": "HEALTHY",
+    "pause_kind": null,
+    "recommended_action": "Act on the time-sensitive alert; no stall recovery needed.",
+    "flags": [
+      "PAYMENT_CLIFF"
+    ],
+    "brief": "Karim is at the final offer stage on an AED 2,250,000 investment property with an AED 1,710,000 loan, but has been silent for 11 days while a major payment milestone is due in 21 days. The risk is that lack of engagement now could delay or jeopardize the payment deadline, stalling the deal at a critical point. This matters because AED 16,245 in commission is riding on the deal progressing smoothly to completion.",
+    "whatsapp": "Hi Karim, hope you're doing well! Just a quick heads-up — your next payment milestone on the AED 2,250,000 property is due in 21 days. Wanted to check in and see if you need any help preparing for it or have questions. Happy to jump on a quick call whenever suits you."
+  },
+  {
+    "case_id": "HOL-0319",
+    "client_name": "Sara Schmidt",
+    "stage": "signed",
+    "priority_score": 13367,
+    "classification": "RATIONAL_PAUSE",
+    "pause_kind": "process_blocked",
+    "recommended_action": "Chase the bank or conveyancer for a transfer status update. Do not nurture the customer.",
+    "flags": [
+      "TRANSFER_TUNNEL",
+      "VELOCITY_STALL"
+    ],
+    "brief": "Sara's transfer has been stuck at the signing stage for 60 days, well beyond the normal timeline, and she has gone quiet for the last 29 days. The risk is that the bank-side delay continues unresolved without proactive follow-up from our end, leaving her uninformed while nothing is actually required from her. This matters because AED 14,071 in commission is tied to a AED 2,200,000 property with a AED 1,716,000 loan, and keeping the process moving protects that outcome without placing any pressure on Sara.",
+    "whatsapp": "Hi Sara, just checking in — I'm following up with the bank on the status of your transfer, as it's taking a bit longer than usual. No action needed from your side at all; I'll keep chasing this for you and update you as soon as I hear back. Thanks for your patience!"
+  },
+  {
+    "case_id": "HOL-0213",
+    "client_name": "Hessa Ferrari",
+    "stage": "valuation",
+    "priority_score": 13072,
+    "classification": "STALLED",
+    "pause_kind": null,
+    "recommended_action": "Call or send a personal nudge.",
+    "flags": [
+      "GONE_QUIET",
+      "VELOCITY_STALL"
+    ],
+    "brief": "Hessa's mortgage file has been stuck at the valuation stage for 25 days and she has not replied to outreach in 11 days, despite being an engaged end-use buyer for the AED 2,450,000 property. The risk is that continued silence, combined with a pre-approval expiring in 24 days, could stall progress right when the loan amount of AED 1,862,000 needs to move forward. This matters because AED 20,110 in expected commission is at stake if the file goes cold and the pre-approval lapses before valuation completes.",
+    "whatsapp": "Hi Hessa, hope you're doing well! Just checking in on your home purchase - we're at the valuation stage and I want to make sure everything stays on track before your pre-approval window closes. Do you have a few minutes for a quick call or chat this week? Happy to work around your schedule."
+  },
+  {
+    "case_id": "HOL-0177",
+    "client_name": "Hamdan Khan",
+    "stage": "valuation",
+    "priority_score": 13060,
+    "classification": "HEALTHY",
+    "pause_kind": null,
+    "recommended_action": "Act on the time-sensitive alert; no stall recovery needed.",
+    "flags": [
+      "VALUATION_OVERDUE"
+    ],
+    "brief": "Hamdan's property valuation has been pending for 11 working days against a 5-day SLA, and his pre-approval expires in 24 days, so we need to expedite before that clock runs out. The risk is that a stalled valuation delays the mortgage process and could push past the pre-approval expiry, forcing a fresh application. This matters because AED 20,093 in commission and the AED 1,794,000 loan on the AED 2,300,000 property are riding on keeping this on track.",
+    "whatsapp": "Hi Hamdan, hope you're well! Quick update: your valuation is taking a bit longer than expected, and since your pre-approval has a limited window left, I want to push this along for you. I'll follow up with the valuer directly today — will keep you posted on progress. Any questions, just message me."
+  },
+  {
+    "case_id": "HOL-0094",
+    "client_name": "Tariq Al Suwaidi",
+    "stage": "signed",
+    "priority_score": 12917,
+    "classification": "RATIONAL_PAUSE",
+    "pause_kind": "process_blocked",
+    "recommended_action": "Chase the bank or conveyancer for a transfer status update. Do not nurture the customer.",
+    "flags": [
+      "TRANSFER_TUNNEL",
+      "VELOCITY_STALL"
+    ],
+    "brief": "Tariq's transfer has been sitting for 52 days in the signing stage, with no reply from him in 34 days, which is longer than a normal wait. The risk is that the bank transfer for his AED 1,462,000 loan on the AED 1,950,000 property remains stuck without visibility, and Tariq may assume nothing is happening. This matters because AED 13,597 in commission is tied to completion, so the RM should proactively chase the bank for a status update rather than wait on the client.",
+    "whatsapp": "Hi Tariq, just checking in — I'm following up with the bank on the transfer status for your property to make sure everything keeps moving smoothly. No action needed from your side at all; I'll update you as soon as I hear back. Thanks for your patience!"
+  },
+  {
+    "case_id": "HOL-0074",
+    "client_name": "Elena Haddad",
+    "stage": "final_offer",
+    "priority_score": 12880,
+    "classification": "HEALTHY",
+    "pause_kind": null,
+    "recommended_action": "Act on the time-sensitive alert; no stall recovery needed.",
+    "flags": [
+      "PAYMENT_CLIFF"
+    ],
+    "brief": "Elena is at the final offer stage for her AED 2,150,000 home purchase (loan amount AED 1,612,000), with a payment milestone due in 16 days, but she has been silent for 13 days. The risk is that this key deadline passes without her acknowledgment, potentially delaying the final offer process. This matters because AED 15,153 in expected commission is riding on this deal progressing smoothly and on time.",
+    "whatsapp": "Hi Elena, hope you're doing well! Just a friendly reminder that your next payment milestone is due in 16 days. Wanted to check in and see if you have any questions or need support getting things ready. Happy to hop on a quick call whenever suits you best."
+  },
+  {
+    "case_id": "HOL-0369",
+    "client_name": "Hannah Al Maktoum",
+    "stage": "valuation",
+    "priority_score": 12285,
+    "classification": "STALLED",
+    "pause_kind": null,
+    "recommended_action": "Call or send a personal nudge.",
+    "flags": [
+      "GONE_QUIET",
+      "VELOCITY_STALL"
+    ],
+    "brief": "Hannah's mortgage file has been stuck at the valuation stage for 27 days, well beyond the normal timeframe, and she has not responded to outreach in 12 days. The risk is that continued silence could stall the file further, even though her pre-approval still has 57 days of validity remaining. This matters because AED 18,900 in commission is tied to a property valued at AED 2,250,000 with a loan amount of AED 1,800,000, and continued disengagement risks losing the deal entirely.",
+    "whatsapp": "Hi Hannah, hope you're doing well! Just checking in on your property valuation - wanted to see how things are progressing on your end. Happy to jump on a quick call or chat whenever suits you, so we can keep things moving smoothly. Let me know a good time!"
+  },
+  {
+    "case_id": "HOL-0038",
+    "client_name": "Deepak Al Hashimi",
+    "stage": "valuation",
+    "priority_score": 11335,
+    "classification": "STALLED",
+    "pause_kind": null,
+    "recommended_action": "Call or send a personal nudge.",
+    "flags": [
+      "GONE_QUIET",
+      "VELOCITY_STALL"
+    ],
+    "brief": "Deepak's mortgage application has been stuck in the valuation stage for 24 days, and he has not responded to outreach in 13 days despite still being in-market for a home to live in. The risk is that his pre-approval expires in 23 days, and continued silence could cause the process to lapse before valuation completes. This matters because the deal represents AED 17,438 in expected commission on a AED 2,500,000 property with a AED 1,875,000 loan, all of which is at risk if momentum is lost.",
+    "whatsapp": "Hi Deepak, hope you're doing well! Just checking in on your valuation progress — wanted to see if you have a few minutes for a quick call or chat to keep things moving smoothly. Happy to work around your schedule. Let me know what suits you best!"
+  },
+  {
+    "case_id": "HOL-0222",
+    "client_name": "Daniel Li",
+    "stage": "final_offer",
+    "priority_score": 11261,
+    "classification": "RATIONAL_PAUSE",
+    "pause_kind": "customer_paused",
+    "recommended_action": "Move to rate-watch nurture and stop active RM time.",
+    "flags": [
+      "VELOCITY_STALL"
+    ],
+    "brief": "Daniel has paused at the final offer stage on his AED 2,150,000 investment property with a AED 1,677,000 loan, having gone quiet for 59 days after reviewing the numbers, with the file stuck 36 days beyond the normal timeline. The risk is that continued active RM follow-up yields diminishing returns while the client's decision is genuinely rate-driven rather than lost interest. This matters because AED 13,248 in commission is at stake, so shifting to a light-touch rate-watch approach preserves the relationship without burning further RM time until market conditions shift in his favor.",
+    "whatsapp": "Hi Daniel, hope you're doing well. No rush at all on the investment property front — I know rates were the key factor for you. I'll keep an eye on the market and reach out the moment the numbers move in your favor. Feel free to message anytime in the meantime!"
+  },
+  {
+    "case_id": "HOL-0377",
+    "client_name": "Daniel Li",
+    "stage": "final_offer",
+    "priority_score": 10934,
+    "classification": "RATIONAL_PAUSE",
+    "pause_kind": "customer_paused",
+    "recommended_action": "Move to rate-watch nurture and stop active RM time.",
+    "flags": [
+      "VELOCITY_STALL"
+    ],
+    "brief": "Daniel has paused at the final offer stage after 40 days, having gone quiet for the past 70 days, likely evaluating rate movement for his investment purchase.The risk is that active RM follow-up at this point yields little return and should shift to passive rate-watch nurture instead.This matters because AED 12,863 in commission is tied to a AED 1,762,000 loan on a AED 2,350,000 property, so staying warmly connected without pressure keeps the deal alive for when rates move in his favor.",
+    "whatsapp": "Hi Daniel, hope you're doing well. No rush at all on your end — I'll keep an eye on rate movements for your investment property and reach out the moment there's a shift worth discussing. Feel free to message anytime if you'd like an update in the meantime."
+  },
+  {
+    "case_id": "HOL-0303",
+    "client_name": "Faisal Tanaka",
+    "stage": "application",
+    "priority_score": 10854,
+    "classification": "HEALTHY",
+    "pause_kind": null,
+    "recommended_action": "Act on the time-sensitive alert; no stall recovery needed.",
+    "flags": [
+      "PAYMENT_CLIFF"
+    ],
+    "brief": "Faisal is at the application stage for an investment property priced at AED 2,200,000 with a loan amount of AED 1,716,000, and he has gone quiet for 13 days despite a next payment milestone due in 10 days. The risk is that this silence could cause him to miss the upcoming payment deadline, jeopardizing the application before pre-approval expires in 54 days. This matters because the expected commission at stake is AED 19,734, and any delay in the payment milestone could stall the entire deal.",
+    "whatsapp": "Hi Faisal, hope you're doing well! Just a quick heads-up that your next payment milestone is due in 10 days as we move forward on your investment property. Happy to jump on a quick call to walk through the details and make sure everything's on track. Let me know a good time!"
+  },
+  {
+    "case_id": "HOL-0331",
+    "client_name": "Anjali Al Maktoum",
+    "stage": "final_offer",
+    "priority_score": 10339,
+    "classification": "HEALTHY",
+    "pause_kind": null,
+    "recommended_action": "Act on the time-sensitive alert; no stall recovery needed.",
+    "flags": [
+      "PAYMENT_CLIFF"
+    ],
+    "brief": "Anjali is at the final offer stage for her AED 1,650,000 home purchase with a loan amount of AED 1,254,000, and she has gone quiet for 11 days despite a big payment milestone due in 26 days. The risk is that continued silence on her part could delay or jeopardize timely payment, putting the transaction and the client's own move-in plans at risk. This matters because AED 12,164 in expected commission and Anjali's home purchase are both riding on this milestone being met on time.",
+    "whatsapp": "Hi Anjali, hope you're doing well! Just a friendly reminder that your next payment milestone is due in 26 days. Wanted to check in and see if you have any questions or need help preparing anything on your end. Happy to jump on a quick call whenever suits you."
+  },
+  {
+    "case_id": "HOL-0296",
+    "client_name": "Marco Tanaka",
+    "stage": "application",
+    "priority_score": 10330,
+    "classification": "STALLED",
+    "pause_kind": null,
+    "recommended_action": "Call or send a personal nudge.",
+    "flags": [
+      "VELOCITY_STALL"
+    ],
+    "brief": "Marco's mortgage application has stalled for 11 days, longer than typical for this stage, though he replied as recently as 2 days ago, showing continued engagement. The risk is that momentum could slip further and his pre-approval, valid for 24 more days, could lapse before the application is completed. This matters because the deal represents a loan amount of AED 1,677,000 on a AED 2,150,000 property, with expected commission of AED 18,782 at stake.",
+    "whatsapp": "Hi Marco, hope you're doing well! Just checking in on your application for the AED 2,150,000 property — wanted to see if you have any questions or need help moving things along. Happy to jump on a quick call or chat whenever suits you. Looking forward to hearing from you!"
+  },
+  {
+    "case_id": "HOL-0263",
+    "client_name": "Bilal Rahman",
+    "stage": "valuation",
+    "priority_score": 10236,
+    "classification": "HEALTHY",
+    "pause_kind": null,
+    "recommended_action": "Act on the time-sensitive alert; no stall recovery needed.",
+    "flags": [
+      "VALUATION_OVERDUE"
+    ],
+    "brief": "Bilal's property valuation has now taken 6 working days, exceeding the standard 5-day SLA, while he has been engaged as recently as 5 days ago. The risk is that continued delay in valuation could eat into the 26-day window before his pre-approval expires, potentially stalling the AED 1,406,000 loan process. This deal carries an expected commission of AED 15,747, so a proactive push to expedite the valuation now protects both the timeline and the revenue.",
+    "whatsapp": "Hi Bilal, hope you're well! Just checking in on your property valuation — it's taking a little longer than expected. I'm following up with the valuation team to speed things along, especially with your pre-approval timeline in mind. Will update you as soon as I hear back. Any questions in the meantime, just let me know!"
+  },
+  {
+    "case_id": "HOL-0327",
+    "client_name": "Dina Al Qassimi",
+    "stage": "property_found",
+    "priority_score": 9880,
+    "classification": "STALLED",
+    "pause_kind": null,
+    "recommended_action": "Call or send a personal nudge.",
+    "flags": [
+      "PRE_APPROVAL_EXPIRY",
+      "VELOCITY_STALL"
+    ],
+    "brief": "Dina has been stuck in the property search stage for 13 days and has not replied in 9 days, with her pre-approval on a AED 1,900,000 loan expiring in just 5 days. The risk is that the pre-approval lapses before she finds a property, forcing a fresh application and delaying her purchase of the AED 2,500,000 home. This matters because AED 19,760 in expected commission is at stake if the deal stalls further and momentum is lost.",
+    "whatsapp": "Hi Dina, hope you're doing well! Just a quick note that your pre-approval is set to expire in 5 days, and I'd love to help you find the right property before then. Would you have a few minutes for a quick call or chat this week to keep things moving smoothly?"
+  },
+  {
+    "case_id": "HOL-0215",
+    "client_name": "Faisal Al Hashimi",
+    "stage": "signed",
+    "priority_score": 9739,
+    "classification": "RATIONAL_PAUSE",
+    "pause_kind": "process_blocked",
+    "recommended_action": "Chase the bank or conveyancer for a transfer status update. Do not nurture the customer.",
+    "flags": [
+      "TRANSFER_TUNNEL",
+      "VELOCITY_STALL"
+    ],
+    "brief": "Faisal's file is stuck at the signing stage with the bank transfer taking 66 days, well beyond the norm, and he has gone quiet for 31 days during this wait. The risk is that the stalled transfer, not client disengagement, could delay closing on the AED 2,350,000 property with an AED 1,786,000 loan if not actively chased. This matters because AED 14,645 in commission is at stake, and the RM should focus on pushing the bank or conveyancer for a status update rather than nurturing the client further.",
+    "whatsapp": "Hi Faisal, just checking in with an update — we're actively following up with the bank on your transfer, which is taking a bit longer than usual. Nothing needed from your side at the moment; we're on it and will let you know as soon as there's movement. Thanks for your patience!"
+  },
+  {
+    "case_id": "HOL-0373",
+    "client_name": "Hessa Iqbal",
+    "stage": "application",
+    "priority_score": 9670,
+    "classification": "STALLED",
+    "pause_kind": null,
+    "recommended_action": "Call or send a personal nudge.",
+    "flags": [
+      "VELOCITY_STALL"
+    ],
+    "brief": "Hessa's application has been stalled for 11 days, longer than typical for this stage, though she replied as recently as 2 days ago, suggesting continued engagement. The risk is that momentum could fade before her pre-approval expires in 33 days, delaying progress on her AED 2,450,000 investment property. This matters because AED 17,581 in commission is at stake, and a timely nudge now could keep the application moving toward completion.",
+    "whatsapp": "Hi Hessa, hope you're doing well! Just checking in on your application for the AED 2,450,000 property — wanted to see if you have any questions or need help moving things along. Happy to hop on a quick call or chat whenever suits you. Let me know!"
+  }
+]
