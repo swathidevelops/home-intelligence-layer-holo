@@ -67,7 +67,7 @@
         "entered_at": "2026-07-08"
       }
     ],
-    "assigned_rm": "Aisha Rahman",
+    "assigned_rm": "Chaz Cott",
     "source_channel": "agent_referral",
     "pre_approval_date": "2026-07-17",
     "payment_milestones": null,
@@ -163,7 +163,7 @@
         "entered_at": "2026-05-24"
       }
     ],
-    "assigned_rm": "James Whitfield",
+    "assigned_rm": "Wajeeh Sayeed",
     "source_channel": "agent_referral",
     "pre_approval_date": "2026-07-03",
     "payment_milestones": [
@@ -261,7 +261,7 @@
         "entered_at": "2026-07-11"
       }
     ],
-    "assigned_rm": "Daniel Costa",
+    "assigned_rm": "April Dagdagan",
     "source_channel": "agent_referral",
     "pre_approval_date": "2026-06-28",
     "payment_milestones": null,
@@ -379,7 +379,7 @@
         "entered_at": "2026-07-11"
       }
     ],
-    "assigned_rm": "Fatima Al Suwaidi",
+    "assigned_rm": "Alex Sammy",
     "source_channel": "paid",
     "pre_approval_date": "2026-06-29",
     "payment_milestones": null,
@@ -476,7 +476,7 @@
         "entered_at": "2026-07-09"
       }
     ],
-    "assigned_rm": "James Whitfield",
+    "assigned_rm": "Wajeeh Sayeed",
     "source_channel": "agent_referral",
     "pre_approval_date": "2026-07-07",
     "payment_milestones": null,
@@ -570,7 +570,7 @@
         "entered_at": "2026-07-11"
       }
     ],
-    "assigned_rm": "Daniel Costa",
+    "assigned_rm": "April Dagdagan",
     "source_channel": "concierge",
     "pre_approval_date": "2026-06-30",
     "payment_milestones": null,
@@ -676,7 +676,7 @@
         "entered_at": "2026-07-13"
       }
     ],
-    "assigned_rm": "Omar Haddad",
+    "assigned_rm": "Adriell Arcellana",
     "source_channel": "organic",
     "pre_approval_date": "2026-07-04",
     "payment_milestones": null,
@@ -790,7 +790,7 @@
         "entered_at": "2026-07-10"
       }
     ],
-    "assigned_rm": "Priya Nair",
+    "assigned_rm": "Emma Jackson",
     "source_channel": "organic",
     "pre_approval_date": "2026-06-30",
     "payment_milestones": [
@@ -903,7 +903,7 @@
         "entered_at": "2026-07-09"
       }
     ],
-    "assigned_rm": "Omar Haddad",
+    "assigned_rm": "Adriell Arcellana",
     "source_channel": "agent_referral",
     "pre_approval_date": "2026-06-18",
     "payment_milestones": [
@@ -1026,7 +1026,7 @@
         "entered_at": "2026-07-15"
       }
     ],
-    "assigned_rm": "Fatima Al Suwaidi",
+    "assigned_rm": "Alex Sammy",
     "source_channel": "organic",
     "pre_approval_date": "2026-06-23",
     "payment_milestones": null,
@@ -1120,7 +1120,7 @@
         "entered_at": "2026-07-11"
       }
     ],
-    "assigned_rm": "Aisha Rahman",
+    "assigned_rm": "Chaz Cott",
     "source_channel": "concierge",
     "pre_approval_date": null,
     "payment_milestones": [
@@ -1251,7 +1251,7 @@
         "entered_at": "2026-07-11"
       }
     ],
-    "assigned_rm": "James Whitfield",
+    "assigned_rm": "Wajeeh Sayeed",
     "source_channel": "paid",
     "pre_approval_date": "2026-07-03",
     "payment_milestones": null,
@@ -1347,7 +1347,7 @@
         "entered_at": "2026-07-17"
       }
     ],
-    "assigned_rm": "Daniel Costa",
+    "assigned_rm": "April Dagdagan",
     "source_channel": "concierge",
     "pre_approval_date": "2026-07-13",
     "payment_milestones": [
@@ -1458,7 +1458,7 @@
         "entered_at": "2026-07-15"
       }
     ],
-    "assigned_rm": "Priya Nair",
+    "assigned_rm": "Emma Jackson",
     "source_channel": "paid",
     "pre_approval_date": "2026-07-16",
     "payment_milestones": [
@@ -1599,7 +1599,7 @@
         "entered_at": "2026-07-12"
       }
     ],
-    "assigned_rm": "James Whitfield",
+    "assigned_rm": "Wajeeh Sayeed",
     "source_channel": "paid",
     "pre_approval_date": "2026-06-29",
     "payment_milestones": null,
@@ -1705,7 +1705,7 @@
         "entered_at": "2026-07-13"
       }
     ],
-    "assigned_rm": "Fatima Al Suwaidi",
+    "assigned_rm": "Alex Sammy",
     "source_channel": "concierge",
     "pre_approval_date": "2026-06-14",
     "payment_milestones": [
@@ -1818,7 +1818,7 @@
         "entered_at": "2026-06-02"
       }
     ],
-    "assigned_rm": "Priya Nair",
+    "assigned_rm": "Emma Jackson",
     "source_channel": "concierge",
     "pre_approval_date": "2026-07-17",
     "payment_milestones": null,
@@ -1918,7 +1918,7 @@
         "entered_at": "2026-07-13"
       }
     ],
-    "assigned_rm": "Aisha Rahman",
+    "assigned_rm": "Chaz Cott",
     "source_channel": "agent_referral",
     "pre_approval_date": "2026-06-20",
     "payment_milestones": null,
@@ -2012,7 +2012,7 @@
         "entered_at": "2026-07-10"
       }
     ],
-    "assigned_rm": "Omar Haddad",
+    "assigned_rm": "Adriell Arcellana",
     "source_channel": "agent_referral",
     "pre_approval_date": "2026-06-26",
     "payment_milestones": [
@@ -2127,7 +2127,7 @@
         "entered_at": "2026-07-09"
       }
     ],
-    "assigned_rm": "James Whitfield",
+    "assigned_rm": "Wajeeh Sayeed",
     "source_channel": "agent_referral",
     "pre_approval_date": "2026-07-08",
     "payment_milestones": null,
@@ -2209,7 +2209,7 @@
         "entered_at": "2026-07-09"
       }
     ],
-    "assigned_rm": "Priya Nair",
+    "assigned_rm": "Emma Jackson",
     "source_channel": "paid",
     "pre_approval_date": null,
     "payment_milestones": null,
@@ -2329,7 +2329,7 @@
         "entered_at": "2026-07-10"
       }
     ],
-    "assigned_rm": "Fatima Al Suwaidi",
+    "assigned_rm": "Alex Sammy",
     "source_channel": "agent_referral",
     "pre_approval_date": "2026-07-10",
     "payment_milestones": null,
@@ -2447,7 +2447,7 @@
         "entered_at": "2026-07-16"
       }
     ],
-    "assigned_rm": "Priya Nair",
+    "assigned_rm": "Emma Jackson",
     "source_channel": "concierge",
     "pre_approval_date": "2026-07-01",
     "payment_milestones": null,
@@ -2564,7 +2564,7 @@
         "entered_at": "2026-07-11"
       }
     ],
-    "assigned_rm": "James Whitfield",
+    "assigned_rm": "Wajeeh Sayeed",
     "source_channel": "agent_referral",
     "pre_approval_date": "2026-06-11",
     "payment_milestones": [
@@ -2675,7 +2675,7 @@
         "entered_at": "2026-07-15"
       }
     ],
-    "assigned_rm": "Priya Nair",
+    "assigned_rm": "Emma Jackson",
     "source_channel": "organic",
     "pre_approval_date": "2026-07-04",
     "payment_milestones": [
@@ -2816,7 +2816,7 @@
         "entered_at": "2026-07-09"
       }
     ],
-    "assigned_rm": "Aisha Rahman",
+    "assigned_rm": "Chaz Cott",
     "source_channel": "concierge",
     "pre_approval_date": "2026-06-17",
     "payment_milestones": [
@@ -2930,7 +2930,7 @@
         "entered_at": "2026-07-12"
       }
     ],
-    "assigned_rm": "Aisha Rahman",
+    "assigned_rm": "Chaz Cott",
     "source_channel": "organic",
     "pre_approval_date": "2026-07-15",
     "payment_milestones": null,
@@ -3010,7 +3010,7 @@
         "entered_at": "2026-07-12"
       }
     ],
-    "assigned_rm": "Daniel Costa",
+    "assigned_rm": "April Dagdagan",
     "source_channel": "organic",
     "pre_approval_date": "2026-06-17",
     "payment_milestones": [
@@ -3125,7 +3125,7 @@
         "entered_at": "2026-07-16"
       }
     ],
-    "assigned_rm": "Omar Haddad",
+    "assigned_rm": "Adriell Arcellana",
     "source_channel": "organic",
     "pre_approval_date": "2026-07-05",
     "payment_milestones": null,
@@ -3243,7 +3243,7 @@
         "entered_at": "2026-07-13"
       }
     ],
-    "assigned_rm": "Aisha Rahman",
+    "assigned_rm": "Chaz Cott",
     "source_channel": "agent_referral",
     "pre_approval_date": "2026-06-22",
     "payment_milestones": null,
@@ -3352,7 +3352,7 @@
         "entered_at": "2026-07-11"
       }
     ],
-    "assigned_rm": "Priya Nair",
+    "assigned_rm": "Emma Jackson",
     "source_channel": "organic",
     "pre_approval_date": "2026-07-12",
     "payment_milestones": [
@@ -3473,7 +3473,7 @@
         "entered_at": "2026-07-14"
       }
     ],
-    "assigned_rm": "Daniel Costa",
+    "assigned_rm": "April Dagdagan",
     "source_channel": "concierge",
     "pre_approval_date": "2026-07-13",
     "payment_milestones": [
@@ -3591,7 +3591,7 @@
         "entered_at": "2026-07-13"
       }
     ],
-    "assigned_rm": "James Whitfield",
+    "assigned_rm": "Wajeeh Sayeed",
     "source_channel": "organic",
     "pre_approval_date": "2026-07-01",
     "payment_milestones": [
@@ -3722,7 +3722,7 @@
         "entered_at": "2026-07-13"
       }
     ],
-    "assigned_rm": "James Whitfield",
+    "assigned_rm": "Wajeeh Sayeed",
     "source_channel": "organic",
     "pre_approval_date": "2026-06-13",
     "payment_milestones": [
@@ -3840,7 +3840,7 @@
         "entered_at": "2026-07-15"
       }
     ],
-    "assigned_rm": "Priya Nair",
+    "assigned_rm": "Emma Jackson",
     "source_channel": "agent_referral",
     "pre_approval_date": "2026-06-23",
     "payment_milestones": [
@@ -3965,7 +3965,7 @@
         "entered_at": "2026-07-10"
       }
     ],
-    "assigned_rm": "Fatima Al Suwaidi",
+    "assigned_rm": "Alex Sammy",
     "source_channel": "concierge",
     "pre_approval_date": "2026-07-02",
     "payment_milestones": null,
@@ -4062,7 +4062,7 @@
         "entered_at": "2026-07-14"
       }
     ],
-    "assigned_rm": "James Whitfield",
+    "assigned_rm": "Wajeeh Sayeed",
     "source_channel": "agent_referral",
     "pre_approval_date": "2026-07-17",
     "payment_milestones": [
@@ -4173,7 +4173,7 @@
         "entered_at": "2026-06-26"
       }
     ],
-    "assigned_rm": "Fatima Al Suwaidi",
+    "assigned_rm": "Alex Sammy",
     "source_channel": "concierge",
     "pre_approval_date": "2026-06-13",
     "payment_milestones": null,
@@ -4269,7 +4269,7 @@
         "entered_at": "2026-07-12"
       }
     ],
-    "assigned_rm": "Priya Nair",
+    "assigned_rm": "Emma Jackson",
     "source_channel": "paid",
     "pre_approval_date": "2026-06-12",
     "payment_milestones": null,
@@ -4389,7 +4389,7 @@
         "entered_at": "2026-07-10"
       }
     ],
-    "assigned_rm": "Daniel Costa",
+    "assigned_rm": "April Dagdagan",
     "source_channel": "agent_referral",
     "pre_approval_date": "2026-06-17",
     "payment_milestones": null,
@@ -4487,7 +4487,7 @@
         "entered_at": "2026-07-16"
       }
     ],
-    "assigned_rm": "Omar Haddad",
+    "assigned_rm": "Adriell Arcellana",
     "source_channel": "organic",
     "pre_approval_date": "2026-06-15",
     "payment_milestones": null,
@@ -4589,7 +4589,7 @@
         "entered_at": "2026-07-10"
       }
     ],
-    "assigned_rm": "Aisha Rahman",
+    "assigned_rm": "Chaz Cott",
     "source_channel": "organic",
     "pre_approval_date": "2026-07-12",
     "payment_milestones": null,
@@ -4683,7 +4683,7 @@
         "entered_at": "2026-07-14"
       }
     ],
-    "assigned_rm": "Priya Nair",
+    "assigned_rm": "Emma Jackson",
     "source_channel": "agent_referral",
     "pre_approval_date": "2026-06-20",
     "payment_milestones": [
@@ -4800,7 +4800,7 @@
         "entered_at": "2026-07-11"
       }
     ],
-    "assigned_rm": "Omar Haddad",
+    "assigned_rm": "Adriell Arcellana",
     "source_channel": "concierge",
     "pre_approval_date": "2026-07-09",
     "payment_milestones": null,
@@ -4900,7 +4900,7 @@
         "entered_at": "2026-07-06"
       }
     ],
-    "assigned_rm": "Aisha Rahman",
+    "assigned_rm": "Chaz Cott",
     "source_channel": "concierge",
     "pre_approval_date": "2026-06-13",
     "payment_milestones": [
@@ -5027,7 +5027,7 @@
         "entered_at": "2026-07-11"
       }
     ],
-    "assigned_rm": "James Whitfield",
+    "assigned_rm": "Wajeeh Sayeed",
     "source_channel": "agent_referral",
     "pre_approval_date": "2026-07-13",
     "payment_milestones": [
@@ -5130,7 +5130,7 @@
         "entered_at": "2026-07-17"
       }
     ],
-    "assigned_rm": "Daniel Costa",
+    "assigned_rm": "April Dagdagan",
     "source_channel": "agent_referral",
     "pre_approval_date": "2026-06-23",
     "payment_milestones": [
@@ -5255,7 +5255,7 @@
         "entered_at": "2026-07-17"
       }
     ],
-    "assigned_rm": "Omar Haddad",
+    "assigned_rm": "Adriell Arcellana",
     "source_channel": "paid",
     "pre_approval_date": "2026-06-29",
     "payment_milestones": null,
@@ -5353,7 +5353,7 @@
         "entered_at": "2026-07-14"
       }
     ],
-    "assigned_rm": "Priya Nair",
+    "assigned_rm": "Emma Jackson",
     "source_channel": "agent_referral",
     "pre_approval_date": "2026-06-26",
     "payment_milestones": null,
@@ -5471,7 +5471,7 @@
         "entered_at": "2026-07-15"
       }
     ],
-    "assigned_rm": "Omar Haddad",
+    "assigned_rm": "Adriell Arcellana",
     "source_channel": "concierge",
     "pre_approval_date": "2026-07-05",
     "payment_milestones": [
@@ -5579,7 +5579,7 @@
         "entered_at": "2026-07-13"
       }
     ],
-    "assigned_rm": "Fatima Al Suwaidi",
+    "assigned_rm": "Alex Sammy",
     "source_channel": "paid",
     "pre_approval_date": "2026-07-10",
     "payment_milestones": [
@@ -5702,7 +5702,7 @@
         "entered_at": "2026-07-15"
       }
     ],
-    "assigned_rm": "Omar Haddad",
+    "assigned_rm": "Adriell Arcellana",
     "source_channel": "concierge",
     "pre_approval_date": "2026-06-26",
     "payment_milestones": null,
@@ -5796,7 +5796,7 @@
         "entered_at": "2026-07-17"
       }
     ],
-    "assigned_rm": "James Whitfield",
+    "assigned_rm": "Wajeeh Sayeed",
     "source_channel": "paid",
     "pre_approval_date": null,
     "payment_milestones": null,
@@ -5900,7 +5900,7 @@
         "entered_at": "2026-07-13"
       }
     ],
-    "assigned_rm": "Fatima Al Suwaidi",
+    "assigned_rm": "Alex Sammy",
     "source_channel": "organic",
     "pre_approval_date": "2026-07-15",
     "payment_milestones": null,
@@ -6014,7 +6014,7 @@
         "entered_at": "2026-07-10"
       }
     ],
-    "assigned_rm": "Omar Haddad",
+    "assigned_rm": "Adriell Arcellana",
     "source_channel": "paid",
     "pre_approval_date": "2026-07-14",
     "payment_milestones": null,
@@ -6134,7 +6134,7 @@
         "entered_at": "2026-07-15"
       }
     ],
-    "assigned_rm": "Omar Haddad",
+    "assigned_rm": "Adriell Arcellana",
     "source_channel": "concierge",
     "pre_approval_date": "2026-06-16",
     "payment_milestones": null,
@@ -6249,7 +6249,7 @@
         "entered_at": "2026-06-29"
       }
     ],
-    "assigned_rm": "Omar Haddad",
+    "assigned_rm": "Adriell Arcellana",
     "source_channel": "agent_referral",
     "pre_approval_date": "2026-06-26",
     "payment_milestones": null,
@@ -6357,7 +6357,7 @@
         "entered_at": "2026-07-15"
       }
     ],
-    "assigned_rm": "Aisha Rahman",
+    "assigned_rm": "Chaz Cott",
     "source_channel": "concierge",
     "pre_approval_date": "2026-06-23",
     "payment_milestones": null,
@@ -6475,7 +6475,7 @@
         "entered_at": "2026-07-12"
       }
     ],
-    "assigned_rm": "Priya Nair",
+    "assigned_rm": "Emma Jackson",
     "source_channel": "concierge",
     "pre_approval_date": "2026-06-29",
     "payment_milestones": null,
@@ -6581,7 +6581,7 @@
         "entered_at": "2026-07-11"
       }
     ],
-    "assigned_rm": "Fatima Al Suwaidi",
+    "assigned_rm": "Alex Sammy",
     "source_channel": "agent_referral",
     "pre_approval_date": "2026-07-02",
     "payment_milestones": null,
@@ -6687,7 +6687,7 @@
         "entered_at": "2026-06-28"
       }
     ],
-    "assigned_rm": "Priya Nair",
+    "assigned_rm": "Emma Jackson",
     "source_channel": "paid",
     "pre_approval_date": "2026-06-26",
     "payment_milestones": null,
@@ -6781,7 +6781,7 @@
         "entered_at": "2026-07-13"
       }
     ],
-    "assigned_rm": "James Whitfield",
+    "assigned_rm": "Wajeeh Sayeed",
     "source_channel": "paid",
     "pre_approval_date": "2026-06-16",
     "payment_milestones": null,
@@ -6905,7 +6905,7 @@
         "entered_at": "2026-05-15"
       }
     ],
-    "assigned_rm": "James Whitfield",
+    "assigned_rm": "Wajeeh Sayeed",
     "source_channel": "agent_referral",
     "pre_approval_date": "2026-06-29",
     "payment_milestones": null,
@@ -6987,7 +6987,7 @@
         "entered_at": "2026-07-17"
       }
     ],
-    "assigned_rm": "Priya Nair",
+    "assigned_rm": "Emma Jackson",
     "source_channel": "agent_referral",
     "pre_approval_date": null,
     "payment_milestones": null,
@@ -7099,7 +7099,7 @@
         "entered_at": "2026-07-12"
       }
     ],
-    "assigned_rm": "Omar Haddad",
+    "assigned_rm": "Adriell Arcellana",
     "source_channel": "paid",
     "pre_approval_date": "2026-06-15",
     "payment_milestones": [
@@ -7222,7 +7222,7 @@
         "entered_at": "2026-06-10"
       }
     ],
-    "assigned_rm": "Priya Nair",
+    "assigned_rm": "Emma Jackson",
     "source_channel": "organic",
     "pre_approval_date": "2026-06-22",
     "payment_milestones": null,
@@ -7330,7 +7330,7 @@
         "entered_at": "2026-07-11"
       }
     ],
-    "assigned_rm": "James Whitfield",
+    "assigned_rm": "Wajeeh Sayeed",
     "source_channel": "organic",
     "pre_approval_date": "2026-06-17",
     "payment_milestones": [
@@ -7432,7 +7432,7 @@
         "entered_at": "2026-07-17"
       }
     ],
-    "assigned_rm": "Omar Haddad",
+    "assigned_rm": "Adriell Arcellana",
     "source_channel": "agent_referral",
     "pre_approval_date": "2026-07-08",
     "payment_milestones": null,
@@ -7530,7 +7530,7 @@
         "entered_at": "2026-07-14"
       }
     ],
-    "assigned_rm": "Fatima Al Suwaidi",
+    "assigned_rm": "Alex Sammy",
     "source_channel": "organic",
     "pre_approval_date": "2026-05-26",
     "payment_milestones": null,
@@ -7610,7 +7610,7 @@
         "entered_at": "2026-07-16"
       }
     ],
-    "assigned_rm": "Omar Haddad",
+    "assigned_rm": "Adriell Arcellana",
     "source_channel": "concierge",
     "pre_approval_date": "2026-06-21",
     "payment_milestones": [
@@ -7741,7 +7741,7 @@
         "entered_at": "2026-07-12"
       }
     ],
-    "assigned_rm": "Priya Nair",
+    "assigned_rm": "Emma Jackson",
     "source_channel": "agent_referral",
     "pre_approval_date": "2026-07-08",
     "payment_milestones": null,
@@ -7863,7 +7863,7 @@
         "entered_at": "2026-07-13"
       }
     ],
-    "assigned_rm": "Omar Haddad",
+    "assigned_rm": "Adriell Arcellana",
     "source_channel": "organic",
     "pre_approval_date": "2026-07-05",
     "payment_milestones": null,
@@ -7978,7 +7978,7 @@
         "entered_at": "2026-07-14"
       }
     ],
-    "assigned_rm": "James Whitfield",
+    "assigned_rm": "Wajeeh Sayeed",
     "source_channel": "organic",
     "pre_approval_date": "2026-07-14",
     "payment_milestones": null,
@@ -8088,7 +8088,7 @@
         "entered_at": "2026-07-10"
       }
     ],
-    "assigned_rm": "Fatima Al Suwaidi",
+    "assigned_rm": "Alex Sammy",
     "source_channel": "organic",
     "pre_approval_date": "2026-06-11",
     "payment_milestones": [
@@ -8193,7 +8193,7 @@
         "entered_at": "2026-07-12"
       }
     ],
-    "assigned_rm": "Daniel Costa",
+    "assigned_rm": "April Dagdagan",
     "source_channel": "agent_referral",
     "pre_approval_date": "2026-06-30",
     "payment_milestones": null,
@@ -8301,7 +8301,7 @@
         "entered_at": "2026-07-09"
       }
     ],
-    "assigned_rm": "Fatima Al Suwaidi",
+    "assigned_rm": "Alex Sammy",
     "source_channel": "organic",
     "pre_approval_date": "2026-07-17",
     "payment_milestones": null,
@@ -8399,7 +8399,7 @@
         "entered_at": "2026-07-14"
       }
     ],
-    "assigned_rm": "Daniel Costa",
+    "assigned_rm": "April Dagdagan",
     "source_channel": "paid",
     "pre_approval_date": "2026-07-12",
     "payment_milestones": null,
@@ -8501,7 +8501,7 @@
         "entered_at": "2026-07-13"
       }
     ],
-    "assigned_rm": "James Whitfield",
+    "assigned_rm": "Wajeeh Sayeed",
     "source_channel": "organic",
     "pre_approval_date": "2026-06-30",
     "payment_milestones": [
@@ -8616,7 +8616,7 @@
         "entered_at": "2026-07-11"
       }
     ],
-    "assigned_rm": "Aisha Rahman",
+    "assigned_rm": "Chaz Cott",
     "source_channel": "concierge",
     "pre_approval_date": "2026-06-10",
     "payment_milestones": null,
@@ -8738,7 +8738,7 @@
         "entered_at": "2026-07-17"
       }
     ],
-    "assigned_rm": "James Whitfield",
+    "assigned_rm": "Wajeeh Sayeed",
     "source_channel": "organic",
     "pre_approval_date": "2026-06-30",
     "payment_milestones": [
@@ -8863,7 +8863,7 @@
         "entered_at": "2026-07-14"
       }
     ],
-    "assigned_rm": "Aisha Rahman",
+    "assigned_rm": "Chaz Cott",
     "source_channel": "agent_referral",
     "pre_approval_date": "2026-06-26",
     "payment_milestones": [
@@ -8984,7 +8984,7 @@
         "entered_at": "2026-06-13"
       }
     ],
-    "assigned_rm": "Fatima Al Suwaidi",
+    "assigned_rm": "Alex Sammy",
     "source_channel": "organic",
     "pre_approval_date": "2026-06-20",
     "payment_milestones": [
@@ -9085,7 +9085,7 @@
         "entered_at": "2026-07-14"
       }
     ],
-    "assigned_rm": "Priya Nair",
+    "assigned_rm": "Emma Jackson",
     "source_channel": "concierge",
     "pre_approval_date": "2026-07-17",
     "payment_milestones": [
@@ -9202,7 +9202,7 @@
         "entered_at": "2026-07-16"
       }
     ],
-    "assigned_rm": "Priya Nair",
+    "assigned_rm": "Emma Jackson",
     "source_channel": "paid",
     "pre_approval_date": "2026-06-23",
     "payment_milestones": null,
@@ -9296,7 +9296,7 @@
         "entered_at": "2026-07-16"
       }
     ],
-    "assigned_rm": "Daniel Costa",
+    "assigned_rm": "April Dagdagan",
     "source_channel": "concierge",
     "pre_approval_date": "2026-06-11",
     "payment_milestones": null,
@@ -9398,7 +9398,7 @@
         "entered_at": "2026-07-15"
       }
     ],
-    "assigned_rm": "Priya Nair",
+    "assigned_rm": "Emma Jackson",
     "source_channel": "paid",
     "pre_approval_date": "2026-07-13",
     "payment_milestones": [
@@ -9521,7 +9521,7 @@
         "entered_at": "2026-07-17"
       }
     ],
-    "assigned_rm": "Omar Haddad",
+    "assigned_rm": "Adriell Arcellana",
     "source_channel": "paid",
     "pre_approval_date": "2026-07-16",
     "payment_milestones": null,
@@ -9618,7 +9618,7 @@
         "entered_at": "2026-07-10"
       }
     ],
-    "assigned_rm": "Aisha Rahman",
+    "assigned_rm": "Chaz Cott",
     "source_channel": "organic",
     "pre_approval_date": "2026-06-24",
     "payment_milestones": null,
@@ -9720,7 +9720,7 @@
         "entered_at": "2026-07-11"
       }
     ],
-    "assigned_rm": "Fatima Al Suwaidi",
+    "assigned_rm": "Alex Sammy",
     "source_channel": "organic",
     "pre_approval_date": "2026-07-01",
     "payment_milestones": null,
@@ -9818,7 +9818,7 @@
         "entered_at": "2026-07-15"
       }
     ],
-    "assigned_rm": "Omar Haddad",
+    "assigned_rm": "Adriell Arcellana",
     "source_channel": "agent_referral",
     "pre_approval_date": "2026-06-22",
     "payment_milestones": null,
@@ -9928,7 +9928,7 @@
         "entered_at": "2026-07-12"
       }
     ],
-    "assigned_rm": "Omar Haddad",
+    "assigned_rm": "Adriell Arcellana",
     "source_channel": "organic",
     "pre_approval_date": "2026-07-10",
     "payment_milestones": null,
@@ -10026,7 +10026,7 @@
         "entered_at": "2026-07-13"
       }
     ],
-    "assigned_rm": "Omar Haddad",
+    "assigned_rm": "Adriell Arcellana",
     "source_channel": "organic",
     "pre_approval_date": "2026-06-17",
     "payment_milestones": null,
@@ -10136,7 +10136,7 @@
         "entered_at": "2026-07-13"
       }
     ],
-    "assigned_rm": "Omar Haddad",
+    "assigned_rm": "Adriell Arcellana",
     "source_channel": "organic",
     "pre_approval_date": "2026-06-16",
     "payment_milestones": null,
@@ -10252,7 +10252,7 @@
         "entered_at": "2026-05-29"
       }
     ],
-    "assigned_rm": "Aisha Rahman",
+    "assigned_rm": "Chaz Cott",
     "source_channel": "organic",
     "pre_approval_date": "2026-06-29",
     "payment_milestones": null,
@@ -10372,7 +10372,7 @@
         "entered_at": "2026-07-15"
       }
     ],
-    "assigned_rm": "Priya Nair",
+    "assigned_rm": "Emma Jackson",
     "source_channel": "concierge",
     "pre_approval_date": "2026-06-17",
     "payment_milestones": [
@@ -10501,7 +10501,7 @@
         "entered_at": "2026-05-27"
       }
     ],
-    "assigned_rm": "Daniel Costa",
+    "assigned_rm": "April Dagdagan",
     "source_channel": "concierge",
     "pre_approval_date": "2026-07-09",
     "payment_milestones": null,
@@ -10583,7 +10583,7 @@
         "entered_at": "2026-07-11"
       }
     ],
-    "assigned_rm": "Daniel Costa",
+    "assigned_rm": "April Dagdagan",
     "source_channel": "agent_referral",
     "pre_approval_date": null,
     "payment_milestones": null,
@@ -10697,7 +10697,7 @@
         "entered_at": "2026-06-02"
       }
     ],
-    "assigned_rm": "Daniel Costa",
+    "assigned_rm": "April Dagdagan",
     "source_channel": "concierge",
     "pre_approval_date": "2026-06-27",
     "payment_milestones": [
@@ -10801,7 +10801,7 @@
         "entered_at": "2026-07-13"
       }
     ],
-    "assigned_rm": "Fatima Al Suwaidi",
+    "assigned_rm": "Alex Sammy",
     "source_channel": "agent_referral",
     "pre_approval_date": "2026-06-12",
     "payment_milestones": null,
@@ -10913,7 +10913,7 @@
         "entered_at": "2026-07-06"
       }
     ],
-    "assigned_rm": "Aisha Rahman",
+    "assigned_rm": "Chaz Cott",
     "source_channel": "concierge",
     "pre_approval_date": "2026-06-12",
     "payment_milestones": [
@@ -11018,7 +11018,7 @@
         "entered_at": "2026-07-08"
       }
     ],
-    "assigned_rm": "Fatima Al Suwaidi",
+    "assigned_rm": "Alex Sammy",
     "source_channel": "concierge",
     "pre_approval_date": "2026-06-28",
     "payment_milestones": [
@@ -11127,7 +11127,7 @@
         "entered_at": "2026-07-10"
       }
     ],
-    "assigned_rm": "Aisha Rahman",
+    "assigned_rm": "Chaz Cott",
     "source_channel": "organic",
     "pre_approval_date": "2026-07-16",
     "payment_milestones": [
@@ -11230,7 +11230,7 @@
         "entered_at": "2026-07-10"
       }
     ],
-    "assigned_rm": "Aisha Rahman",
+    "assigned_rm": "Chaz Cott",
     "source_channel": "agent_referral",
     "pre_approval_date": "2026-06-20",
     "payment_milestones": [
@@ -11359,7 +11359,7 @@
         "entered_at": "2026-07-13"
       }
     ],
-    "assigned_rm": "Aisha Rahman",
+    "assigned_rm": "Chaz Cott",
     "source_channel": "agent_referral",
     "pre_approval_date": "2026-06-14",
     "payment_milestones": [
@@ -11482,7 +11482,7 @@
         "entered_at": "2026-07-15"
       }
     ],
-    "assigned_rm": "Priya Nair",
+    "assigned_rm": "Emma Jackson",
     "source_channel": "concierge",
     "pre_approval_date": "2026-06-17",
     "payment_milestones": [
@@ -11611,7 +11611,7 @@
         "entered_at": "2026-07-16"
       }
     ],
-    "assigned_rm": "Daniel Costa",
+    "assigned_rm": "April Dagdagan",
     "source_channel": "paid",
     "pre_approval_date": "2026-06-11",
     "payment_milestones": null,
@@ -11720,7 +11720,7 @@
         "entered_at": "2026-07-15"
       }
     ],
-    "assigned_rm": "Daniel Costa",
+    "assigned_rm": "April Dagdagan",
     "source_channel": "paid",
     "pre_approval_date": "2026-06-21",
     "payment_milestones": null,
@@ -11818,7 +11818,7 @@
         "entered_at": "2026-07-12"
       }
     ],
-    "assigned_rm": "Omar Haddad",
+    "assigned_rm": "Adriell Arcellana",
     "source_channel": "paid",
     "pre_approval_date": "2026-07-10",
     "payment_milestones": null,
@@ -11932,7 +11932,7 @@
         "entered_at": "2026-07-16"
       }
     ],
-    "assigned_rm": "Fatima Al Suwaidi",
+    "assigned_rm": "Alex Sammy",
     "source_channel": "agent_referral",
     "pre_approval_date": "2026-06-24",
     "payment_milestones": null,
@@ -12051,7 +12051,7 @@
         "entered_at": "2026-07-09"
       }
     ],
-    "assigned_rm": "James Whitfield",
+    "assigned_rm": "Wajeeh Sayeed",
     "source_channel": "organic",
     "pre_approval_date": "2026-07-07",
     "payment_milestones": [
@@ -12148,7 +12148,7 @@
         "entered_at": "2026-07-13"
       }
     ],
-    "assigned_rm": "Aisha Rahman",
+    "assigned_rm": "Chaz Cott",
     "source_channel": "paid",
     "pre_approval_date": "2026-07-12",
     "payment_milestones": null,
@@ -12240,7 +12240,7 @@
         "entered_at": "2026-07-09"
       }
     ],
-    "assigned_rm": "Omar Haddad",
+    "assigned_rm": "Adriell Arcellana",
     "source_channel": "organic",
     "pre_approval_date": null,
     "payment_milestones": null,
@@ -12348,7 +12348,7 @@
         "entered_at": "2026-07-13"
       }
     ],
-    "assigned_rm": "Priya Nair",
+    "assigned_rm": "Emma Jackson",
     "source_channel": "organic",
     "pre_approval_date": "2026-07-05",
     "payment_milestones": null,
@@ -12446,7 +12446,7 @@
         "entered_at": "2026-07-17"
       }
     ],
-    "assigned_rm": "James Whitfield",
+    "assigned_rm": "Wajeeh Sayeed",
     "source_channel": "paid",
     "pre_approval_date": "2026-07-01",
     "payment_milestones": [
@@ -12553,7 +12553,7 @@
         "entered_at": "2026-07-13"
       }
     ],
-    "assigned_rm": "Priya Nair",
+    "assigned_rm": "Emma Jackson",
     "source_channel": "concierge",
     "pre_approval_date": "2026-07-04",
     "payment_milestones": null,
@@ -12637,7 +12637,7 @@
         "entered_at": "2026-07-04"
       }
     ],
-    "assigned_rm": "Fatima Al Suwaidi",
+    "assigned_rm": "Alex Sammy",
     "source_channel": "paid",
     "pre_approval_date": "2026-06-10",
     "payment_milestones": [
@@ -12742,7 +12742,7 @@
         "entered_at": "2026-07-12"
       }
     ],
-    "assigned_rm": "Fatima Al Suwaidi",
+    "assigned_rm": "Alex Sammy",
     "source_channel": "paid",
     "pre_approval_date": "2026-06-30",
     "payment_milestones": [
@@ -12867,7 +12867,7 @@
         "entered_at": "2026-07-10"
       }
     ],
-    "assigned_rm": "Fatima Al Suwaidi",
+    "assigned_rm": "Alex Sammy",
     "source_channel": "concierge",
     "pre_approval_date": "2026-06-11",
     "payment_milestones": null,
@@ -12961,7 +12961,7 @@
         "entered_at": "2026-07-17"
       }
     ],
-    "assigned_rm": "James Whitfield",
+    "assigned_rm": "Wajeeh Sayeed",
     "source_channel": "concierge",
     "pre_approval_date": "2026-06-17",
     "payment_milestones": [
@@ -13066,7 +13066,7 @@
         "entered_at": "2026-07-13"
       }
     ],
-    "assigned_rm": "Omar Haddad",
+    "assigned_rm": "Adriell Arcellana",
     "source_channel": "organic",
     "pre_approval_date": null,
     "payment_milestones": [
@@ -13203,7 +13203,7 @@
         "entered_at": "2026-07-13"
       }
     ],
-    "assigned_rm": "Aisha Rahman",
+    "assigned_rm": "Chaz Cott",
     "source_channel": "paid",
     "pre_approval_date": "2026-07-07",
     "payment_milestones": [
@@ -13328,7 +13328,7 @@
         "entered_at": "2026-07-12"
       }
     ],
-    "assigned_rm": "Priya Nair",
+    "assigned_rm": "Emma Jackson",
     "source_channel": "organic",
     "pre_approval_date": "2026-07-11",
     "payment_milestones": [
@@ -13437,7 +13437,7 @@
         "entered_at": "2026-07-13"
       }
     ],
-    "assigned_rm": "James Whitfield",
+    "assigned_rm": "Wajeeh Sayeed",
     "source_channel": "agent_referral",
     "pre_approval_date": "2026-06-02",
     "payment_milestones": null,
@@ -13535,7 +13535,7 @@
         "entered_at": "2026-07-11"
       }
     ],
-    "assigned_rm": "James Whitfield",
+    "assigned_rm": "Wajeeh Sayeed",
     "source_channel": "paid",
     "pre_approval_date": "2026-07-14",
     "payment_milestones": [
@@ -13646,7 +13646,7 @@
         "entered_at": "2026-07-05"
       }
     ],
-    "assigned_rm": "Daniel Costa",
+    "assigned_rm": "April Dagdagan",
     "source_channel": "concierge",
     "pre_approval_date": "2026-07-11",
     "payment_milestones": null,
@@ -13730,7 +13730,7 @@
         "entered_at": "2026-07-10"
       }
     ],
-    "assigned_rm": "Daniel Costa",
+    "assigned_rm": "April Dagdagan",
     "source_channel": "concierge",
     "pre_approval_date": "2026-06-14",
     "payment_milestones": [
@@ -13841,7 +13841,7 @@
         "entered_at": "2026-07-14"
       }
     ],
-    "assigned_rm": "Fatima Al Suwaidi",
+    "assigned_rm": "Alex Sammy",
     "source_channel": "organic",
     "pre_approval_date": "2026-07-16",
     "payment_milestones": null,
@@ -13943,7 +13943,7 @@
         "entered_at": "2026-07-14"
       }
     ],
-    "assigned_rm": "Daniel Costa",
+    "assigned_rm": "April Dagdagan",
     "source_channel": "concierge",
     "pre_approval_date": "2026-07-03",
     "payment_milestones": [
@@ -14048,7 +14048,7 @@
         "entered_at": "2026-07-15"
       }
     ],
-    "assigned_rm": "Aisha Rahman",
+    "assigned_rm": "Chaz Cott",
     "source_channel": "paid",
     "pre_approval_date": "2026-07-04",
     "payment_milestones": null,
@@ -14162,7 +14162,7 @@
         "entered_at": "2026-07-11"
       }
     ],
-    "assigned_rm": "Omar Haddad",
+    "assigned_rm": "Adriell Arcellana",
     "source_channel": "concierge",
     "pre_approval_date": "2026-06-27",
     "payment_milestones": null,
@@ -14282,7 +14282,7 @@
         "entered_at": "2026-07-03"
       }
     ],
-    "assigned_rm": "Daniel Costa",
+    "assigned_rm": "April Dagdagan",
     "source_channel": "concierge",
     "pre_approval_date": "2026-07-07",
     "payment_milestones": null,
@@ -14376,7 +14376,7 @@
         "entered_at": "2026-07-16"
       }
     ],
-    "assigned_rm": "Fatima Al Suwaidi",
+    "assigned_rm": "Alex Sammy",
     "source_channel": "agent_referral",
     "pre_approval_date": "2026-07-07",
     "payment_milestones": [
@@ -14473,7 +14473,7 @@
         "entered_at": "2026-07-15"
       }
     ],
-    "assigned_rm": "Omar Haddad",
+    "assigned_rm": "Adriell Arcellana",
     "source_channel": "concierge",
     "pre_approval_date": null,
     "payment_milestones": [
@@ -14602,7 +14602,7 @@
         "entered_at": "2026-07-10"
       }
     ],
-    "assigned_rm": "Omar Haddad",
+    "assigned_rm": "Adriell Arcellana",
     "source_channel": "organic",
     "pre_approval_date": "2026-07-07",
     "payment_milestones": null,
@@ -14715,7 +14715,7 @@
         "entered_at": "2026-07-11"
       }
     ],
-    "assigned_rm": "Daniel Costa",
+    "assigned_rm": "April Dagdagan",
     "source_channel": "organic",
     "pre_approval_date": "2026-06-18",
     "payment_milestones": [
@@ -14836,7 +14836,7 @@
         "entered_at": "2026-07-15"
       }
     ],
-    "assigned_rm": "Daniel Costa",
+    "assigned_rm": "April Dagdagan",
     "source_channel": "organic",
     "pre_approval_date": "2026-07-01",
     "payment_milestones": [
@@ -14935,7 +14935,7 @@
         "entered_at": "2026-07-10"
       }
     ],
-    "assigned_rm": "Fatima Al Suwaidi",
+    "assigned_rm": "Alex Sammy",
     "source_channel": "agent_referral",
     "pre_approval_date": "2026-06-18",
     "payment_milestones": null,
@@ -15037,7 +15037,7 @@
         "entered_at": "2026-07-12"
       }
     ],
-    "assigned_rm": "Priya Nair",
+    "assigned_rm": "Emma Jackson",
     "source_channel": "agent_referral",
     "pre_approval_date": "2026-06-23",
     "payment_milestones": null,
@@ -15143,7 +15143,7 @@
         "entered_at": "2026-07-10"
       }
     ],
-    "assigned_rm": "James Whitfield",
+    "assigned_rm": "Wajeeh Sayeed",
     "source_channel": "organic",
     "pre_approval_date": "2026-07-10",
     "payment_milestones": null,
@@ -15233,7 +15233,7 @@
         "entered_at": "2026-07-10"
       }
     ],
-    "assigned_rm": "Priya Nair",
+    "assigned_rm": "Emma Jackson",
     "source_channel": "paid",
     "pre_approval_date": "2026-05-24",
     "payment_milestones": null,
@@ -15333,7 +15333,7 @@
         "entered_at": "2026-07-12"
       }
     ],
-    "assigned_rm": "Omar Haddad",
+    "assigned_rm": "Adriell Arcellana",
     "source_channel": "concierge",
     "pre_approval_date": "2026-06-15",
     "payment_milestones": null,
@@ -15459,7 +15459,7 @@
         "entered_at": "2026-07-09"
       }
     ],
-    "assigned_rm": "Aisha Rahman",
+    "assigned_rm": "Chaz Cott",
     "source_channel": "concierge",
     "pre_approval_date": "2026-06-17",
     "payment_milestones": [
@@ -15592,7 +15592,7 @@
         "entered_at": "2026-06-28"
       }
     ],
-    "assigned_rm": "Aisha Rahman",
+    "assigned_rm": "Chaz Cott",
     "source_channel": "paid",
     "pre_approval_date": "2026-06-14",
     "payment_milestones": null,
@@ -15688,7 +15688,7 @@
         "entered_at": "2026-07-16"
       }
     ],
-    "assigned_rm": "Fatima Al Suwaidi",
+    "assigned_rm": "Alex Sammy",
     "source_channel": "organic",
     "pre_approval_date": "2026-06-23",
     "payment_milestones": [
@@ -15817,7 +15817,7 @@
         "entered_at": "2026-07-10"
       }
     ],
-    "assigned_rm": "Daniel Costa",
+    "assigned_rm": "April Dagdagan",
     "source_channel": "agent_referral",
     "pre_approval_date": "2026-06-11",
     "payment_milestones": [
@@ -15926,7 +15926,7 @@
         "entered_at": "2026-07-16"
       }
     ],
-    "assigned_rm": "Omar Haddad",
+    "assigned_rm": "Adriell Arcellana",
     "source_channel": "agent_referral",
     "pre_approval_date": "2026-06-16",
     "payment_milestones": [
@@ -16051,7 +16051,7 @@
         "entered_at": "2026-07-09"
       }
     ],
-    "assigned_rm": "Aisha Rahman",
+    "assigned_rm": "Chaz Cott",
     "source_channel": "concierge",
     "pre_approval_date": "2026-07-04",
     "payment_milestones": null,
@@ -16125,7 +16125,7 @@
         "entered_at": "2026-07-10"
       }
     ],
-    "assigned_rm": "Aisha Rahman",
+    "assigned_rm": "Chaz Cott",
     "source_channel": "organic",
     "pre_approval_date": null,
     "payment_milestones": [
@@ -16244,7 +16244,7 @@
         "entered_at": "2026-07-14"
       }
     ],
-    "assigned_rm": "Aisha Rahman",
+    "assigned_rm": "Chaz Cott",
     "source_channel": "paid",
     "pre_approval_date": "2026-06-18",
     "payment_milestones": null,
@@ -16356,7 +16356,7 @@
         "entered_at": "2026-07-14"
       }
     ],
-    "assigned_rm": "Priya Nair",
+    "assigned_rm": "Emma Jackson",
     "source_channel": "paid",
     "pre_approval_date": "2026-06-11",
     "payment_milestones": [
@@ -16459,7 +16459,7 @@
         "entered_at": "2026-07-11"
       }
     ],
-    "assigned_rm": "Fatima Al Suwaidi",
+    "assigned_rm": "Alex Sammy",
     "source_channel": "paid",
     "pre_approval_date": "2026-07-16",
     "payment_milestones": [
@@ -16570,7 +16570,7 @@
         "entered_at": "2026-07-14"
       }
     ],
-    "assigned_rm": "Daniel Costa",
+    "assigned_rm": "April Dagdagan",
     "source_channel": "agent_referral",
     "pre_approval_date": "2026-07-06",
     "payment_milestones": null,
@@ -16660,7 +16660,7 @@
         "entered_at": "2026-07-12"
       }
     ],
-    "assigned_rm": "Priya Nair",
+    "assigned_rm": "Emma Jackson",
     "source_channel": "organic",
     "pre_approval_date": null,
     "payment_milestones": [
@@ -16765,7 +16765,7 @@
         "entered_at": "2026-07-16"
       }
     ],
-    "assigned_rm": "Fatima Al Suwaidi",
+    "assigned_rm": "Alex Sammy",
     "source_channel": "agent_referral",
     "pre_approval_date": null,
     "payment_milestones": [
@@ -16894,7 +16894,7 @@
         "entered_at": "2026-07-14"
       }
     ],
-    "assigned_rm": "Omar Haddad",
+    "assigned_rm": "Adriell Arcellana",
     "source_channel": "concierge",
     "pre_approval_date": "2026-07-16",
     "payment_milestones": null,
@@ -17020,7 +17020,7 @@
         "entered_at": "2026-07-15"
       }
     ],
-    "assigned_rm": "Fatima Al Suwaidi",
+    "assigned_rm": "Alex Sammy",
     "source_channel": "agent_referral",
     "pre_approval_date": "2026-07-04",
     "payment_milestones": null,
@@ -17151,7 +17151,7 @@
         "entered_at": "2026-07-12"
       }
     ],
-    "assigned_rm": "Priya Nair",
+    "assigned_rm": "Emma Jackson",
     "source_channel": "paid",
     "pre_approval_date": "2026-06-27",
     "payment_milestones": [
@@ -17270,7 +17270,7 @@
         "entered_at": "2026-06-15"
       }
     ],
-    "assigned_rm": "Aisha Rahman",
+    "assigned_rm": "Chaz Cott",
     "source_channel": "agent_referral",
     "pre_approval_date": "2026-06-10",
     "payment_milestones": [
@@ -17369,7 +17369,7 @@
         "entered_at": "2026-07-15"
       }
     ],
-    "assigned_rm": "Aisha Rahman",
+    "assigned_rm": "Chaz Cott",
     "source_channel": "organic",
     "pre_approval_date": null,
     "payment_milestones": null,
@@ -17497,7 +17497,7 @@
         "entered_at": "2026-07-09"
       }
     ],
-    "assigned_rm": "Omar Haddad",
+    "assigned_rm": "Adriell Arcellana",
     "source_channel": "paid",
     "pre_approval_date": "2026-07-02",
     "payment_milestones": null,
@@ -17624,7 +17624,7 @@
         "entered_at": "2026-05-28"
       }
     ],
-    "assigned_rm": "James Whitfield",
+    "assigned_rm": "Wajeeh Sayeed",
     "source_channel": "organic",
     "pre_approval_date": "2026-07-12",
     "payment_milestones": null,
@@ -17731,7 +17731,7 @@
         "entered_at": "2026-07-13"
       }
     ],
-    "assigned_rm": "James Whitfield",
+    "assigned_rm": "Wajeeh Sayeed",
     "source_channel": "concierge",
     "pre_approval_date": "2026-07-09",
     "payment_milestones": [
@@ -17836,7 +17836,7 @@
         "entered_at": "2026-07-15"
       }
     ],
-    "assigned_rm": "Priya Nair",
+    "assigned_rm": "Emma Jackson",
     "source_channel": "agent_referral",
     "pre_approval_date": "2026-06-30",
     "payment_milestones": null,
@@ -17950,7 +17950,7 @@
         "entered_at": "2026-07-12"
       }
     ],
-    "assigned_rm": "Omar Haddad",
+    "assigned_rm": "Adriell Arcellana",
     "source_channel": "agent_referral",
     "pre_approval_date": "2026-06-22",
     "payment_milestones": null,
@@ -18081,7 +18081,7 @@
         "entered_at": "2026-07-10"
       }
     ],
-    "assigned_rm": "Priya Nair",
+    "assigned_rm": "Emma Jackson",
     "source_channel": "paid",
     "pre_approval_date": "2026-07-12",
     "payment_milestones": null,
@@ -18194,7 +18194,7 @@
         "entered_at": "2026-07-09"
       }
     ],
-    "assigned_rm": "Aisha Rahman",
+    "assigned_rm": "Chaz Cott",
     "source_channel": "concierge",
     "pre_approval_date": "2026-07-05",
     "payment_milestones": null,
@@ -18301,7 +18301,7 @@
         "entered_at": "2026-07-09"
       }
     ],
-    "assigned_rm": "James Whitfield",
+    "assigned_rm": "Wajeeh Sayeed",
     "source_channel": "agent_referral",
     "pre_approval_date": "2026-07-04",
     "payment_milestones": [
@@ -18414,7 +18414,7 @@
         "entered_at": "2026-07-14"
       }
     ],
-    "assigned_rm": "Fatima Al Suwaidi",
+    "assigned_rm": "Alex Sammy",
     "source_channel": "concierge",
     "pre_approval_date": "2026-06-14",
     "payment_milestones": [
@@ -18537,7 +18537,7 @@
         "entered_at": "2026-07-12"
       }
     ],
-    "assigned_rm": "Omar Haddad",
+    "assigned_rm": "Adriell Arcellana",
     "source_channel": "organic",
     "pre_approval_date": "2026-06-19",
     "payment_milestones": null,
@@ -18649,7 +18649,7 @@
         "entered_at": "2026-07-14"
       }
     ],
-    "assigned_rm": "Priya Nair",
+    "assigned_rm": "Emma Jackson",
     "source_channel": "agent_referral",
     "pre_approval_date": "2026-06-26",
     "payment_milestones": [
@@ -18758,7 +18758,7 @@
         "entered_at": "2026-07-15"
       }
     ],
-    "assigned_rm": "Omar Haddad",
+    "assigned_rm": "Adriell Arcellana",
     "source_channel": "paid",
     "pre_approval_date": "2026-06-16",
     "payment_milestones": null,
@@ -18872,7 +18872,7 @@
         "entered_at": "2026-05-17"
       }
     ],
-    "assigned_rm": "Priya Nair",
+    "assigned_rm": "Emma Jackson",
     "source_channel": "paid",
     "pre_approval_date": "2026-07-07",
     "payment_milestones": [
@@ -18971,7 +18971,7 @@
         "entered_at": "2026-07-16"
       }
     ],
-    "assigned_rm": "Omar Haddad",
+    "assigned_rm": "Adriell Arcellana",
     "source_channel": "paid",
     "pre_approval_date": "2026-06-24",
     "payment_milestones": null,
@@ -19083,7 +19083,7 @@
         "entered_at": "2026-07-12"
       }
     ],
-    "assigned_rm": "Fatima Al Suwaidi",
+    "assigned_rm": "Alex Sammy",
     "source_channel": "paid",
     "pre_approval_date": "2026-07-17",
     "payment_milestones": [
@@ -19204,7 +19204,7 @@
         "entered_at": "2026-07-13"
       }
     ],
-    "assigned_rm": "Aisha Rahman",
+    "assigned_rm": "Chaz Cott",
     "source_channel": "concierge",
     "pre_approval_date": "2026-06-27",
     "payment_milestones": [
@@ -19317,7 +19317,7 @@
         "entered_at": "2026-07-12"
       }
     ],
-    "assigned_rm": "Aisha Rahman",
+    "assigned_rm": "Chaz Cott",
     "source_channel": "paid",
     "pre_approval_date": "2026-06-10",
     "payment_milestones": [
@@ -19434,7 +19434,7 @@
         "entered_at": "2026-07-09"
       }
     ],
-    "assigned_rm": "Omar Haddad",
+    "assigned_rm": "Adriell Arcellana",
     "source_channel": "organic",
     "pre_approval_date": "2026-06-14",
     "payment_milestones": null,
@@ -19522,7 +19522,7 @@
         "entered_at": "2026-07-15"
       }
     ],
-    "assigned_rm": "Daniel Costa",
+    "assigned_rm": "April Dagdagan",
     "source_channel": "paid",
     "pre_approval_date": "2026-06-15",
     "payment_milestones": null,
@@ -19638,7 +19638,7 @@
         "entered_at": "2026-07-04"
       }
     ],
-    "assigned_rm": "Priya Nair",
+    "assigned_rm": "Emma Jackson",
     "source_channel": "agent_referral",
     "pre_approval_date": "2026-06-22",
     "payment_milestones": null,
@@ -19718,7 +19718,7 @@
         "entered_at": "2026-07-10"
       }
     ],
-    "assigned_rm": "Omar Haddad",
+    "assigned_rm": "Adriell Arcellana",
     "source_channel": "agent_referral",
     "pre_approval_date": "2026-07-10",
     "payment_milestones": [
@@ -19833,7 +19833,7 @@
         "entered_at": "2026-07-16"
       }
     ],
-    "assigned_rm": "Aisha Rahman",
+    "assigned_rm": "Chaz Cott",
     "source_channel": "paid",
     "pre_approval_date": "2026-07-17",
     "payment_milestones": null,
@@ -19939,7 +19939,7 @@
         "entered_at": "2026-07-13"
       }
     ],
-    "assigned_rm": "Aisha Rahman",
+    "assigned_rm": "Chaz Cott",
     "source_channel": "concierge",
     "pre_approval_date": "2026-06-19",
     "payment_milestones": null,
@@ -20043,7 +20043,7 @@
         "entered_at": "2026-07-10"
       }
     ],
-    "assigned_rm": "Aisha Rahman",
+    "assigned_rm": "Chaz Cott",
     "source_channel": "concierge",
     "pre_approval_date": "2026-06-23",
     "payment_milestones": null,
@@ -20165,7 +20165,7 @@
         "entered_at": "2026-06-26"
       }
     ],
-    "assigned_rm": "James Whitfield",
+    "assigned_rm": "Wajeeh Sayeed",
     "source_channel": "concierge",
     "pre_approval_date": "2026-07-07",
     "payment_milestones": null,
@@ -20271,7 +20271,7 @@
         "entered_at": "2026-07-04"
       }
     ],
-    "assigned_rm": "Aisha Rahman",
+    "assigned_rm": "Chaz Cott",
     "source_channel": "organic",
     "pre_approval_date": "2026-06-16",
     "payment_milestones": null,
@@ -20355,7 +20355,7 @@
         "entered_at": "2026-07-16"
       }
     ],
-    "assigned_rm": "Fatima Al Suwaidi",
+    "assigned_rm": "Alex Sammy",
     "source_channel": "paid",
     "pre_approval_date": "2026-07-12",
     "payment_milestones": null,
@@ -20449,7 +20449,7 @@
         "entered_at": "2026-07-16"
       }
     ],
-    "assigned_rm": "Daniel Costa",
+    "assigned_rm": "April Dagdagan",
     "source_channel": "organic",
     "pre_approval_date": "2026-06-20",
     "payment_milestones": null,
@@ -20565,7 +20565,7 @@
         "entered_at": "2026-07-07"
       }
     ],
-    "assigned_rm": "Omar Haddad",
+    "assigned_rm": "Adriell Arcellana",
     "source_channel": "agent_referral",
     "pre_approval_date": "2026-06-17",
     "payment_milestones": null,
@@ -20641,7 +20641,7 @@
         "entered_at": "2026-07-14"
       }
     ],
-    "assigned_rm": "James Whitfield",
+    "assigned_rm": "Wajeeh Sayeed",
     "source_channel": "concierge",
     "pre_approval_date": "2026-07-11",
     "payment_milestones": null,
@@ -20767,7 +20767,7 @@
         "entered_at": "2026-07-16"
       }
     ],
-    "assigned_rm": "Daniel Costa",
+    "assigned_rm": "April Dagdagan",
     "source_channel": "concierge",
     "pre_approval_date": "2026-06-22",
     "payment_milestones": [
@@ -20903,7 +20903,7 @@
         "entered_at": "2026-07-17"
       }
     ],
-    "assigned_rm": "Omar Haddad",
+    "assigned_rm": "Adriell Arcellana",
     "source_channel": "agent_referral",
     "pre_approval_date": "2026-07-01",
     "payment_milestones": null,
@@ -21015,7 +21015,7 @@
         "entered_at": "2026-07-15"
       }
     ],
-    "assigned_rm": "Fatima Al Suwaidi",
+    "assigned_rm": "Alex Sammy",
     "source_channel": "agent_referral",
     "pre_approval_date": "2026-06-14",
     "payment_milestones": null,
@@ -21131,7 +21131,7 @@
         "entered_at": "2026-07-12"
       }
     ],
-    "assigned_rm": "Omar Haddad",
+    "assigned_rm": "Adriell Arcellana",
     "source_channel": "concierge",
     "pre_approval_date": "2026-07-12",
     "payment_milestones": [
@@ -21259,7 +21259,7 @@
         "entered_at": "2026-07-13"
       }
     ],
-    "assigned_rm": "Omar Haddad",
+    "assigned_rm": "Adriell Arcellana",
     "source_channel": "concierge",
     "pre_approval_date": "2026-07-16",
     "payment_milestones": null,
@@ -21375,7 +21375,7 @@
         "entered_at": "2026-07-09"
       }
     ],
-    "assigned_rm": "Omar Haddad",
+    "assigned_rm": "Adriell Arcellana",
     "source_channel": "concierge",
     "pre_approval_date": "2026-06-11",
     "payment_milestones": null,
@@ -21483,7 +21483,7 @@
         "entered_at": "2026-07-14"
       }
     ],
-    "assigned_rm": "Daniel Costa",
+    "assigned_rm": "April Dagdagan",
     "source_channel": "organic",
     "pre_approval_date": "2026-07-14",
     "payment_milestones": null,
@@ -21597,7 +21597,7 @@
         "entered_at": "2026-07-10"
       }
     ],
-    "assigned_rm": "Omar Haddad",
+    "assigned_rm": "Adriell Arcellana",
     "source_channel": "agent_referral",
     "pre_approval_date": "2026-06-25",
     "payment_milestones": null,
@@ -21703,7 +21703,7 @@
         "entered_at": "2026-07-10"
       }
     ],
-    "assigned_rm": "Daniel Costa",
+    "assigned_rm": "April Dagdagan",
     "source_channel": "paid",
     "pre_approval_date": "2026-07-08",
     "payment_milestones": null,
@@ -21803,7 +21803,7 @@
         "entered_at": "2026-07-16"
       }
     ],
-    "assigned_rm": "Daniel Costa",
+    "assigned_rm": "April Dagdagan",
     "source_channel": "concierge",
     "pre_approval_date": null,
     "payment_milestones": [
@@ -21926,7 +21926,7 @@
         "entered_at": "2026-07-10"
       }
     ],
-    "assigned_rm": "Omar Haddad",
+    "assigned_rm": "Adriell Arcellana",
     "source_channel": "agent_referral",
     "pre_approval_date": "2026-06-14",
     "payment_milestones": [
@@ -22059,7 +22059,7 @@
         "entered_at": "2026-06-15"
       }
     ],
-    "assigned_rm": "Daniel Costa",
+    "assigned_rm": "April Dagdagan",
     "source_channel": "agent_referral",
     "pre_approval_date": "2026-06-26",
     "payment_milestones": null,
@@ -22159,7 +22159,7 @@
         "entered_at": "2026-07-14"
       }
     ],
-    "assigned_rm": "Daniel Costa",
+    "assigned_rm": "April Dagdagan",
     "source_channel": "organic",
     "pre_approval_date": "2026-06-10",
     "payment_milestones": [
@@ -22262,7 +22262,7 @@
         "entered_at": "2026-07-15"
       }
     ],
-    "assigned_rm": "Aisha Rahman",
+    "assigned_rm": "Chaz Cott",
     "source_channel": "organic",
     "pre_approval_date": "2026-06-20",
     "payment_milestones": [
@@ -22385,7 +22385,7 @@
         "entered_at": "2026-07-17"
       }
     ],
-    "assigned_rm": "James Whitfield",
+    "assigned_rm": "Wajeeh Sayeed",
     "source_channel": "concierge",
     "pre_approval_date": "2026-07-11",
     "payment_milestones": null,
@@ -22516,7 +22516,7 @@
         "entered_at": "2026-07-16"
       }
     ],
-    "assigned_rm": "Fatima Al Suwaidi",
+    "assigned_rm": "Alex Sammy",
     "source_channel": "organic",
     "pre_approval_date": "2026-06-18",
     "payment_milestones": [
@@ -22622,7 +22622,7 @@
         "entered_at": "2026-07-13"
       }
     ],
-    "assigned_rm": "Priya Nair",
+    "assigned_rm": "Emma Jackson",
     "source_channel": "organic",
     "pre_approval_date": null,
     "payment_milestones": [
@@ -22725,7 +22725,7 @@
         "entered_at": "2026-07-11"
       }
     ],
-    "assigned_rm": "Daniel Costa",
+    "assigned_rm": "April Dagdagan",
     "source_channel": "organic",
     "pre_approval_date": "2026-06-17",
     "payment_milestones": null,
@@ -22831,7 +22831,7 @@
         "entered_at": "2026-07-01"
       }
     ],
-    "assigned_rm": "Omar Haddad",
+    "assigned_rm": "Adriell Arcellana",
     "source_channel": "paid",
     "pre_approval_date": "2026-07-13",
     "payment_milestones": [
@@ -22946,7 +22946,7 @@
         "entered_at": "2026-07-16"
       }
     ],
-    "assigned_rm": "Priya Nair",
+    "assigned_rm": "Emma Jackson",
     "source_channel": "paid",
     "pre_approval_date": "2026-07-04",
     "payment_milestones": null,
@@ -23052,7 +23052,7 @@
         "entered_at": "2026-06-28"
       }
     ],
-    "assigned_rm": "Priya Nair",
+    "assigned_rm": "Emma Jackson",
     "source_channel": "organic",
     "pre_approval_date": "2026-07-08",
     "payment_milestones": null,
@@ -23170,7 +23170,7 @@
         "entered_at": "2026-07-10"
       }
     ],
-    "assigned_rm": "Omar Haddad",
+    "assigned_rm": "Adriell Arcellana",
     "source_channel": "paid",
     "pre_approval_date": "2026-07-16",
     "payment_milestones": null,
@@ -23283,7 +23283,7 @@
         "entered_at": "2026-06-28"
       }
     ],
-    "assigned_rm": "Daniel Costa",
+    "assigned_rm": "April Dagdagan",
     "source_channel": "concierge",
     "pre_approval_date": "2026-06-13",
     "payment_milestones": [
@@ -23396,7 +23396,7 @@
         "entered_at": "2026-06-25"
       }
     ],
-    "assigned_rm": "Omar Haddad",
+    "assigned_rm": "Adriell Arcellana",
     "source_channel": "concierge",
     "pre_approval_date": "2026-06-14",
     "payment_milestones": null,
@@ -23490,7 +23490,7 @@
         "entered_at": "2026-07-14"
       }
     ],
-    "assigned_rm": "Priya Nair",
+    "assigned_rm": "Emma Jackson",
     "source_channel": "concierge",
     "pre_approval_date": "2026-07-17",
     "payment_milestones": null,
@@ -23604,7 +23604,7 @@
         "entered_at": "2026-05-15"
       }
     ],
-    "assigned_rm": "Daniel Costa",
+    "assigned_rm": "April Dagdagan",
     "source_channel": "paid",
     "pre_approval_date": "2026-07-07",
     "payment_milestones": null,
@@ -23694,7 +23694,7 @@
         "entered_at": "2026-07-11"
       }
     ],
-    "assigned_rm": "Fatima Al Suwaidi",
+    "assigned_rm": "Alex Sammy",
     "source_channel": "concierge",
     "pre_approval_date": "2026-06-27",
     "payment_milestones": [
@@ -23819,7 +23819,7 @@
         "entered_at": "2026-07-16"
       }
     ],
-    "assigned_rm": "Omar Haddad",
+    "assigned_rm": "Adriell Arcellana",
     "source_channel": "paid",
     "pre_approval_date": "2026-06-25",
     "payment_milestones": null,
@@ -23912,7 +23912,7 @@
         "entered_at": "2026-07-13"
       }
     ],
-    "assigned_rm": "Aisha Rahman",
+    "assigned_rm": "Chaz Cott",
     "source_channel": "organic",
     "pre_approval_date": null,
     "payment_milestones": null,
@@ -24006,7 +24006,7 @@
         "entered_at": "2026-07-15"
       }
     ],
-    "assigned_rm": "Fatima Al Suwaidi",
+    "assigned_rm": "Alex Sammy",
     "source_channel": "organic",
     "pre_approval_date": "2026-06-22",
     "payment_milestones": [
@@ -24123,7 +24123,7 @@
         "entered_at": "2026-07-13"
       }
     ],
-    "assigned_rm": "Fatima Al Suwaidi",
+    "assigned_rm": "Alex Sammy",
     "source_channel": "agent_referral",
     "pre_approval_date": "2026-07-04",
     "payment_milestones": [
@@ -24236,7 +24236,7 @@
         "entered_at": "2026-07-10"
       }
     ],
-    "assigned_rm": "Omar Haddad",
+    "assigned_rm": "Adriell Arcellana",
     "source_channel": "organic",
     "pre_approval_date": "2026-06-21",
     "payment_milestones": [
@@ -24359,7 +24359,7 @@
         "entered_at": "2026-06-14"
       }
     ],
-    "assigned_rm": "James Whitfield",
+    "assigned_rm": "Wajeeh Sayeed",
     "source_channel": "concierge",
     "pre_approval_date": "2026-06-14",
     "payment_milestones": [
@@ -24462,7 +24462,7 @@
         "entered_at": "2026-07-16"
       }
     ],
-    "assigned_rm": "Priya Nair",
+    "assigned_rm": "Emma Jackson",
     "source_channel": "organic",
     "pre_approval_date": null,
     "payment_milestones": [
@@ -24577,7 +24577,7 @@
         "entered_at": "2026-07-12"
       }
     ],
-    "assigned_rm": "Priya Nair",
+    "assigned_rm": "Emma Jackson",
     "source_channel": "organic",
     "pre_approval_date": "2026-07-11",
     "payment_milestones": [
@@ -24696,7 +24696,7 @@
         "entered_at": "2026-07-17"
       }
     ],
-    "assigned_rm": "Priya Nair",
+    "assigned_rm": "Emma Jackson",
     "source_channel": "agent_referral",
     "pre_approval_date": "2026-07-17",
     "payment_milestones": [
@@ -24811,7 +24811,7 @@
         "entered_at": "2026-07-12"
       }
     ],
-    "assigned_rm": "James Whitfield",
+    "assigned_rm": "Wajeeh Sayeed",
     "source_channel": "paid",
     "pre_approval_date": "2026-06-15",
     "payment_milestones": [
@@ -24940,7 +24940,7 @@
         "entered_at": "2026-07-09"
       }
     ],
-    "assigned_rm": "James Whitfield",
+    "assigned_rm": "Wajeeh Sayeed",
     "source_channel": "agent_referral",
     "pre_approval_date": "2026-06-16",
     "payment_milestones": [
@@ -25072,7 +25072,7 @@
         "entered_at": "2026-07-10"
       }
     ],
-    "assigned_rm": "James Whitfield",
+    "assigned_rm": "Wajeeh Sayeed",
     "source_channel": "organic",
     "pre_approval_date": "2026-06-20",
     "payment_milestones": null,
@@ -25152,7 +25152,7 @@
         "entered_at": "2026-07-10"
       }
     ],
-    "assigned_rm": "James Whitfield",
+    "assigned_rm": "Wajeeh Sayeed",
     "source_channel": "agent_referral",
     "pre_approval_date": "2026-07-03",
     "payment_milestones": [
@@ -25273,7 +25273,7 @@
         "entered_at": "2026-07-09"
       }
     ],
-    "assigned_rm": "Fatima Al Suwaidi",
+    "assigned_rm": "Alex Sammy",
     "source_channel": "concierge",
     "pre_approval_date": "2026-07-14",
     "payment_milestones": null,
@@ -25401,7 +25401,7 @@
         "entered_at": "2026-07-13"
       }
     ],
-    "assigned_rm": "Fatima Al Suwaidi",
+    "assigned_rm": "Alex Sammy",
     "source_channel": "organic",
     "pre_approval_date": "2026-06-17",
     "payment_milestones": null,
@@ -25519,7 +25519,7 @@
         "entered_at": "2026-07-09"
       }
     ],
-    "assigned_rm": "Daniel Costa",
+    "assigned_rm": "April Dagdagan",
     "source_channel": "paid",
     "pre_approval_date": "2026-07-13",
     "payment_milestones": null,
@@ -25621,7 +25621,7 @@
         "entered_at": "2026-07-10"
       }
     ],
-    "assigned_rm": "Aisha Rahman",
+    "assigned_rm": "Chaz Cott",
     "source_channel": "concierge",
     "pre_approval_date": "2026-07-10",
     "payment_milestones": [
@@ -25726,7 +25726,7 @@
         "entered_at": "2026-07-15"
       }
     ],
-    "assigned_rm": "Priya Nair",
+    "assigned_rm": "Emma Jackson",
     "source_channel": "agent_referral",
     "pre_approval_date": "2026-07-08",
     "payment_milestones": [
@@ -25857,7 +25857,7 @@
         "entered_at": "2026-07-11"
       }
     ],
-    "assigned_rm": "James Whitfield",
+    "assigned_rm": "Wajeeh Sayeed",
     "source_channel": "agent_referral",
     "pre_approval_date": "2026-06-27",
     "payment_milestones": [
@@ -25982,7 +25982,7 @@
         "entered_at": "2026-07-15"
       }
     ],
-    "assigned_rm": "Daniel Costa",
+    "assigned_rm": "April Dagdagan",
     "source_channel": "paid",
     "pre_approval_date": "2026-07-06",
     "payment_milestones": null,
@@ -26099,7 +26099,7 @@
         "entered_at": "2026-07-10"
       }
     ],
-    "assigned_rm": "Daniel Costa",
+    "assigned_rm": "April Dagdagan",
     "source_channel": "paid",
     "pre_approval_date": "2026-06-24",
     "payment_milestones": [
@@ -26227,7 +26227,7 @@
         "entered_at": "2026-07-08"
       }
     ],
-    "assigned_rm": "Priya Nair",
+    "assigned_rm": "Emma Jackson",
     "source_channel": "concierge",
     "pre_approval_date": "2026-06-14",
     "payment_milestones": [
@@ -26344,7 +26344,7 @@
         "entered_at": "2026-07-14"
       }
     ],
-    "assigned_rm": "James Whitfield",
+    "assigned_rm": "Wajeeh Sayeed",
     "source_channel": "agent_referral",
     "pre_approval_date": "2026-06-19",
     "payment_milestones": null,
@@ -26440,7 +26440,7 @@
         "entered_at": "2026-07-10"
       }
     ],
-    "assigned_rm": "Daniel Costa",
+    "assigned_rm": "April Dagdagan",
     "source_channel": "paid",
     "pre_approval_date": "2026-07-04",
     "payment_milestones": [
@@ -26573,7 +26573,7 @@
         "entered_at": "2026-07-17"
       }
     ],
-    "assigned_rm": "Priya Nair",
+    "assigned_rm": "Emma Jackson",
     "source_channel": "agent_referral",
     "pre_approval_date": "2026-06-30",
     "payment_milestones": null,
@@ -26703,7 +26703,7 @@
         "entered_at": "2026-07-11"
       }
     ],
-    "assigned_rm": "Aisha Rahman",
+    "assigned_rm": "Chaz Cott",
     "source_channel": "concierge",
     "pre_approval_date": "2026-07-10",
     "payment_milestones": null,
@@ -26804,7 +26804,7 @@
         "entered_at": "2026-07-17"
       }
     ],
-    "assigned_rm": "James Whitfield",
+    "assigned_rm": "Wajeeh Sayeed",
     "source_channel": "concierge",
     "pre_approval_date": "2026-06-25",
     "payment_milestones": [
@@ -26921,7 +26921,7 @@
         "entered_at": "2026-06-27"
       }
     ],
-    "assigned_rm": "Fatima Al Suwaidi",
+    "assigned_rm": "Alex Sammy",
     "source_channel": "organic",
     "pre_approval_date": "2026-07-15",
     "payment_milestones": null,
@@ -27011,7 +27011,7 @@
         "entered_at": "2026-07-13"
       }
     ],
-    "assigned_rm": "James Whitfield",
+    "assigned_rm": "Wajeeh Sayeed",
     "source_channel": "concierge",
     "pre_approval_date": null,
     "payment_milestones": null,
@@ -27101,7 +27101,7 @@
         "entered_at": "2026-07-15"
       }
     ],
-    "assigned_rm": "Aisha Rahman",
+    "assigned_rm": "Chaz Cott",
     "source_channel": "paid",
     "pre_approval_date": null,
     "payment_milestones": [
@@ -27212,7 +27212,7 @@
         "entered_at": "2026-07-06"
       }
     ],
-    "assigned_rm": "Priya Nair",
+    "assigned_rm": "Emma Jackson",
     "source_channel": "organic",
     "pre_approval_date": "2026-06-26",
     "payment_milestones": [
@@ -27313,7 +27313,7 @@
         "entered_at": "2026-07-15"
       }
     ],
-    "assigned_rm": "Daniel Costa",
+    "assigned_rm": "April Dagdagan",
     "source_channel": "organic",
     "pre_approval_date": "2026-06-17",
     "payment_milestones": [
@@ -27414,7 +27414,7 @@
         "entered_at": "2026-07-09"
       }
     ],
-    "assigned_rm": "James Whitfield",
+    "assigned_rm": "Wajeeh Sayeed",
     "source_channel": "paid",
     "pre_approval_date": "2026-06-24",
     "payment_milestones": null,
@@ -27516,7 +27516,7 @@
         "entered_at": "2026-07-12"
       }
     ],
-    "assigned_rm": "James Whitfield",
+    "assigned_rm": "Wajeeh Sayeed",
     "source_channel": "organic",
     "pre_approval_date": "2026-07-04",
     "payment_milestones": null,
@@ -27614,7 +27614,7 @@
         "entered_at": "2026-07-08"
       }
     ],
-    "assigned_rm": "Priya Nair",
+    "assigned_rm": "Emma Jackson",
     "source_channel": "concierge",
     "pre_approval_date": "2026-06-01",
     "payment_milestones": null,
@@ -27700,7 +27700,7 @@
         "entered_at": "2026-07-11"
       }
     ],
-    "assigned_rm": "Fatima Al Suwaidi",
+    "assigned_rm": "Alex Sammy",
     "source_channel": "paid",
     "pre_approval_date": "2026-07-01",
     "payment_milestones": [
@@ -27825,7 +27825,7 @@
         "entered_at": "2026-07-12"
       }
     ],
-    "assigned_rm": "Omar Haddad",
+    "assigned_rm": "Adriell Arcellana",
     "source_channel": "paid",
     "pre_approval_date": "2026-06-11",
     "payment_milestones": null,
@@ -27937,7 +27937,7 @@
         "entered_at": "2026-07-14"
       }
     ],
-    "assigned_rm": "Daniel Costa",
+    "assigned_rm": "April Dagdagan",
     "source_channel": "agent_referral",
     "pre_approval_date": "2026-06-13",
     "payment_milestones": [
@@ -28052,7 +28052,7 @@
         "entered_at": "2026-07-16"
       }
     ],
-    "assigned_rm": "James Whitfield",
+    "assigned_rm": "Wajeeh Sayeed",
     "source_channel": "paid",
     "pre_approval_date": "2026-06-27",
     "payment_milestones": [
@@ -28171,7 +28171,7 @@
         "entered_at": "2026-07-11"
       }
     ],
-    "assigned_rm": "Priya Nair",
+    "assigned_rm": "Emma Jackson",
     "source_channel": "paid",
     "pre_approval_date": "2026-07-09",
     "payment_milestones": null,
@@ -28280,7 +28280,7 @@
         "entered_at": "2026-07-16"
       }
     ],
-    "assigned_rm": "James Whitfield",
+    "assigned_rm": "Wajeeh Sayeed",
     "source_channel": "organic",
     "pre_approval_date": "2026-07-10",
     "payment_milestones": null,
@@ -28398,7 +28398,7 @@
         "entered_at": "2026-07-12"
       }
     ],
-    "assigned_rm": "Priya Nair",
+    "assigned_rm": "Emma Jackson",
     "source_channel": "organic",
     "pre_approval_date": "2026-07-10",
     "payment_milestones": [
@@ -28509,7 +28509,7 @@
         "entered_at": "2026-07-04"
       }
     ],
-    "assigned_rm": "Daniel Costa",
+    "assigned_rm": "April Dagdagan",
     "source_channel": "agent_referral",
     "pre_approval_date": "2026-06-17",
     "payment_milestones": [
@@ -28618,7 +28618,7 @@
         "entered_at": "2026-07-14"
       }
     ],
-    "assigned_rm": "James Whitfield",
+    "assigned_rm": "Wajeeh Sayeed",
     "source_channel": "concierge",
     "pre_approval_date": "2026-07-08",
     "payment_milestones": [
@@ -28737,7 +28737,7 @@
         "entered_at": "2026-07-10"
       }
     ],
-    "assigned_rm": "Priya Nair",
+    "assigned_rm": "Emma Jackson",
     "source_channel": "agent_referral",
     "pre_approval_date": "2026-06-30",
     "payment_milestones": null,
@@ -28845,7 +28845,7 @@
         "entered_at": "2026-07-14"
       }
     ],
-    "assigned_rm": "Omar Haddad",
+    "assigned_rm": "Adriell Arcellana",
     "source_channel": "concierge",
     "pre_approval_date": "2026-06-16",
     "payment_milestones": null,
@@ -28953,7 +28953,7 @@
         "entered_at": "2026-07-11"
       }
     ],
-    "assigned_rm": "Aisha Rahman",
+    "assigned_rm": "Chaz Cott",
     "source_channel": "paid",
     "pre_approval_date": "2026-06-16",
     "payment_milestones": null,
@@ -29037,7 +29037,7 @@
         "entered_at": "2026-07-10"
       }
     ],
-    "assigned_rm": "Daniel Costa",
+    "assigned_rm": "April Dagdagan",
     "source_channel": "agent_referral",
     "pre_approval_date": "2026-06-28",
     "payment_milestones": [
@@ -29160,7 +29160,7 @@
         "entered_at": "2026-07-07"
       }
     ],
-    "assigned_rm": "Fatima Al Suwaidi",
+    "assigned_rm": "Alex Sammy",
     "source_channel": "concierge",
     "pre_approval_date": "2026-06-02",
     "payment_milestones": null,
@@ -29268,7 +29268,7 @@
         "entered_at": "2026-07-09"
       }
     ],
-    "assigned_rm": "Daniel Costa",
+    "assigned_rm": "April Dagdagan",
     "source_channel": "organic",
     "pre_approval_date": "2026-07-03",
     "payment_milestones": [
@@ -29388,7 +29388,7 @@
         "entered_at": "2026-07-11"
       }
     ],
-    "assigned_rm": "Fatima Al Suwaidi",
+    "assigned_rm": "Alex Sammy",
     "source_channel": "agent_referral",
     "pre_approval_date": "2026-06-17",
     "payment_milestones": null,
@@ -29518,7 +29518,7 @@
         "entered_at": "2026-07-15"
       }
     ],
-    "assigned_rm": "James Whitfield",
+    "assigned_rm": "Wajeeh Sayeed",
     "source_channel": "concierge",
     "pre_approval_date": "2026-06-16",
     "payment_milestones": [
@@ -29637,7 +29637,7 @@
         "entered_at": "2026-07-15"
       }
     ],
-    "assigned_rm": "Priya Nair",
+    "assigned_rm": "Emma Jackson",
     "source_channel": "paid",
     "pre_approval_date": "2026-06-28",
     "payment_milestones": null,
@@ -29757,7 +29757,7 @@
         "entered_at": "2026-07-04"
       }
     ],
-    "assigned_rm": "James Whitfield",
+    "assigned_rm": "Wajeeh Sayeed",
     "source_channel": "agent_referral",
     "pre_approval_date": "2026-07-04",
     "payment_milestones": [
@@ -29854,7 +29854,7 @@
         "entered_at": "2026-07-10"
       }
     ],
-    "assigned_rm": "Daniel Costa",
+    "assigned_rm": "April Dagdagan",
     "source_channel": "agent_referral",
     "pre_approval_date": "2026-05-27",
     "payment_milestones": null,
@@ -29964,7 +29964,7 @@
         "entered_at": "2026-07-12"
       }
     ],
-    "assigned_rm": "Fatima Al Suwaidi",
+    "assigned_rm": "Alex Sammy",
     "source_channel": "paid",
     "pre_approval_date": "2026-07-13",
     "payment_milestones": null,
@@ -30080,7 +30080,7 @@
         "entered_at": "2026-07-14"
       }
     ],
-    "assigned_rm": "Aisha Rahman",
+    "assigned_rm": "Chaz Cott",
     "source_channel": "organic",
     "pre_approval_date": "2026-07-13",
     "payment_milestones": null,
@@ -30176,7 +30176,7 @@
         "entered_at": "2026-07-15"
       }
     ],
-    "assigned_rm": "Daniel Costa",
+    "assigned_rm": "April Dagdagan",
     "source_channel": "agent_referral",
     "pre_approval_date": "2026-06-17",
     "payment_milestones": null,
@@ -30266,7 +30266,7 @@
         "entered_at": "2026-07-10"
       }
     ],
-    "assigned_rm": "Daniel Costa",
+    "assigned_rm": "April Dagdagan",
     "source_channel": "concierge",
     "pre_approval_date": null,
     "payment_milestones": [
@@ -30393,7 +30393,7 @@
         "entered_at": "2026-07-13"
       }
     ],
-    "assigned_rm": "Priya Nair",
+    "assigned_rm": "Emma Jackson",
     "source_channel": "concierge",
     "pre_approval_date": "2026-07-11",
     "payment_milestones": null,
@@ -30487,7 +30487,7 @@
         "entered_at": "2026-07-12"
       }
     ],
-    "assigned_rm": "Fatima Al Suwaidi",
+    "assigned_rm": "Alex Sammy",
     "source_channel": "concierge",
     "pre_approval_date": "2026-06-17",
     "payment_milestones": null,
@@ -30603,7 +30603,7 @@
         "entered_at": "2026-07-14"
       }
     ],
-    "assigned_rm": "Priya Nair",
+    "assigned_rm": "Emma Jackson",
     "source_channel": "agent_referral",
     "pre_approval_date": "2026-07-03",
     "payment_milestones": null,
@@ -30699,7 +30699,7 @@
         "entered_at": "2026-07-16"
       }
     ],
-    "assigned_rm": "Priya Nair",
+    "assigned_rm": "Emma Jackson",
     "source_channel": "organic",
     "pre_approval_date": "2026-07-02",
     "payment_milestones": null,
@@ -30801,7 +30801,7 @@
         "entered_at": "2026-07-06"
       }
     ],
-    "assigned_rm": "Priya Nair",
+    "assigned_rm": "Emma Jackson",
     "source_channel": "concierge",
     "pre_approval_date": "2026-06-22",
     "payment_milestones": null,
@@ -30907,7 +30907,7 @@
         "entered_at": "2026-07-17"
       }
     ],
-    "assigned_rm": "Aisha Rahman",
+    "assigned_rm": "Chaz Cott",
     "source_channel": "paid",
     "pre_approval_date": "2026-06-25",
     "payment_milestones": [
@@ -31047,7 +31047,7 @@
         "entered_at": "2026-07-17"
       }
     ],
-    "assigned_rm": "Priya Nair",
+    "assigned_rm": "Emma Jackson",
     "source_channel": "paid",
     "pre_approval_date": "2026-06-26",
     "payment_milestones": null,
@@ -31170,7 +31170,7 @@
         "entered_at": "2026-07-16"
       }
     ],
-    "assigned_rm": "Omar Haddad",
+    "assigned_rm": "Adriell Arcellana",
     "source_channel": "agent_referral",
     "pre_approval_date": "2026-06-27",
     "payment_milestones": null,
@@ -31284,7 +31284,7 @@
         "entered_at": "2026-07-11"
       }
     ],
-    "assigned_rm": "Aisha Rahman",
+    "assigned_rm": "Chaz Cott",
     "source_channel": "paid",
     "pre_approval_date": "2026-07-04",
     "payment_milestones": null,
@@ -31402,7 +31402,7 @@
         "entered_at": "2026-07-14"
       }
     ],
-    "assigned_rm": "Daniel Costa",
+    "assigned_rm": "April Dagdagan",
     "source_channel": "agent_referral",
     "pre_approval_date": "2026-06-14",
     "payment_milestones": null,
@@ -31523,7 +31523,7 @@
         "entered_at": "2026-07-11"
       }
     ],
-    "assigned_rm": "Priya Nair",
+    "assigned_rm": "Emma Jackson",
     "source_channel": "agent_referral",
     "pre_approval_date": "2026-07-03",
     "payment_milestones": null,
@@ -31640,7 +31640,7 @@
         "entered_at": "2026-07-09"
       }
     ],
-    "assigned_rm": "Aisha Rahman",
+    "assigned_rm": "Chaz Cott",
     "source_channel": "paid",
     "pre_approval_date": "2026-06-14",
     "payment_milestones": null,
@@ -31737,7 +31737,7 @@
         "entered_at": "2026-07-17"
       }
     ],
-    "assigned_rm": "Fatima Al Suwaidi",
+    "assigned_rm": "Alex Sammy",
     "source_channel": "organic",
     "pre_approval_date": "2026-06-20",
     "payment_milestones": null,
@@ -31845,7 +31845,7 @@
         "entered_at": "2026-07-17"
       }
     ],
-    "assigned_rm": "Aisha Rahman",
+    "assigned_rm": "Chaz Cott",
     "source_channel": "agent_referral",
     "pre_approval_date": "2026-06-22",
     "payment_milestones": null,
@@ -31947,7 +31947,7 @@
         "entered_at": "2026-07-10"
       }
     ],
-    "assigned_rm": "Priya Nair",
+    "assigned_rm": "Emma Jackson",
     "source_channel": "agent_referral",
     "pre_approval_date": "2026-07-11",
     "payment_milestones": null,
@@ -32051,7 +32051,7 @@
         "entered_at": "2026-07-15"
       }
     ],
-    "assigned_rm": "Priya Nair",
+    "assigned_rm": "Emma Jackson",
     "source_channel": "organic",
     "pre_approval_date": "2026-06-11",
     "payment_milestones": null,
@@ -32151,7 +32151,7 @@
         "entered_at": "2026-07-13"
       }
     ],
-    "assigned_rm": "Priya Nair",
+    "assigned_rm": "Emma Jackson",
     "source_channel": "agent_referral",
     "pre_approval_date": null,
     "payment_milestones": [
@@ -32260,7 +32260,7 @@
         "entered_at": "2026-07-13"
       }
     ],
-    "assigned_rm": "James Whitfield",
+    "assigned_rm": "Wajeeh Sayeed",
     "source_channel": "paid",
     "pre_approval_date": "2026-06-19",
     "payment_milestones": [
@@ -32379,7 +32379,7 @@
         "entered_at": "2026-07-16"
       }
     ],
-    "assigned_rm": "Priya Nair",
+    "assigned_rm": "Emma Jackson",
     "source_channel": "organic",
     "pre_approval_date": "2026-06-18",
     "payment_milestones": [
@@ -32490,7 +32490,7 @@
         "entered_at": "2026-07-12"
       }
     ],
-    "assigned_rm": "Aisha Rahman",
+    "assigned_rm": "Chaz Cott",
     "source_channel": "paid",
     "pre_approval_date": "2026-06-11",
     "payment_milestones": null,
@@ -32592,7 +32592,7 @@
         "entered_at": "2026-07-09"
       }
     ],
-    "assigned_rm": "Daniel Costa",
+    "assigned_rm": "April Dagdagan",
     "source_channel": "concierge",
     "pre_approval_date": "2026-06-14",
     "payment_milestones": null,
@@ -32712,7 +32712,7 @@
         "entered_at": "2026-07-15"
       }
     ],
-    "assigned_rm": "James Whitfield",
+    "assigned_rm": "Wajeeh Sayeed",
     "source_channel": "agent_referral",
     "pre_approval_date": "2026-06-26",
     "payment_milestones": null,
@@ -32828,7 +32828,7 @@
         "entered_at": "2026-07-11"
       }
     ],
-    "assigned_rm": "Fatima Al Suwaidi",
+    "assigned_rm": "Alex Sammy",
     "source_channel": "paid",
     "pre_approval_date": "2026-06-22",
     "payment_milestones": [
@@ -32957,7 +32957,7 @@
         "entered_at": "2026-07-15"
       }
     ],
-    "assigned_rm": "Omar Haddad",
+    "assigned_rm": "Adriell Arcellana",
     "source_channel": "organic",
     "pre_approval_date": "2026-07-11",
     "payment_milestones": null,
@@ -33072,7 +33072,7 @@
         "entered_at": "2026-07-17"
       }
     ],
-    "assigned_rm": "James Whitfield",
+    "assigned_rm": "Wajeeh Sayeed",
     "source_channel": "concierge",
     "pre_approval_date": "2026-07-11",
     "payment_milestones": [
@@ -33173,7 +33173,7 @@
         "entered_at": "2026-07-15"
       }
     ],
-    "assigned_rm": "Priya Nair",
+    "assigned_rm": "Emma Jackson",
     "source_channel": "agent_referral",
     "pre_approval_date": null,
     "payment_milestones": [
@@ -33272,7 +33272,7 @@
         "entered_at": "2026-07-16"
       }
     ],
-    "assigned_rm": "James Whitfield",
+    "assigned_rm": "Wajeeh Sayeed",
     "source_channel": "agent_referral",
     "pre_approval_date": "2026-06-11",
     "payment_milestones": [
@@ -33379,7 +33379,7 @@
         "entered_at": "2026-07-11"
       }
     ],
-    "assigned_rm": "Fatima Al Suwaidi",
+    "assigned_rm": "Alex Sammy",
     "source_channel": "paid",
     "pre_approval_date": "2026-07-14",
     "payment_milestones": [
@@ -33488,7 +33488,7 @@
         "entered_at": "2026-07-05"
       }
     ],
-    "assigned_rm": "Fatima Al Suwaidi",
+    "assigned_rm": "Alex Sammy",
     "source_channel": "paid",
     "pre_approval_date": "2026-06-24",
     "payment_milestones": [
@@ -33587,7 +33587,7 @@
         "entered_at": "2026-07-17"
       }
     ],
-    "assigned_rm": "James Whitfield",
+    "assigned_rm": "Wajeeh Sayeed",
     "source_channel": "organic",
     "pre_approval_date": "2026-06-17",
     "payment_milestones": [
@@ -33720,7 +33720,7 @@
         "entered_at": "2026-07-11"
       }
     ],
-    "assigned_rm": "Priya Nair",
+    "assigned_rm": "Emma Jackson",
     "source_channel": "concierge",
     "pre_approval_date": "2026-07-13",
     "payment_milestones": null,
@@ -33841,7 +33841,7 @@
         "entered_at": "2026-07-12"
       }
     ],
-    "assigned_rm": "Aisha Rahman",
+    "assigned_rm": "Chaz Cott",
     "source_channel": "agent_referral",
     "pre_approval_date": "2026-06-23",
     "payment_milestones": [
@@ -33942,7 +33942,7 @@
         "entered_at": "2026-07-11"
       }
     ],
-    "assigned_rm": "Omar Haddad",
+    "assigned_rm": "Adriell Arcellana",
     "source_channel": "organic",
     "pre_approval_date": null,
     "payment_milestones": [
@@ -34055,7 +34055,7 @@
         "entered_at": "2026-07-17"
       }
     ],
-    "assigned_rm": "James Whitfield",
+    "assigned_rm": "Wajeeh Sayeed",
     "source_channel": "paid",
     "pre_approval_date": "2026-06-21",
     "payment_milestones": [
@@ -34184,7 +34184,7 @@
         "entered_at": "2026-07-09"
       }
     ],
-    "assigned_rm": "Priya Nair",
+    "assigned_rm": "Emma Jackson",
     "source_channel": "agent_referral",
     "pre_approval_date": "2026-06-15",
     "payment_milestones": [
@@ -34299,7 +34299,7 @@
         "entered_at": "2026-06-21"
       }
     ],
-    "assigned_rm": "Fatima Al Suwaidi",
+    "assigned_rm": "Alex Sammy",
     "source_channel": "concierge",
     "pre_approval_date": "2026-06-19",
     "payment_milestones": [
@@ -34418,7 +34418,7 @@
         "entered_at": "2026-07-16"
       }
     ],
-    "assigned_rm": "Fatima Al Suwaidi",
+    "assigned_rm": "Alex Sammy",
     "source_channel": "organic",
     "pre_approval_date": "2026-06-21",
     "payment_milestones": null,
@@ -34512,7 +34512,7 @@
         "entered_at": "2026-07-16"
       }
     ],
-    "assigned_rm": "James Whitfield",
+    "assigned_rm": "Wajeeh Sayeed",
     "source_channel": "organic",
     "pre_approval_date": "2026-06-22",
     "payment_milestones": [
@@ -34641,7 +34641,7 @@
         "entered_at": "2026-07-17"
       }
     ],
-    "assigned_rm": "Daniel Costa",
+    "assigned_rm": "April Dagdagan",
     "source_channel": "paid",
     "pre_approval_date": "2026-06-10",
     "payment_milestones": null,
@@ -34765,7 +34765,7 @@
         "entered_at": "2026-07-11"
       }
     ],
-    "assigned_rm": "Daniel Costa",
+    "assigned_rm": "April Dagdagan",
     "source_channel": "concierge",
     "pre_approval_date": "2026-06-24",
     "payment_milestones": null,
@@ -34887,7 +34887,7 @@
         "entered_at": "2026-07-13"
       }
     ],
-    "assigned_rm": "Priya Nair",
+    "assigned_rm": "Emma Jackson",
     "source_channel": "agent_referral",
     "pre_approval_date": "2026-07-06",
     "payment_milestones": null,
@@ -35003,7 +35003,7 @@
         "entered_at": "2026-05-13"
       }
     ],
-    "assigned_rm": "Fatima Al Suwaidi",
+    "assigned_rm": "Alex Sammy",
     "source_channel": "organic",
     "pre_approval_date": "2026-07-14",
     "payment_milestones": null,
@@ -35100,7 +35100,7 @@
         "entered_at": "2026-07-10"
       }
     ],
-    "assigned_rm": "Omar Haddad",
+    "assigned_rm": "Adriell Arcellana",
     "source_channel": "agent_referral",
     "pre_approval_date": "2026-06-22",
     "payment_milestones": [
@@ -35211,7 +35211,7 @@
         "entered_at": "2026-05-21"
       }
     ],
-    "assigned_rm": "Priya Nair",
+    "assigned_rm": "Emma Jackson",
     "source_channel": "agent_referral",
     "pre_approval_date": "2026-07-02",
     "payment_milestones": [
@@ -35310,7 +35310,7 @@
         "entered_at": "2026-07-15"
       }
     ],
-    "assigned_rm": "Fatima Al Suwaidi",
+    "assigned_rm": "Alex Sammy",
     "source_channel": "agent_referral",
     "pre_approval_date": "2026-07-13",
     "payment_milestones": [
@@ -35431,7 +35431,7 @@
         "entered_at": "2026-07-13"
       }
     ],
-    "assigned_rm": "Priya Nair",
+    "assigned_rm": "Emma Jackson",
     "source_channel": "organic",
     "pre_approval_date": "2026-07-08",
     "payment_milestones": [
@@ -35542,7 +35542,7 @@
         "entered_at": "2026-07-11"
       }
     ],
-    "assigned_rm": "Priya Nair",
+    "assigned_rm": "Emma Jackson",
     "source_channel": "concierge",
     "pre_approval_date": "2026-06-23",
     "payment_milestones": null,
@@ -35660,7 +35660,7 @@
         "entered_at": "2026-07-10"
       }
     ],
-    "assigned_rm": "Priya Nair",
+    "assigned_rm": "Emma Jackson",
     "source_channel": "paid",
     "pre_approval_date": "2026-06-24",
     "payment_milestones": null,
@@ -35770,7 +35770,7 @@
         "entered_at": "2026-07-10"
       }
     ],
-    "assigned_rm": "James Whitfield",
+    "assigned_rm": "Wajeeh Sayeed",
     "source_channel": "concierge",
     "pre_approval_date": "2026-06-17",
     "payment_milestones": [
@@ -35863,7 +35863,7 @@
         "entered_at": "2026-07-10"
       }
     ],
-    "assigned_rm": "Omar Haddad",
+    "assigned_rm": "Adriell Arcellana",
     "source_channel": "organic",
     "pre_approval_date": "2026-06-24",
     "payment_milestones": null,
@@ -35979,7 +35979,7 @@
         "entered_at": "2026-06-16"
       }
     ],
-    "assigned_rm": "Priya Nair",
+    "assigned_rm": "Emma Jackson",
     "source_channel": "concierge",
     "pre_approval_date": "2026-06-26",
     "payment_milestones": [
@@ -36082,7 +36082,7 @@
         "entered_at": "2026-07-07"
       }
     ],
-    "assigned_rm": "Daniel Costa",
+    "assigned_rm": "April Dagdagan",
     "source_channel": "paid",
     "pre_approval_date": "2026-05-26",
     "payment_milestones": [
@@ -36171,7 +36171,7 @@
         "entered_at": "2026-07-09"
       }
     ],
-    "assigned_rm": "James Whitfield",
+    "assigned_rm": "Wajeeh Sayeed",
     "source_channel": "organic",
     "pre_approval_date": "2026-07-12",
     "payment_milestones": null,
@@ -36287,7 +36287,7 @@
         "entered_at": "2026-07-13"
       }
     ],
-    "assigned_rm": "Omar Haddad",
+    "assigned_rm": "Adriell Arcellana",
     "source_channel": "concierge",
     "pre_approval_date": "2026-06-20",
     "payment_milestones": null,
@@ -36395,7 +36395,7 @@
         "entered_at": "2026-07-14"
       }
     ],
-    "assigned_rm": "James Whitfield",
+    "assigned_rm": "Wajeeh Sayeed",
     "source_channel": "paid",
     "pre_approval_date": "2026-06-13",
     "payment_milestones": [
@@ -36530,7 +36530,7 @@
         "entered_at": "2026-07-13"
       }
     ],
-    "assigned_rm": "Omar Haddad",
+    "assigned_rm": "Adriell Arcellana",
     "source_channel": "agent_referral",
     "pre_approval_date": "2026-07-10",
     "payment_milestones": [
@@ -36621,7 +36621,7 @@
         "entered_at": "2026-07-12"
       }
     ],
-    "assigned_rm": "James Whitfield",
+    "assigned_rm": "Wajeeh Sayeed",
     "source_channel": "paid",
     "pre_approval_date": "2026-06-18",
     "payment_milestones": [
@@ -36736,7 +36736,7 @@
         "entered_at": "2026-07-09"
       }
     ],
-    "assigned_rm": "James Whitfield",
+    "assigned_rm": "Wajeeh Sayeed",
     "source_channel": "concierge",
     "pre_approval_date": "2026-06-30",
     "payment_milestones": [
@@ -36847,7 +36847,7 @@
         "entered_at": "2026-07-08"
       }
     ],
-    "assigned_rm": "Priya Nair",
+    "assigned_rm": "Emma Jackson",
     "source_channel": "organic",
     "pre_approval_date": "2026-05-25",
     "payment_milestones": null,
@@ -36935,7 +36935,7 @@
         "entered_at": "2026-07-05"
       }
     ],
-    "assigned_rm": "Fatima Al Suwaidi",
+    "assigned_rm": "Alex Sammy",
     "source_channel": "paid",
     "pre_approval_date": "2026-07-09",
     "payment_milestones": null,
@@ -37019,7 +37019,7 @@
         "entered_at": "2026-07-17"
       }
     ],
-    "assigned_rm": "Omar Haddad",
+    "assigned_rm": "Adriell Arcellana",
     "source_channel": "agent_referral",
     "pre_approval_date": "2026-07-05",
     "payment_milestones": [
@@ -37130,7 +37130,7 @@
         "entered_at": "2026-07-02"
       }
     ],
-    "assigned_rm": "Aisha Rahman",
+    "assigned_rm": "Chaz Cott",
     "source_channel": "concierge",
     "pre_approval_date": "2026-06-12",
     "payment_milestones": null,
@@ -37218,7 +37218,7 @@
         "entered_at": "2026-07-06"
       }
     ],
-    "assigned_rm": "Fatima Al Suwaidi",
+    "assigned_rm": "Alex Sammy",
     "source_channel": "agent_referral",
     "pre_approval_date": "2026-07-12",
     "payment_milestones": null,
@@ -37320,7 +37320,7 @@
         "entered_at": "2026-06-14"
       }
     ],
-    "assigned_rm": "Priya Nair",
+    "assigned_rm": "Emma Jackson",
     "source_channel": "paid",
     "pre_approval_date": "2026-07-12",
     "payment_milestones": null,
@@ -37420,7 +37420,7 @@
         "entered_at": "2026-07-15"
       }
     ],
-    "assigned_rm": "James Whitfield",
+    "assigned_rm": "Wajeeh Sayeed",
     "source_channel": "agent_referral",
     "pre_approval_date": "2026-06-23",
     "payment_milestones": [
@@ -37543,7 +37543,7 @@
         "entered_at": "2026-05-23"
       }
     ],
-    "assigned_rm": "Omar Haddad",
+    "assigned_rm": "Adriell Arcellana",
     "source_channel": "organic",
     "pre_approval_date": "2026-07-11",
     "payment_milestones": [
@@ -37638,7 +37638,7 @@
         "entered_at": "2026-07-12"
       }
     ],
-    "assigned_rm": "Omar Haddad",
+    "assigned_rm": "Adriell Arcellana",
     "source_channel": "agent_referral",
     "pre_approval_date": "2026-06-22",
     "payment_milestones": [
@@ -37757,7 +37757,7 @@
         "entered_at": "2026-07-09"
       }
     ],
-    "assigned_rm": "Priya Nair",
+    "assigned_rm": "Emma Jackson",
     "source_channel": "paid",
     "pre_approval_date": "2026-06-18",
     "payment_milestones": null,
@@ -37833,7 +37833,7 @@
         "entered_at": "2026-07-10"
       }
     ],
-    "assigned_rm": "Fatima Al Suwaidi",
+    "assigned_rm": "Alex Sammy",
     "source_channel": "concierge",
     "pre_approval_date": "2026-06-25",
     "payment_milestones": null,
@@ -37923,7 +37923,7 @@
         "entered_at": "2026-07-13"
       }
     ],
-    "assigned_rm": "Fatima Al Suwaidi",
+    "assigned_rm": "Alex Sammy",
     "source_channel": "organic",
     "pre_approval_date": null,
     "payment_milestones": null,
@@ -38043,7 +38043,7 @@
         "entered_at": "2026-06-26"
       }
     ],
-    "assigned_rm": "Aisha Rahman",
+    "assigned_rm": "Chaz Cott",
     "source_channel": "paid",
     "pre_approval_date": "2026-06-15",
     "payment_milestones": null,
@@ -38135,7 +38135,7 @@
         "entered_at": "2026-07-13"
       }
     ],
-    "assigned_rm": "James Whitfield",
+    "assigned_rm": "Wajeeh Sayeed",
     "source_channel": "concierge",
     "pre_approval_date": null,
     "payment_milestones": [
@@ -38240,7 +38240,7 @@
         "entered_at": "2026-07-12"
       }
     ],
-    "assigned_rm": "Daniel Costa",
+    "assigned_rm": "April Dagdagan",
     "source_channel": "agent_referral",
     "pre_approval_date": "2026-07-16",
     "payment_milestones": null,
@@ -38346,7 +38346,7 @@
         "entered_at": "2026-07-14"
       }
     ],
-    "assigned_rm": "Aisha Rahman",
+    "assigned_rm": "Chaz Cott",
     "source_channel": "paid",
     "pre_approval_date": "2026-07-11",
     "payment_milestones": [
@@ -38471,7 +38471,7 @@
         "entered_at": "2026-06-28"
       }
     ],
-    "assigned_rm": "James Whitfield",
+    "assigned_rm": "Wajeeh Sayeed",
     "source_channel": "agent_referral",
     "pre_approval_date": "2026-06-26",
     "payment_milestones": [
@@ -38584,7 +38584,7 @@
         "entered_at": "2026-07-17"
       }
     ],
-    "assigned_rm": "Daniel Costa",
+    "assigned_rm": "April Dagdagan",
     "source_channel": "organic",
     "pre_approval_date": "2026-06-28",
     "payment_milestones": [
@@ -38685,7 +38685,7 @@
         "entered_at": "2026-07-13"
       }
     ],
-    "assigned_rm": "Aisha Rahman",
+    "assigned_rm": "Chaz Cott",
     "source_channel": "agent_referral",
     "pre_approval_date": null,
     "payment_milestones": [
@@ -38804,7 +38804,7 @@
         "entered_at": "2026-07-12"
       }
     ],
-    "assigned_rm": "Fatima Al Suwaidi",
+    "assigned_rm": "Alex Sammy",
     "source_channel": "agent_referral",
     "pre_approval_date": "2026-06-24",
     "payment_milestones": [
@@ -38917,7 +38917,7 @@
         "entered_at": "2026-07-17"
       }
     ],
-    "assigned_rm": "Fatima Al Suwaidi",
+    "assigned_rm": "Alex Sammy",
     "source_channel": "paid",
     "pre_approval_date": "2026-07-17",
     "payment_milestones": [
@@ -39028,7 +39028,7 @@
         "entered_at": "2026-07-15"
       }
     ],
-    "assigned_rm": "Priya Nair",
+    "assigned_rm": "Emma Jackson",
     "source_channel": "organic",
     "pre_approval_date": "2026-07-04",
     "payment_milestones": [
@@ -39139,7 +39139,7 @@
         "entered_at": "2026-07-15"
       }
     ],
-    "assigned_rm": "Aisha Rahman",
+    "assigned_rm": "Chaz Cott",
     "source_channel": "agent_referral",
     "pre_approval_date": null,
     "payment_milestones": null,
@@ -39245,7 +39245,7 @@
         "entered_at": "2026-07-01"
       }
     ],
-    "assigned_rm": "Aisha Rahman",
+    "assigned_rm": "Chaz Cott",
     "source_channel": "paid",
     "pre_approval_date": "2026-06-23",
     "payment_milestones": null,
@@ -39339,7 +39339,7 @@
         "entered_at": "2026-07-10"
       }
     ],
-    "assigned_rm": "Priya Nair",
+    "assigned_rm": "Emma Jackson",
     "source_channel": "paid",
     "pre_approval_date": "2026-06-17",
     "payment_milestones": [
@@ -39442,7 +39442,7 @@
         "entered_at": "2026-07-11"
       }
     ],
-    "assigned_rm": "Fatima Al Suwaidi",
+    "assigned_rm": "Alex Sammy",
     "source_channel": "agent_referral",
     "pre_approval_date": "2026-06-30",
     "payment_milestones": [
@@ -39557,7 +39557,7 @@
         "entered_at": "2026-07-16"
       }
     ],
-    "assigned_rm": "James Whitfield",
+    "assigned_rm": "Wajeeh Sayeed",
     "source_channel": "organic",
     "pre_approval_date": "2026-07-10",
     "payment_milestones": null,
@@ -39663,7 +39663,7 @@
         "entered_at": "2026-07-09"
       }
     ],
-    "assigned_rm": "Priya Nair",
+    "assigned_rm": "Emma Jackson",
     "source_channel": "organic",
     "pre_approval_date": "2026-06-19",
     "payment_milestones": [
@@ -39782,7 +39782,7 @@
         "entered_at": "2026-07-11"
       }
     ],
-    "assigned_rm": "Priya Nair",
+    "assigned_rm": "Emma Jackson",
     "source_channel": "agent_referral",
     "pre_approval_date": "2026-07-01",
     "payment_milestones": [
@@ -39901,7 +39901,7 @@
         "entered_at": "2026-07-15"
       }
     ],
-    "assigned_rm": "Omar Haddad",
+    "assigned_rm": "Adriell Arcellana",
     "source_channel": "paid",
     "pre_approval_date": "2026-06-21",
     "payment_milestones": null,
@@ -40017,7 +40017,7 @@
         "entered_at": "2026-07-16"
       }
     ],
-    "assigned_rm": "Fatima Al Suwaidi",
+    "assigned_rm": "Alex Sammy",
     "source_channel": "agent_referral",
     "pre_approval_date": "2026-07-10",
     "payment_milestones": null,
@@ -40121,7 +40121,7 @@
         "entered_at": "2026-07-10"
       }
     ],
-    "assigned_rm": "Omar Haddad",
+    "assigned_rm": "Adriell Arcellana",
     "source_channel": "organic",
     "pre_approval_date": "2026-07-09",
     "payment_milestones": [
@@ -40248,7 +40248,7 @@
         "entered_at": "2026-07-11"
       }
     ],
-    "assigned_rm": "Omar Haddad",
+    "assigned_rm": "Adriell Arcellana",
     "source_channel": "paid",
     "pre_approval_date": "2026-07-09",
     "payment_milestones": [
@@ -40371,7 +40371,7 @@
         "entered_at": "2026-07-05"
       }
     ],
-    "assigned_rm": "Omar Haddad",
+    "assigned_rm": "Adriell Arcellana",
     "source_channel": "paid",
     "pre_approval_date": "2026-07-15",
     "payment_milestones": null,
@@ -40451,7 +40451,7 @@
         "entered_at": "2026-07-15"
       }
     ],
-    "assigned_rm": "Daniel Costa",
+    "assigned_rm": "April Dagdagan",
     "source_channel": "agent_referral",
     "pre_approval_date": "2026-07-11",
     "payment_milestones": [
@@ -40566,7 +40566,7 @@
         "entered_at": "2026-06-23"
       }
     ],
-    "assigned_rm": "Daniel Costa",
+    "assigned_rm": "April Dagdagan",
     "source_channel": "organic",
     "pre_approval_date": "2026-07-17",
     "payment_milestones": [
@@ -40689,7 +40689,7 @@
         "entered_at": "2026-07-14"
       }
     ],
-    "assigned_rm": "Fatima Al Suwaidi",
+    "assigned_rm": "Alex Sammy",
     "source_channel": "concierge",
     "pre_approval_date": "2026-07-08",
     "payment_milestones": null,
@@ -40822,7 +40822,7 @@
         "entered_at": "2026-07-12"
       }
     ],
-    "assigned_rm": "Daniel Costa",
+    "assigned_rm": "April Dagdagan",
     "source_channel": "concierge",
     "pre_approval_date": "2026-06-18",
     "payment_milestones": [
@@ -40925,7 +40925,7 @@
         "entered_at": "2026-07-16"
       }
     ],
-    "assigned_rm": "Omar Haddad",
+    "assigned_rm": "Adriell Arcellana",
     "source_channel": "organic",
     "pre_approval_date": null,
     "payment_milestones": [
@@ -41036,7 +41036,7 @@
         "entered_at": "2026-07-09"
       }
     ],
-    "assigned_rm": "Fatima Al Suwaidi",
+    "assigned_rm": "Alex Sammy",
     "source_channel": "concierge",
     "pre_approval_date": "2026-06-23",
     "payment_milestones": [
@@ -41167,7 +41167,7 @@
         "entered_at": "2026-07-12"
       }
     ],
-    "assigned_rm": "Aisha Rahman",
+    "assigned_rm": "Chaz Cott",
     "source_channel": "organic",
     "pre_approval_date": "2026-06-13",
     "payment_milestones": [
@@ -41295,7 +41295,7 @@
         "entered_at": "2026-07-14"
       }
     ],
-    "assigned_rm": "Priya Nair",
+    "assigned_rm": "Emma Jackson",
     "source_channel": "agent_referral",
     "pre_approval_date": "2026-06-10",
     "payment_milestones": null,
@@ -41401,7 +41401,7 @@
         "entered_at": "2026-07-11"
       }
     ],
-    "assigned_rm": "James Whitfield",
+    "assigned_rm": "Wajeeh Sayeed",
     "source_channel": "agent_referral",
     "pre_approval_date": "2026-06-13",
     "payment_milestones": null,
@@ -41511,7 +41511,7 @@
         "entered_at": "2026-06-10"
       }
     ],
-    "assigned_rm": "Priya Nair",
+    "assigned_rm": "Emma Jackson",
     "source_channel": "paid",
     "pre_approval_date": "2026-07-17",
     "payment_milestones": null,
@@ -41607,7 +41607,7 @@
         "entered_at": "2026-07-10"
       }
     ],
-    "assigned_rm": "Fatima Al Suwaidi",
+    "assigned_rm": "Alex Sammy",
     "source_channel": "concierge",
     "pre_approval_date": "2026-06-29",
     "payment_milestones": [
@@ -41742,7 +41742,7 @@
         "entered_at": "2026-07-15"
       }
     ],
-    "assigned_rm": "Fatima Al Suwaidi",
+    "assigned_rm": "Alex Sammy",
     "source_channel": "organic",
     "pre_approval_date": "2026-07-08",
     "payment_milestones": [
@@ -41861,7 +41861,7 @@
         "entered_at": "2026-07-10"
       }
     ],
-    "assigned_rm": "Daniel Costa",
+    "assigned_rm": "April Dagdagan",
     "source_channel": "organic",
     "pre_approval_date": "2026-07-09",
     "payment_milestones": null,
@@ -41988,7 +41988,7 @@
         "entered_at": "2026-07-09"
       }
     ],
-    "assigned_rm": "Omar Haddad",
+    "assigned_rm": "Adriell Arcellana",
     "source_channel": "paid",
     "pre_approval_date": "2026-06-26",
     "payment_milestones": [
@@ -42109,7 +42109,7 @@
         "entered_at": "2026-07-16"
       }
     ],
-    "assigned_rm": "Aisha Rahman",
+    "assigned_rm": "Chaz Cott",
     "source_channel": "concierge",
     "pre_approval_date": "2026-07-05",
     "payment_milestones": [
@@ -42212,7 +42212,7 @@
         "entered_at": "2026-07-13"
       }
     ],
-    "assigned_rm": "Aisha Rahman",
+    "assigned_rm": "Chaz Cott",
     "source_channel": "organic",
     "pre_approval_date": null,
     "payment_milestones": null,
@@ -42320,7 +42320,7 @@
         "entered_at": "2026-07-11"
       }
     ],
-    "assigned_rm": "James Whitfield",
+    "assigned_rm": "Wajeeh Sayeed",
     "source_channel": "concierge",
     "pre_approval_date": "2026-05-24",
     "payment_milestones": null,
@@ -42404,7 +42404,7 @@
         "entered_at": "2026-07-16"
       }
     ],
-    "assigned_rm": "Fatima Al Suwaidi",
+    "assigned_rm": "Alex Sammy",
     "source_channel": "paid",
     "pre_approval_date": "2026-07-10",
     "payment_milestones": [
@@ -42519,7 +42519,7 @@
         "entered_at": "2026-07-17"
       }
     ],
-    "assigned_rm": "Priya Nair",
+    "assigned_rm": "Emma Jackson",
     "source_channel": "organic",
     "pre_approval_date": "2026-06-22",
     "payment_milestones": null,
@@ -42639,7 +42639,7 @@
         "entered_at": "2026-07-15"
       }
     ],
-    "assigned_rm": "Fatima Al Suwaidi",
+    "assigned_rm": "Alex Sammy",
     "source_channel": "concierge",
     "pre_approval_date": "2026-07-16",
     "payment_milestones": [
@@ -42770,7 +42770,7 @@
         "entered_at": "2026-07-13"
       }
     ],
-    "assigned_rm": "Omar Haddad",
+    "assigned_rm": "Adriell Arcellana",
     "source_channel": "agent_referral",
     "pre_approval_date": "2026-06-26",
     "payment_milestones": [
@@ -42883,7 +42883,7 @@
         "entered_at": "2026-07-13"
       }
     ],
-    "assigned_rm": "James Whitfield",
+    "assigned_rm": "Wajeeh Sayeed",
     "source_channel": "paid",
     "pre_approval_date": "2026-06-12",
     "payment_milestones": [
@@ -42980,7 +42980,7 @@
         "entered_at": "2026-07-14"
       }
     ],
-    "assigned_rm": "Aisha Rahman",
+    "assigned_rm": "Chaz Cott",
     "source_channel": "agent_referral",
     "pre_approval_date": "2026-06-14",
     "payment_milestones": null,
@@ -43096,7 +43096,7 @@
         "entered_at": "2026-07-17"
       }
     ],
-    "assigned_rm": "James Whitfield",
+    "assigned_rm": "Wajeeh Sayeed",
     "source_channel": "agent_referral",
     "pre_approval_date": "2026-07-12",
     "payment_milestones": [
@@ -43229,7 +43229,7 @@
         "entered_at": "2026-07-12"
       }
     ],
-    "assigned_rm": "Aisha Rahman",
+    "assigned_rm": "Chaz Cott",
     "source_channel": "agent_referral",
     "pre_approval_date": "2026-06-23",
     "payment_milestones": null,
@@ -43331,7 +43331,7 @@
         "entered_at": "2026-07-16"
       }
     ],
-    "assigned_rm": "Aisha Rahman",
+    "assigned_rm": "Chaz Cott",
     "source_channel": "concierge",
     "pre_approval_date": null,
     "payment_milestones": null,
@@ -43441,7 +43441,7 @@
         "entered_at": "2026-07-08"
       }
     ],
-    "assigned_rm": "James Whitfield",
+    "assigned_rm": "Wajeeh Sayeed",
     "source_channel": "concierge",
     "pre_approval_date": "2026-05-24",
     "payment_milestones": [
@@ -43524,7 +43524,7 @@
         "entered_at": "2026-07-12"
       }
     ],
-    "assigned_rm": "Omar Haddad",
+    "assigned_rm": "Adriell Arcellana",
     "source_channel": "concierge",
     "pre_approval_date": "2026-06-15",
     "payment_milestones": null,
@@ -43638,7 +43638,7 @@
         "entered_at": "2026-07-10"
       }
     ],
-    "assigned_rm": "Daniel Costa",
+    "assigned_rm": "April Dagdagan",
     "source_channel": "paid",
     "pre_approval_date": "2026-07-16",
     "payment_milestones": [
@@ -43760,7 +43760,7 @@
         "entered_at": "2026-06-25"
       }
     ],
-    "assigned_rm": "Aisha Rahman",
+    "assigned_rm": "Chaz Cott",
     "source_channel": "organic",
     "pre_approval_date": "2026-07-11",
     "payment_milestones": null,
@@ -43868,7 +43868,7 @@
         "entered_at": "2026-07-11"
       }
     ],
-    "assigned_rm": "James Whitfield",
+    "assigned_rm": "Wajeeh Sayeed",
     "source_channel": "organic",
     "pre_approval_date": "2026-07-13",
     "payment_milestones": null,
@@ -43974,7 +43974,7 @@
         "entered_at": "2026-06-08"
       }
     ],
-    "assigned_rm": "Fatima Al Suwaidi",
+    "assigned_rm": "Alex Sammy",
     "source_channel": "agent_referral",
     "pre_approval_date": "2026-06-17",
     "payment_milestones": [
@@ -44091,7 +44091,7 @@
         "entered_at": "2026-07-15"
       }
     ],
-    "assigned_rm": "Daniel Costa",
+    "assigned_rm": "April Dagdagan",
     "source_channel": "paid",
     "pre_approval_date": "2026-07-02",
     "payment_milestones": null,

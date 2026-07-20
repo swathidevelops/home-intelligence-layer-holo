@@ -52,12 +52,12 @@ SIGNED_IDX = STAGE_INDEX["signed"]
 DISBURSED_IDX = STAGE_INDEX["disbursed"]
 
 RMS = [
-    "Aisha Rahman",
-    "Omar Haddad",
-    "Priya Nair",
-    "James Whitfield",
-    "Fatima Al Suwaidi",
-    "Daniel Costa",
+    "Chaz Cott",
+    "Adriell Arcellana",
+    "Emma Jackson",
+    "Wajeeh Sayeed",
+    "Alex Sammy",
+    "April Dagdagan",
 ]
 
 SOURCE_CHANNELS = ["organic", "agent_referral", "concierge", "paid"]

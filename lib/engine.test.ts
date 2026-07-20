@@ -62,7 +62,7 @@ function makeCase(overrides: Partial<Case> = {}): Case {
     valuation_status: 'not_requested',
     valuation_requested_date: null,
     stage_history: [{ stage, entered_at: daysBefore(dwell) }],
-    assigned_rm: 'Aisha Rahman',
+    assigned_rm: 'Chaz Cott',
     source_channel: 'organic',
     pre_approval_date: daysBefore(10),
     payment_milestones: null,
