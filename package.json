@@ -1,0 +1,37 @@
+{
+  "name": "home-intelligence-layer",
+  "version": "0.1.0",
+  "private": true,
+  "description": "HOME Intelligence Layer - working prototype for Holo Principal PM submission",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "gen:cases": "py scripts/generate_cases.py",
+    "gen:evals": "py scripts/run_evals.py",
+    "gen:briefs": "py scripts/generate_ai_briefs.py",
+    "gen:all": "npm run gen:cases && npm run gen:briefs && npm run gen:evals"
+  },
+  "dependencies": {
+    "next": "14.2.5",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "recharts": "2.12.7"
+  },
+  "devDependencies": {
+    "@types/node": "20.14.11",
+    "@types/react": "18.3.3",
+    "@types/react-dom": "18.3.0",
+    "autoprefixer": "10.4.19",
+    "eslint": "8.57.0",
+    "eslint-config-next": "14.2.5",
+    "postcss": "8.4.39",
+    "tailwindcss": "3.4.6",
+    "typescript": "5.5.3",
+    "vitest": "2.0.4"
+  }
+}

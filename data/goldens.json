@@ -1,0 +1,1712 @@
+{
+  "_instructions": "Fill each case's \"label\" with one of STALLED, RATIONAL_PAUSE, or HEALTHY, using only the _facts and _recent_activity shown. Do not run the engine. STALLED = at risk but the client is still engaged and recoverable (worth a call or nudge). RATIONAL_PAUSE = at risk and the client has gone silent since costs were disclosed (valuation or later) and is likely re-evaluating (route to nurture, stop active RM time). HEALTHY = not an active at-risk stall (moving normally, or only a cross-sell opportunity).",
+  "_label_options": [
+    "STALLED",
+    "RATIONAL_PAUSE",
+    "HEALTHY"
+  ],
+  "cases": [
+    {
+      "label": "RATIONAL_PAUSE",
+      "id": "HOL-0066",
+      "client_name": "Tariq Rahman",
+      "stage": "final_offer",
+      "segment": "self_employed",
+      "residency": "resident",
+      "purpose": "investment",
+      "property_type": "ready",
+      "property_price": 1250000,
+      "loan_amount": 938000,
+      "expected_commission": 6660,
+      "_facts": {
+        "days_in_current_stage": 40,
+        "days_since_last_inbound": 69,
+        "days_since_last_activity": 5,
+        "outbound_last_10_days": 2,
+        "inbound_last_10_days": 0,
+        "valuation_status": "completed",
+        "docs_outstanding": 0,
+        "pre_approval_expires_in_days": null,
+        "next_milestone_due_in_days": null,
+        "handover_in_days": null,
+        "transfer_type": null,
+        "services_attached": []
+      },
+      "_recent_activity": [
+        {
+          "days_ago": 5,
+          "direction": "outbound",
+          "channel": "whatsapp",
+          "type": "nudge"
+        },
+        {
+          "days_ago": 9,
+          "direction": "outbound",
+          "channel": "whatsapp",
+          "type": "nudge"
+        },
+        {
+          "days_ago": 39,
+          "direction": "outbound",
+          "channel": "call",
+          "type": "valuation_result"
+        },
+        {
+          "days_ago": 69,
+          "direction": "inbound",
+          "channel": "whatsapp",
+          "type": "doc_upload"
+        },
+        {
+          "days_ago": 75,
+          "direction": "outbound",
+          "channel": "call",
+          "type": "doc_request"
+        }
+      ]
+    },
+    {
+      "label": "RATIONAL_PAUSE",
+      "id": "HOL-0082",
+      "client_name": "Zainab Khan",
+      "stage": "valuation",
+      "segment": "salaried",
+      "residency": "non_resident",
+      "purpose": "end_use",
+      "property_type": "offplan",
+      "property_price": 1550000,
+      "loan_amount": 1162000,
+      "expected_commission": 13712,
+      "_facts": {
+        "days_in_current_stage": 37,
+        "days_since_last_inbound": 70,
+        "days_since_last_activity": 4,
+        "outbound_last_10_days": 1,
+        "inbound_last_10_days": 0,
+        "valuation_status": "completed",
+        "docs_outstanding": 0,
+        "pre_approval_expires_in_days": 30,
+        "next_milestone_due_in_days": 187,
+        "handover_in_days": 451,
+        "transfer_type": null,
+        "services_attached": []
+      },
+      "_recent_activity": [
+        {
+          "days_ago": 4,
+          "direction": "outbound",
+          "channel": "whatsapp",
+          "type": "nudge"
+        },
+        {
+          "days_ago": 16,
+          "direction": "outbound",
+          "channel": "whatsapp",
+          "type": "nudge"
+        },
+        {
+          "days_ago": 37,
+          "direction": "outbound",
+          "channel": "call",
+          "type": "valuation_result"
+        },
+        {
+          "days_ago": 70,
+          "direction": "inbound",
+          "channel": "whatsapp",
+          "type": "doc_upload"
+        },
+        {
+          "days_ago": 74,
+          "direction": "outbound",
+          "channel": "call",
+          "type": "doc_request"
+        }
+      ]
+    },
+    {
+      "label": "RATIONAL_PAUSE",
+      "id": "HOL-0158",
+      "client_name": "Noura Al Suwaidi",
+      "stage": "valuation",
+      "segment": "self_employed",
+      "residency": "resident",
+      "purpose": "end_use",
+      "property_type": "offplan",
+      "property_price": 1500000,
+      "loan_amount": 1125000,
+      "expected_commission": 10350,
+      "_facts": {
+        "days_in_current_stage": 35,
+        "days_since_last_inbound": 64,
+        "days_since_last_activity": 4,
+        "outbound_last_10_days": 1,
+        "inbound_last_10_days": 0,
+        "valuation_status": "completed",
+        "docs_outstanding": 1,
+        "pre_approval_expires_in_days": 20,
+        "next_milestone_due_in_days": 134,
+        "handover_in_days": 790,
+        "transfer_type": null,
+        "services_attached": []
+      },
+      "_recent_activity": [
+        {
+          "days_ago": 4,
+          "direction": "outbound",
+          "channel": "whatsapp",
+          "type": "nudge"
+        },
+        {
+          "days_ago": 15,
+          "direction": "outbound",
+          "channel": "whatsapp",
+          "type": "nudge"
+        },
+        {
+          "days_ago": 35,
+          "direction": "outbound",
+          "channel": "call",
+          "type": "valuation_result"
+        },
+        {
+          "days_ago": 64,
+          "direction": "inbound",
+          "channel": "whatsapp",
+          "type": "doc_upload"
+        },
+        {
+          "days_ago": 69,
+          "direction": "outbound",
+          "channel": "call",
+          "type": "doc_request"
+        }
+      ]
+    },
+    {
+      "label": "RATIONAL_PAUSE",
+      "id": "HOL-0201",
+      "client_name": "Chen Williams",
+      "stage": "final_offer",
+      "segment": "self_employed",
+      "residency": "resident",
+      "purpose": "end_use",
+      "property_type": "ready",
+      "property_price": 2350000,
+      "loan_amount": 1762000,
+      "expected_commission": 17972,
+      "_facts": {
+        "days_in_current_stage": 35,
+        "days_since_last_inbound": 55,
+        "days_since_last_activity": 3,
+        "outbound_last_10_days": 2,
+        "inbound_last_10_days": 0,
+        "valuation_status": "completed",
+        "docs_outstanding": 0,
+        "pre_approval_expires_in_days": null,
+        "next_milestone_due_in_days": null,
+        "handover_in_days": null,
+        "transfer_type": null,
+        "services_attached": []
+      },
+      "_recent_activity": [
+        {
+          "days_ago": 3,
+          "direction": "outbound",
+          "channel": "whatsapp",
+          "type": "nudge"
+        },
+        {
+          "days_ago": 9,
+          "direction": "outbound",
+          "channel": "whatsapp",
+          "type": "nudge"
+        },
+        {
+          "days_ago": 32,
+          "direction": "outbound",
+          "channel": "call",
+          "type": "valuation_result"
+        },
+        {
+          "days_ago": 55,
+          "direction": "inbound",
+          "channel": "whatsapp",
+          "type": "doc_upload"
+        },
+        {
+          "days_ago": 61,
+          "direction": "outbound",
+          "channel": "call",
+          "type": "doc_request"
+        }
+      ]
+    },
+    {
+      "label": "STALLED",
+      "id": "HOL-0038",
+      "client_name": "Deepak Al Hashimi",
+      "stage": "valuation",
+      "segment": "self_employed",
+      "residency": "resident",
+      "purpose": "end_use",
+      "property_type": "ready",
+      "property_price": 2500000,
+      "loan_amount": 1875000,
+      "expected_commission": 17438,
+      "_facts": {
+        "days_in_current_stage": 24,
+        "days_since_last_inbound": 13,
+        "days_since_last_activity": 1,
+        "outbound_last_10_days": 3,
+        "inbound_last_10_days": 0,
+        "valuation_status": "completed",
+        "docs_outstanding": 0,
+        "pre_approval_expires_in_days": 23,
+        "next_milestone_due_in_days": null,
+        "handover_in_days": null,
+        "transfer_type": null,
+        "services_attached": [
+          "concierge"
+        ]
+      },
+      "_recent_activity": [
+        {
+          "days_ago": 1,
+          "direction": "outbound",
+          "channel": "whatsapp",
+          "type": "follow_up"
+        },
+        {
+          "days_ago": 3,
+          "direction": "outbound",
+          "channel": "call",
+          "type": "follow_up"
+        },
+        {
+          "days_ago": 6,
+          "direction": "outbound",
+          "channel": "whatsapp",
+          "type": "follow_up"
+        },
+        {
+          "days_ago": 13,
+          "direction": "inbound",
+          "channel": "whatsapp",
+          "type": "reply"
+        },
+        {
+          "days_ago": 27,
+          "direction": "inbound",
+          "channel": "whatsapp",
+          "type": "cost_concern"
+        }
+      ]
+    },
+    {
+      "label": "STALLED",
+      "id": "HOL-0057",
+      "client_name": "Arjun Patel",
+      "stage": "final_offer",
+      "segment": "salaried",
+      "residency": "resident",
+      "purpose": "end_use",
+      "property_type": "ready",
+      "property_price": 1100000,
+      "loan_amount": 836000,
+      "expected_commission": 5936,
+      "_facts": {
+        "days_in_current_stage": 21,
+        "days_since_last_inbound": 12,
+        "days_since_last_activity": 2,
+        "outbound_last_10_days": 3,
+        "inbound_last_10_days": 0,
+        "valuation_status": "completed",
+        "docs_outstanding": 0,
+        "pre_approval_expires_in_days": null,
+        "next_milestone_due_in_days": null,
+        "handover_in_days": null,
+        "transfer_type": null,
+        "services_attached": []
+      },
+      "_recent_activity": [
+        {
+          "days_ago": 2,
+          "direction": "outbound",
+          "channel": "whatsapp",
+          "type": "follow_up"
+        },
+        {
+          "days_ago": 4,
+          "direction": "outbound",
+          "channel": "call",
+          "type": "follow_up"
+        },
+        {
+          "days_ago": 8,
+          "direction": "outbound",
+          "channel": "whatsapp",
+          "type": "follow_up"
+        },
+        {
+          "days_ago": 12,
+          "direction": "inbound",
+          "channel": "whatsapp",
+          "type": "reply"
+        },
+        {
+          "days_ago": 22,
+          "direction": "inbound",
+          "channel": "whatsapp",
+          "type": "cost_concern"
+        }
+      ]
+    },
+    {
+      "label": "STALLED",
+      "id": "HOL-0061",
+      "client_name": "Daniel Nair",
+      "stage": "valuation",
+      "segment": "salaried",
+      "residency": "resident",
+      "purpose": "investment",
+      "property_type": "ready",
+      "property_price": 2500000,
+      "loan_amount": 1875000,
+      "expected_commission": 12375,
+      "_facts": {
+        "days_in_current_stage": 22,
+        "days_since_last_inbound": 13,
+        "days_since_last_activity": 2,
+        "outbound_last_10_days": 3,
+        "inbound_last_10_days": 0,
+        "valuation_status": "completed",
+        "docs_outstanding": 1,
+        "pre_approval_expires_in_days": 36,
+        "next_milestone_due_in_days": null,
+        "handover_in_days": null,
+        "transfer_type": null,
+        "services_attached": []
+      },
+      "_recent_activity": [
+        {
+          "days_ago": 2,
+          "direction": "outbound",
+          "channel": "whatsapp",
+          "type": "follow_up"
+        },
+        {
+          "days_ago": 4,
+          "direction": "outbound",
+          "channel": "call",
+          "type": "follow_up"
+        },
+        {
+          "days_ago": 7,
+          "direction": "outbound",
+          "channel": "whatsapp",
+          "type": "follow_up"
+        },
+        {
+          "days_ago": 13,
+          "direction": "inbound",
+          "channel": "whatsapp",
+          "type": "reply"
+        },
+        {
+          "days_ago": 25,
+          "direction": "inbound",
+          "channel": "whatsapp",
+          "type": "cost_concern"
+        }
+      ]
+    },
+    {
+      "label": "HEALTHY",
+      "id": "HOL-0016",
+      "client_name": "Noura Sharma",
+      "stage": "application",
+      "segment": "salaried",
+      "residency": "resident",
+      "purpose": "end_use",
+      "property_type": "offplan",
+      "property_price": 800000,
+      "loan_amount": 608000,
+      "expected_commission": 6323,
+      "_facts": {
+        "days_in_current_stage": 7,
+        "days_since_last_inbound": 13,
+        "days_since_last_activity": 4,
+        "outbound_last_10_days": 2,
+        "inbound_last_10_days": 0,
+        "valuation_status": "not_requested",
+        "docs_outstanding": 0,
+        "pre_approval_expires_in_days": 24,
+        "next_milestone_due_in_days": 6,
+        "handover_in_days": 231,
+        "transfer_type": null,
+        "services_attached": [
+          "concierge"
+        ]
+      },
+      "_recent_activity": [
+        {
+          "days_ago": 4,
+          "direction": "outbound",
+          "channel": "call",
+          "type": "payment_reminder"
+        },
+        {
+          "days_ago": 6,
+          "direction": "outbound",
+          "channel": "whatsapp",
+          "type": "payment_reminder"
+        },
+        {
+          "days_ago": 13,
+          "direction": "inbound",
+          "channel": "whatsapp",
+          "type": "reply"
+        },
+        {
+          "days_ago": 22,
+          "direction": "outbound",
+          "channel": "call",
+          "type": "intro_call"
+        }
+      ]
+    },
+    {
+      "label": "HEALTHY",
+      "id": "HOL-0045",
+      "client_name": "Khalid Patel",
+      "stage": "property_found",
+      "segment": "salaried",
+      "residency": "resident",
+      "purpose": "investment",
+      "property_type": "offplan",
+      "property_price": 2350000,
+      "loan_amount": 1762000,
+      "expected_commission": 18501,
+      "_facts": {
+        "days_in_current_stage": 14,
+        "days_since_last_inbound": 13,
+        "days_since_last_activity": 3,
+        "outbound_last_10_days": 2,
+        "inbound_last_10_days": 0,
+        "valuation_status": "not_requested",
+        "docs_outstanding": 0,
+        "pre_approval_expires_in_days": 23,
+        "next_milestone_due_in_days": 22,
+        "handover_in_days": 1028,
+        "transfer_type": null,
+        "services_attached": [
+          "concierge"
+        ]
+      },
+      "_recent_activity": [
+        {
+          "days_ago": 3,
+          "direction": "outbound",
+          "channel": "whatsapp",
+          "type": "payment_reminder"
+        },
+        {
+          "days_ago": 6,
+          "direction": "outbound",
+          "channel": "call",
+          "type": "payment_reminder"
+        },
+        {
+          "days_ago": 13,
+          "direction": "inbound",
+          "channel": "whatsapp",
+          "type": "reply"
+        },
+        {
+          "days_ago": 28,
+          "direction": "outbound",
+          "channel": "call",
+          "type": "intro_call"
+        }
+      ]
+    },
+    {
+      "label": "HEALTHY",
+      "id": "HOL-0001",
+      "client_name": "Hamdan Haddad",
+      "stage": "valuation",
+      "segment": "salaried",
+      "residency": "resident",
+      "purpose": "investment",
+      "property_type": "ready",
+      "property_price": 2350000,
+      "loan_amount": 1786000,
+      "expected_commission": 9109,
+      "_facts": {
+        "days_in_current_stage": 12,
+        "days_since_last_inbound": 6,
+        "days_since_last_activity": 1,
+        "outbound_last_10_days": 1,
+        "inbound_last_10_days": 1,
+        "valuation_status": "requested",
+        "docs_outstanding": 0,
+        "pre_approval_expires_in_days": 57,
+        "next_milestone_due_in_days": null,
+        "handover_in_days": null,
+        "transfer_type": null,
+        "services_attached": []
+      },
+      "_recent_activity": [
+        {
+          "days_ago": 1,
+          "direction": "outbound",
+          "channel": "email",
+          "type": "chase_valuer"
+        },
+        {
+          "days_ago": 6,
+          "direction": "inbound",
+          "channel": "whatsapp",
+          "type": "reply"
+        },
+        {
+          "days_ago": 15,
+          "direction": "outbound",
+          "channel": "call",
+          "type": "valuation_requested"
+        }
+      ]
+    },
+    {
+      "label": "HEALTHY",
+      "id": "HOL-0012",
+      "client_name": "Mohammed Al Balushi",
+      "stage": "valuation",
+      "segment": "salaried",
+      "residency": "resident",
+      "purpose": "investment",
+      "property_type": "ready",
+      "property_price": 1150000,
+      "loan_amount": 897000,
+      "expected_commission": 7445,
+      "_facts": {
+        "days_in_current_stage": 9,
+        "days_since_last_inbound": 12,
+        "days_since_last_activity": 1,
+        "outbound_last_10_days": 1,
+        "inbound_last_10_days": 0,
+        "valuation_status": "requested",
+        "docs_outstanding": 0,
+        "pre_approval_expires_in_days": 43,
+        "next_milestone_due_in_days": null,
+        "handover_in_days": null,
+        "transfer_type": null,
+        "services_attached": []
+      },
+      "_recent_activity": [
+        {
+          "days_ago": 1,
+          "direction": "outbound",
+          "channel": "email",
+          "type": "chase_valuer"
+        },
+        {
+          "days_ago": 12,
+          "direction": "inbound",
+          "channel": "whatsapp",
+          "type": "reply"
+        },
+        {
+          "days_ago": 26,
+          "direction": "outbound",
+          "channel": "call",
+          "type": "valuation_requested"
+        }
+      ]
+    },
+    {
+      "label": "RATIONAL_PAUSE",
+      "id": "HOL-0002",
+      "client_name": "Vikram Al Marri",
+      "stage": "signed",
+      "segment": "salaried",
+      "residency": "resident",
+      "purpose": "end_use",
+      "property_type": "offplan",
+      "property_price": 1000000,
+      "loan_amount": 780000,
+      "expected_commission": 7956,
+      "_facts": {
+        "days_in_current_stage": 57,
+        "days_since_last_inbound": 25,
+        "days_since_last_activity": 4,
+        "outbound_last_10_days": 1,
+        "inbound_last_10_days": 0,
+        "valuation_status": "completed",
+        "docs_outstanding": 0,
+        "pre_approval_expires_in_days": null,
+        "next_milestone_due_in_days": 84,
+        "handover_in_days": 626,
+        "transfer_type": "two_bank",
+        "services_attached": [
+          "conveyancing",
+          "life_insurance"
+        ]
+      },
+      "_recent_activity": [
+        {
+          "days_ago": 4,
+          "direction": "outbound",
+          "channel": "whatsapp",
+          "type": "status_update"
+        },
+        {
+          "days_ago": 12,
+          "direction": "outbound",
+          "channel": "call",
+          "type": "status_update"
+        },
+        {
+          "days_ago": 25,
+          "direction": "inbound",
+          "channel": "email",
+          "type": "transfer_query"
+        },
+        {
+          "days_ago": 43,
+          "direction": "inbound",
+          "channel": "whatsapp",
+          "type": "signed_docs"
+        }
+      ]
+    },
+    {
+      "label": "RATIONAL_PAUSE",
+      "id": "HOL-0017",
+      "client_name": "Emily Ivanov",
+      "stage": "signed",
+      "segment": "salaried",
+      "residency": "resident",
+      "purpose": "end_use",
+      "property_type": "ready",
+      "property_price": 900000,
+      "loan_amount": 702000,
+      "expected_commission": 4633,
+      "_facts": {
+        "days_in_current_stage": 48,
+        "days_since_last_inbound": 34,
+        "days_since_last_activity": 6,
+        "outbound_last_10_days": 2,
+        "inbound_last_10_days": 0,
+        "valuation_status": "completed",
+        "docs_outstanding": 1,
+        "pre_approval_expires_in_days": null,
+        "next_milestone_due_in_days": null,
+        "handover_in_days": null,
+        "transfer_type": "two_bank",
+        "services_attached": [
+          "conveyancing",
+          "life_insurance",
+          "home_insurance"
+        ]
+      },
+      "_recent_activity": [
+        {
+          "days_ago": 6,
+          "direction": "outbound",
+          "channel": "call",
+          "type": "status_update"
+        },
+        {
+          "days_ago": 8,
+          "direction": "outbound",
+          "channel": "whatsapp",
+          "type": "status_update"
+        },
+        {
+          "days_ago": 34,
+          "direction": "inbound",
+          "channel": "email",
+          "type": "transfer_query"
+        },
+        {
+          "days_ago": 44,
+          "direction": "inbound",
+          "channel": "whatsapp",
+          "type": "signed_docs"
+        }
+      ]
+    },
+    {
+      "label": "HEALTHY",
+      "id": "HOL-0069",
+      "client_name": "Vikram Schmidt",
+      "stage": "property_found",
+      "segment": "self_employed",
+      "residency": "non_resident",
+      "purpose": "investment",
+      "property_type": "ready",
+      "property_price": 2100000,
+      "loan_amount": 1680000,
+      "expected_commission": 17136,
+      "_facts": {
+        "days_in_current_stage": 6,
+        "days_since_last_inbound": 8,
+        "days_since_last_activity": 1,
+        "outbound_last_10_days": 1,
+        "inbound_last_10_days": 1,
+        "valuation_status": "not_requested",
+        "docs_outstanding": 0,
+        "pre_approval_expires_in_days": 5,
+        "next_milestone_due_in_days": null,
+        "handover_in_days": null,
+        "transfer_type": null,
+        "services_attached": []
+      },
+      "_recent_activity": [
+        {
+          "days_ago": 1,
+          "direction": "outbound",
+          "channel": "whatsapp",
+          "type": "expiry_reminder"
+        },
+        {
+          "days_ago": 8,
+          "direction": "inbound",
+          "channel": "whatsapp",
+          "type": "property_shortlist"
+        },
+        {
+          "days_ago": 15,
+          "direction": "outbound",
+          "channel": "call",
+          "type": "pre_approval_issued"
+        }
+      ]
+    },
+    {
+      "label": "HEALTHY",
+      "id": "HOL-0123",
+      "client_name": "Emily Johnson",
+      "stage": "property_found",
+      "segment": "salaried",
+      "residency": "resident",
+      "purpose": "end_use",
+      "property_type": "ready",
+      "property_price": 1850000,
+      "loan_amount": 1480000,
+      "expected_commission": 15244,
+      "_facts": {
+        "days_in_current_stage": 7,
+        "days_since_last_inbound": 9,
+        "days_since_last_activity": 1,
+        "outbound_last_10_days": 1,
+        "inbound_last_10_days": 1,
+        "valuation_status": "not_requested",
+        "docs_outstanding": 0,
+        "pre_approval_expires_in_days": 12,
+        "next_milestone_due_in_days": null,
+        "handover_in_days": null,
+        "transfer_type": null,
+        "services_attached": []
+      },
+      "_recent_activity": [
+        {
+          "days_ago": 1,
+          "direction": "outbound",
+          "channel": "whatsapp",
+          "type": "expiry_reminder"
+        },
+        {
+          "days_ago": 9,
+          "direction": "inbound",
+          "channel": "whatsapp",
+          "type": "property_shortlist"
+        },
+        {
+          "days_ago": 20,
+          "direction": "outbound",
+          "channel": "call",
+          "type": "pre_approval_issued"
+        }
+      ]
+    },
+    {
+      "label": "HEALTHY",
+      "id": "HOL-0020",
+      "client_name": "Karim Al Balushi",
+      "stage": "valuation",
+      "segment": "salaried",
+      "residency": "non_resident",
+      "purpose": "end_use",
+      "property_type": "ready",
+      "property_price": 2300000,
+      "loan_amount": 1794000,
+      "expected_commission": 9149,
+      "_facts": {
+        "days_in_current_stage": 11,
+        "days_since_last_inbound": 12,
+        "days_since_last_activity": 9,
+        "outbound_last_10_days": 1,
+        "inbound_last_10_days": 0,
+        "valuation_status": "requested",
+        "docs_outstanding": 2,
+        "pre_approval_expires_in_days": 48,
+        "next_milestone_due_in_days": null,
+        "handover_in_days": null,
+        "transfer_type": null,
+        "services_attached": []
+      },
+      "_recent_activity": [
+        {
+          "days_ago": 9,
+          "direction": "outbound",
+          "channel": "whatsapp",
+          "type": "doc_chase"
+        },
+        {
+          "days_ago": 12,
+          "direction": "inbound",
+          "channel": "whatsapp",
+          "type": "question"
+        },
+        {
+          "days_ago": 13,
+          "direction": "outbound",
+          "channel": "email",
+          "type": "doc_request"
+        }
+      ]
+    },
+    {
+      "label": "HEALTHY",
+      "id": "HOL-0027",
+      "client_name": "Sami Wang",
+      "stage": "application",
+      "segment": "salaried",
+      "residency": "resident",
+      "purpose": "investment",
+      "property_type": "ready",
+      "property_price": 1000000,
+      "loan_amount": 750000,
+      "expected_commission": 6975,
+      "_facts": {
+        "days_in_current_stage": 8,
+        "days_since_last_inbound": 7,
+        "days_since_last_activity": 6,
+        "outbound_last_10_days": 1,
+        "inbound_last_10_days": 1,
+        "valuation_status": "not_requested",
+        "docs_outstanding": 4,
+        "pre_approval_expires_in_days": 55,
+        "next_milestone_due_in_days": null,
+        "handover_in_days": null,
+        "transfer_type": null,
+        "services_attached": []
+      },
+      "_recent_activity": [
+        {
+          "days_ago": 6,
+          "direction": "outbound",
+          "channel": "whatsapp",
+          "type": "doc_chase"
+        },
+        {
+          "days_ago": 7,
+          "direction": "inbound",
+          "channel": "whatsapp",
+          "type": "question"
+        },
+        {
+          "days_ago": 11,
+          "direction": "outbound",
+          "channel": "email",
+          "type": "doc_request"
+        }
+      ]
+    },
+    {
+      "label": "STALLED",
+      "id": "HOL-0143",
+      "client_name": "Noura Al Maktoum",
+      "stage": "final_offer",
+      "segment": "salaried",
+      "residency": "non_resident",
+      "purpose": "end_use",
+      "property_type": "ready",
+      "property_price": 2000000,
+      "loan_amount": 1560000,
+      "expected_commission": 10764,
+      "_facts": {
+        "days_in_current_stage": 22,
+        "days_since_last_inbound": 11,
+        "days_since_last_activity": 1,
+        "outbound_last_10_days": 3,
+        "inbound_last_10_days": 0,
+        "valuation_status": "completed",
+        "docs_outstanding": 1,
+        "pre_approval_expires_in_days": null,
+        "next_milestone_due_in_days": null,
+        "handover_in_days": null,
+        "transfer_type": null,
+        "services_attached": [
+          "conveyancing"
+        ]
+      },
+      "_recent_activity": [
+        {
+          "days_ago": 1,
+          "direction": "outbound",
+          "channel": "whatsapp",
+          "type": "follow_up"
+        },
+        {
+          "days_ago": 5,
+          "direction": "outbound",
+          "channel": "call",
+          "type": "follow_up"
+        },
+        {
+          "days_ago": 6,
+          "direction": "outbound",
+          "channel": "whatsapp",
+          "type": "follow_up"
+        },
+        {
+          "days_ago": 11,
+          "direction": "inbound",
+          "channel": "whatsapp",
+          "type": "reply"
+        },
+        {
+          "days_ago": 24,
+          "direction": "inbound",
+          "channel": "whatsapp",
+          "type": "cost_concern"
+        }
+      ]
+    },
+    {
+      "label": "HEALTHY",
+      "id": "HOL-0004",
+      "client_name": "Thomas Farouk",
+      "stage": "disbursed",
+      "segment": "self_employed",
+      "residency": "resident",
+      "purpose": "end_use",
+      "property_type": "ready",
+      "property_price": 1750000,
+      "loan_amount": 1365000,
+      "expected_commission": 11056,
+      "_facts": {
+        "days_in_current_stage": 9,
+        "days_since_last_inbound": 3,
+        "days_since_last_activity": 3,
+        "outbound_last_10_days": 1,
+        "inbound_last_10_days": 1,
+        "valuation_status": "completed",
+        "docs_outstanding": 1,
+        "pre_approval_expires_in_days": null,
+        "next_milestone_due_in_days": null,
+        "handover_in_days": null,
+        "transfer_type": "one_bank",
+        "services_attached": [
+          "conveyancing",
+          "home_insurance"
+        ]
+      },
+      "_recent_activity": [
+        {
+          "days_ago": 3,
+          "direction": "inbound",
+          "channel": "whatsapp",
+          "type": "status_query"
+        },
+        {
+          "days_ago": 5,
+          "direction": "outbound",
+          "channel": "whatsapp",
+          "type": "follow_up"
+        },
+        {
+          "days_ago": 13,
+          "direction": "inbound",
+          "channel": "whatsapp",
+          "type": "doc_upload"
+        },
+        {
+          "days_ago": 15,
+          "direction": "outbound",
+          "channel": "email",
+          "type": "doc_request"
+        },
+        {
+          "days_ago": 26,
+          "direction": "inbound",
+          "channel": "whatsapp",
+          "type": "reply"
+        }
+      ]
+    },
+    {
+      "label": "HEALTHY",
+      "id": "HOL-0030",
+      "client_name": "Sneha Brown",
+      "stage": "disbursed",
+      "segment": "salaried",
+      "residency": "non_resident",
+      "purpose": "investment",
+      "property_type": "ready",
+      "property_price": 2250000,
+      "loan_amount": 1710000,
+      "expected_commission": 10602,
+      "_facts": {
+        "days_in_current_stage": 7,
+        "days_since_last_inbound": 2,
+        "days_since_last_activity": 2,
+        "outbound_last_10_days": 1,
+        "inbound_last_10_days": 1,
+        "valuation_status": "completed",
+        "docs_outstanding": 0,
+        "pre_approval_expires_in_days": null,
+        "next_milestone_due_in_days": null,
+        "handover_in_days": null,
+        "transfer_type": "two_bank",
+        "services_attached": [
+          "conveyancing",
+          "home_insurance"
+        ]
+      },
+      "_recent_activity": [
+        {
+          "days_ago": 2,
+          "direction": "outbound",
+          "channel": "whatsapp",
+          "type": "follow_up"
+        },
+        {
+          "days_ago": 2,
+          "direction": "inbound",
+          "channel": "whatsapp",
+          "type": "status_query"
+        },
+        {
+          "days_ago": 14,
+          "direction": "inbound",
+          "channel": "whatsapp",
+          "type": "doc_upload"
+        },
+        {
+          "days_ago": 15,
+          "direction": "outbound",
+          "channel": "email",
+          "type": "doc_request"
+        },
+        {
+          "days_ago": 22,
+          "direction": "inbound",
+          "channel": "whatsapp",
+          "type": "reply"
+        }
+      ]
+    },
+    {
+      "label": "HEALTHY",
+      "id": "HOL-0028",
+      "client_name": "Rohan Nair",
+      "stage": "property_found",
+      "segment": "salaried",
+      "residency": "resident",
+      "purpose": "investment",
+      "property_type": "offplan",
+      "property_price": 1000000,
+      "loan_amount": 750000,
+      "expected_commission": 8850,
+      "_facts": {
+        "days_in_current_stage": 8,
+        "days_since_last_inbound": 2,
+        "days_since_last_activity": 2,
+        "outbound_last_10_days": 1,
+        "inbound_last_10_days": 1,
+        "valuation_status": "not_requested",
+        "docs_outstanding": 1,
+        "pre_approval_expires_in_days": 27,
+        "next_milestone_due_in_days": 62,
+        "handover_in_days": 148,
+        "transfer_type": null,
+        "services_attached": []
+      },
+      "_recent_activity": [
+        {
+          "days_ago": 2,
+          "direction": "outbound",
+          "channel": "whatsapp",
+          "type": "follow_up"
+        },
+        {
+          "days_ago": 2,
+          "direction": "inbound",
+          "channel": "whatsapp",
+          "type": "status_query"
+        },
+        {
+          "days_ago": 15,
+          "direction": "inbound",
+          "channel": "whatsapp",
+          "type": "doc_upload"
+        },
+        {
+          "days_ago": 17,
+          "direction": "outbound",
+          "channel": "email",
+          "type": "doc_request"
+        },
+        {
+          "days_ago": 21,
+          "direction": "inbound",
+          "channel": "whatsapp",
+          "type": "reply"
+        }
+      ]
+    },
+    {
+      "label": "HEALTHY",
+      "id": "HOL-0219",
+      "client_name": "Vikram Haddad",
+      "stage": "pre_approval",
+      "segment": "self_employed",
+      "residency": "resident",
+      "purpose": "end_use",
+      "property_type": "offplan",
+      "property_price": 2450000,
+      "loan_amount": 1862000,
+      "expected_commission": 14151,
+      "_facts": {
+        "days_in_current_stage": 5,
+        "days_since_last_inbound": 3,
+        "days_since_last_activity": 3,
+        "outbound_last_10_days": 1,
+        "inbound_last_10_days": 2,
+        "valuation_status": "not_requested",
+        "docs_outstanding": 1,
+        "pre_approval_expires_in_days": 32,
+        "next_milestone_due_in_days": 207,
+        "handover_in_days": 122,
+        "transfer_type": null,
+        "services_attached": [
+          "concierge"
+        ]
+      },
+      "_recent_activity": [
+        {
+          "days_ago": 3,
+          "direction": "inbound",
+          "channel": "whatsapp",
+          "type": "status_query"
+        },
+        {
+          "days_ago": 5,
+          "direction": "outbound",
+          "channel": "whatsapp",
+          "type": "follow_up"
+        },
+        {
+          "days_ago": 8,
+          "direction": "inbound",
+          "channel": "whatsapp",
+          "type": "doc_upload"
+        },
+        {
+          "days_ago": 12,
+          "direction": "outbound",
+          "channel": "email",
+          "type": "doc_request"
+        },
+        {
+          "days_ago": 17,
+          "direction": "inbound",
+          "channel": "whatsapp",
+          "type": "reply"
+        }
+      ]
+    },
+    {
+      "label": "HEALTHY",
+      "id": "HOL-0048",
+      "client_name": "Bilal Al Marri",
+      "stage": "application",
+      "segment": "salaried",
+      "residency": "resident",
+      "purpose": "end_use",
+      "property_type": "ready",
+      "property_price": 2050000,
+      "loan_amount": 1640000,
+      "expected_commission": 19680,
+      "_facts": {
+        "days_in_current_stage": 3,
+        "days_since_last_inbound": 6,
+        "days_since_last_activity": 6,
+        "outbound_last_10_days": 1,
+        "inbound_last_10_days": 1,
+        "valuation_status": "not_requested",
+        "docs_outstanding": 1,
+        "pre_approval_expires_in_days": 39,
+        "next_milestone_due_in_days": null,
+        "handover_in_days": null,
+        "transfer_type": null,
+        "services_attached": []
+      },
+      "_recent_activity": [
+        {
+          "days_ago": 6,
+          "direction": "outbound",
+          "channel": "whatsapp",
+          "type": "follow_up"
+        },
+        {
+          "days_ago": 6,
+          "direction": "inbound",
+          "channel": "whatsapp",
+          "type": "status_query"
+        },
+        {
+          "days_ago": 12,
+          "direction": "inbound",
+          "channel": "whatsapp",
+          "type": "reply"
+        },
+        {
+          "days_ago": 14,
+          "direction": "outbound",
+          "channel": "call",
+          "type": "intro_call"
+        },
+        {
+          "days_ago": 18,
+          "direction": "inbound",
+          "channel": "whatsapp",
+          "type": "doc_upload"
+        }
+      ]
+    },
+    {
+      "label": "HEALTHY",
+      "id": "HOL-0150",
+      "client_name": "Dina Zhang",
+      "stage": "application",
+      "segment": "self_employed",
+      "residency": "resident",
+      "purpose": "investment",
+      "property_type": "offplan",
+      "property_price": 2150000,
+      "loan_amount": 1612000,
+      "expected_commission": 9994,
+      "_facts": {
+        "days_in_current_stage": 6,
+        "days_since_last_inbound": 3,
+        "days_since_last_activity": 3,
+        "outbound_last_10_days": 1,
+        "inbound_last_10_days": 1,
+        "valuation_status": "not_requested",
+        "docs_outstanding": 0,
+        "pre_approval_expires_in_days": 21,
+        "next_milestone_due_in_days": 75,
+        "handover_in_days": 907,
+        "transfer_type": null,
+        "services_attached": []
+      },
+      "_recent_activity": [
+        {
+          "days_ago": 3,
+          "direction": "outbound",
+          "channel": "whatsapp",
+          "type": "follow_up"
+        },
+        {
+          "days_ago": 3,
+          "direction": "inbound",
+          "channel": "whatsapp",
+          "type": "status_query"
+        },
+        {
+          "days_ago": 13,
+          "direction": "inbound",
+          "channel": "whatsapp",
+          "type": "reply"
+        },
+        {
+          "days_ago": 16,
+          "direction": "outbound",
+          "channel": "call",
+          "type": "intro_call"
+        },
+        {
+          "days_ago": 17,
+          "direction": "inbound",
+          "channel": "whatsapp",
+          "type": "doc_upload"
+        }
+      ]
+    },
+    {
+      "label": "HEALTHY",
+      "id": "HOL-0003",
+      "client_name": "Sami Patel",
+      "stage": "pre_approval",
+      "segment": "self_employed",
+      "residency": "non_resident",
+      "purpose": "investment",
+      "property_type": "ready",
+      "property_price": 1600000,
+      "loan_amount": 1200000,
+      "expected_commission": 12000,
+      "_facts": {
+        "days_in_current_stage": 9,
+        "days_since_last_inbound": 4,
+        "days_since_last_activity": 4,
+        "outbound_last_10_days": 2,
+        "inbound_last_10_days": 2,
+        "valuation_status": "not_requested",
+        "docs_outstanding": 1,
+        "pre_approval_expires_in_days": 38,
+        "next_milestone_due_in_days": null,
+        "handover_in_days": null,
+        "transfer_type": null,
+        "services_attached": []
+      },
+      "_recent_activity": [
+        {
+          "days_ago": 4,
+          "direction": "inbound",
+          "channel": "whatsapp",
+          "type": "status_query"
+        },
+        {
+          "days_ago": 6,
+          "direction": "outbound",
+          "channel": "whatsapp",
+          "type": "follow_up"
+        },
+        {
+          "days_ago": 8,
+          "direction": "inbound",
+          "channel": "whatsapp",
+          "type": "doc_upload"
+        },
+        {
+          "days_ago": 10,
+          "direction": "outbound",
+          "channel": "email",
+          "type": "doc_request"
+        },
+        {
+          "days_ago": 19,
+          "direction": "inbound",
+          "channel": "whatsapp",
+          "type": "reply"
+        }
+      ]
+    },
+    {
+      "label": "HEALTHY",
+      "id": "HOL-0007",
+      "client_name": "Omar Mansour",
+      "stage": "valuation",
+      "segment": "salaried",
+      "residency": "resident",
+      "purpose": "investment",
+      "property_type": "ready",
+      "property_price": 1900000,
+      "loan_amount": 1444000,
+      "expected_commission": 10974,
+      "_facts": {
+        "days_in_current_stage": 7,
+        "days_since_last_inbound": 6,
+        "days_since_last_activity": 6,
+        "outbound_last_10_days": 1,
+        "inbound_last_10_days": 1,
+        "valuation_status": "requested",
+        "docs_outstanding": 1,
+        "pre_approval_expires_in_days": 44,
+        "next_milestone_due_in_days": null,
+        "handover_in_days": null,
+        "transfer_type": null,
+        "services_attached": []
+      },
+      "_recent_activity": [
+        {
+          "days_ago": 6,
+          "direction": "inbound",
+          "channel": "whatsapp",
+          "type": "status_query"
+        },
+        {
+          "days_ago": 7,
+          "direction": "outbound",
+          "channel": "whatsapp",
+          "type": "follow_up"
+        },
+        {
+          "days_ago": 11,
+          "direction": "inbound",
+          "channel": "whatsapp",
+          "type": "doc_upload"
+        },
+        {
+          "days_ago": 14,
+          "direction": "outbound",
+          "channel": "email",
+          "type": "doc_request"
+        },
+        {
+          "days_ago": 22,
+          "direction": "inbound",
+          "channel": "whatsapp",
+          "type": "reply"
+        }
+      ]
+    },
+    {
+      "label": "HEALTHY",
+      "id": "HOL-0008",
+      "client_name": "Elena Petrov",
+      "stage": "signed",
+      "segment": "salaried",
+      "residency": "resident",
+      "purpose": "end_use",
+      "property_type": "offplan",
+      "property_price": 1550000,
+      "loan_amount": 1209000,
+      "expected_commission": 13420,
+      "_facts": {
+        "days_in_current_stage": 10,
+        "days_since_last_inbound": 3,
+        "days_since_last_activity": 3,
+        "outbound_last_10_days": 1,
+        "inbound_last_10_days": 1,
+        "valuation_status": "completed",
+        "docs_outstanding": 0,
+        "pre_approval_expires_in_days": null,
+        "next_milestone_due_in_days": 69,
+        "handover_in_days": 245,
+        "transfer_type": "one_bank",
+        "services_attached": [
+          "life_insurance"
+        ]
+      },
+      "_recent_activity": [
+        {
+          "days_ago": 3,
+          "direction": "inbound",
+          "channel": "whatsapp",
+          "type": "status_query"
+        },
+        {
+          "days_ago": 4,
+          "direction": "outbound",
+          "channel": "whatsapp",
+          "type": "follow_up"
+        },
+        {
+          "days_ago": 16,
+          "direction": "inbound",
+          "channel": "whatsapp",
+          "type": "reply"
+        },
+        {
+          "days_ago": 17,
+          "direction": "outbound",
+          "channel": "call",
+          "type": "intro_call"
+        },
+        {
+          "days_ago": 20,
+          "direction": "inbound",
+          "channel": "whatsapp",
+          "type": "doc_upload"
+        }
+      ]
+    },
+    {
+      "label": "HEALTHY",
+      "id": "HOL-0014",
+      "client_name": "Sneha Smith",
+      "stage": "application",
+      "segment": "self_employed",
+      "residency": "non_resident",
+      "purpose": "end_use",
+      "property_type": "offplan",
+      "property_price": 1400000,
+      "loan_amount": 1092000,
+      "expected_commission": 7862,
+      "_facts": {
+        "days_in_current_stage": 5,
+        "days_since_last_inbound": 6,
+        "days_since_last_activity": 6,
+        "outbound_last_10_days": 1,
+        "inbound_last_10_days": 1,
+        "valuation_status": "not_requested",
+        "docs_outstanding": 0,
+        "pre_approval_expires_in_days": 56,
+        "next_milestone_due_in_days": 83,
+        "handover_in_days": 471,
+        "transfer_type": null,
+        "services_attached": []
+      },
+      "_recent_activity": [
+        {
+          "days_ago": 6,
+          "direction": "outbound",
+          "channel": "whatsapp",
+          "type": "follow_up"
+        },
+        {
+          "days_ago": 6,
+          "direction": "inbound",
+          "channel": "whatsapp",
+          "type": "status_query"
+        },
+        {
+          "days_ago": 12,
+          "direction": "inbound",
+          "channel": "whatsapp",
+          "type": "doc_upload"
+        },
+        {
+          "days_ago": 14,
+          "direction": "outbound",
+          "channel": "email",
+          "type": "doc_request"
+        },
+        {
+          "days_ago": 20,
+          "direction": "inbound",
+          "channel": "whatsapp",
+          "type": "reply"
+        }
+      ]
+    },
+    {
+      "label": "HEALTHY",
+      "id": "HOL-0018",
+      "client_name": "Khalid Johnson",
+      "stage": "property_found",
+      "segment": "salaried",
+      "residency": "resident",
+      "purpose": "end_use",
+      "property_type": "ready",
+      "property_price": 1150000,
+      "loan_amount": 862000,
+      "expected_commission": 8620,
+      "_facts": {
+        "days_in_current_stage": 7,
+        "days_since_last_inbound": 2,
+        "days_since_last_activity": 2,
+        "outbound_last_10_days": 1,
+        "inbound_last_10_days": 2,
+        "valuation_status": "not_requested",
+        "docs_outstanding": 1,
+        "pre_approval_expires_in_days": 30,
+        "next_milestone_due_in_days": null,
+        "handover_in_days": null,
+        "transfer_type": null,
+        "services_attached": []
+      },
+      "_recent_activity": [
+        {
+          "days_ago": 2,
+          "direction": "inbound",
+          "channel": "whatsapp",
+          "type": "status_query"
+        },
+        {
+          "days_ago": 3,
+          "direction": "outbound",
+          "channel": "whatsapp",
+          "type": "follow_up"
+        },
+        {
+          "days_ago": 10,
+          "direction": "inbound",
+          "channel": "whatsapp",
+          "type": "doc_upload"
+        },
+        {
+          "days_ago": 13,
+          "direction": "outbound",
+          "channel": "email",
+          "type": "doc_request"
+        },
+        {
+          "days_ago": 25,
+          "direction": "inbound",
+          "channel": "whatsapp",
+          "type": "reply"
+        }
+      ]
+    },
+    {
+      "label": "HEALTHY",
+      "id": "HOL-0036",
+      "client_name": "Chen Haddad",
+      "stage": "final_offer",
+      "segment": "self_employed",
+      "residency": "resident",
+      "purpose": "investment",
+      "property_type": "ready",
+      "property_price": 1700000,
+      "loan_amount": 1326000,
+      "expected_commission": 7823,
+      "_facts": {
+        "days_in_current_stage": 10,
+        "days_since_last_inbound": 3,
+        "days_since_last_activity": 3,
+        "outbound_last_10_days": 1,
+        "inbound_last_10_days": 2,
+        "valuation_status": "completed",
+        "docs_outstanding": 0,
+        "pre_approval_expires_in_days": null,
+        "next_milestone_due_in_days": null,
+        "handover_in_days": null,
+        "transfer_type": null,
+        "services_attached": [
+          "conveyancing",
+          "concierge"
+        ]
+      },
+      "_recent_activity": [
+        {
+          "days_ago": 3,
+          "direction": "inbound",
+          "channel": "whatsapp",
+          "type": "status_query"
+        },
+        {
+          "days_ago": 4,
+          "direction": "outbound",
+          "channel": "whatsapp",
+          "type": "follow_up"
+        },
+        {
+          "days_ago": 8,
+          "direction": "inbound",
+          "channel": "whatsapp",
+          "type": "doc_upload"
+        },
+        {
+          "days_ago": 11,
+          "direction": "outbound",
+          "channel": "email",
+          "type": "doc_request"
+        },
+        {
+          "days_ago": 23,
+          "direction": "inbound",
+          "channel": "whatsapp",
+          "type": "reply"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(node --version)",
+      "PowerShell(npm --version)",
+      "PowerShell(python --version)",
+      "Bash(py scripts/generate_cases.py)",
+      "Bash(py scripts/make_goldens.py)",
+      "Bash(py scripts/goldens_worksheet.py)",
+      "Bash(py -c ' *)",
+      "Bash(py scripts/run_evals.py)",
+      "Bash(py \"C:/Users/swath/AppData/Local/Temp/claude/C--Claude-Code-Projects-Job-search-Job-search-Applications-Holo-holo-proj/39a768a3-6ea6-4908-b13b-4c8aadcaca91/scratchpad/tune_sim.py\")",
+      "Skill(claude-api)",
+      "Skill(claude-api:*)",
+      "Bash(awk '{print $N9, $5}')",
+      "Bash(py -c \"import json; d=json.load\\(open\\('data/eval_results.json',encoding='utf-8'\\)\\); print\\(json.dumps\\({k:\\(v if k!='classifier' else {kk:\\(vv if kk not in\\('disagreements','per_class'\\) else '...'\\) for kk,vv in v.items\\(\\)}\\) for k,v in d.items\\(\\)}, indent=1\\)[:1500]\\)\")",
+      "Bash(py -c \"import json; t=json.load\\(open\\('tsconfig.json'\\)\\); print\\(json.dumps\\(t.get\\('compilerOptions',{}\\).get\\('paths'\\),indent=1\\)\\); print\\('resolveJson:', t.get\\('compilerOptions',{}\\).get\\('resolveJsonModule'\\)\\)\")",
+      "Bash(py -c \"import json; print\\('llm_briefs.status =', json.load\\(open\\('data/eval_results.json'\\)\\)['llm_briefs']['status']\\)\")",
+      "Bash(py -m py_compile scripts/generate_ai_briefs.py)",
+      "Bash(git init *)",
+      "Bash(git config *)",
+      "Bash(echo \"using: $\\(git config user.name\\) <$\\(git config user.email\\)>\")",
+      "Bash(echo \"name:  $\\(git config user.name\\)\")",
+      "Bash(echo \"email: $\\(git config user.email\\)\")",
+      "Bash(git add *)",
+      "Bash(git commit *)"
+    ]
+  }
+}

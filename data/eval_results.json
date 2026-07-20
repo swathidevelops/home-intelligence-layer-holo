@@ -1,0 +1,116 @@
+{
+  "generated_at": "2026-07-20T18:27:52+00:00",
+  "reference_date": "2026-07-20",
+  "classifier": {
+    "n": 30,
+    "accuracy": 0.9,
+    "classes": [
+      "STALLED",
+      "RATIONAL_PAUSE",
+      "HEALTHY"
+    ],
+    "confusion_matrix": [
+      [
+        4,
+        0,
+        0
+      ],
+      [
+        0,
+        6,
+        0
+      ],
+      [
+        3,
+        0,
+        17
+      ]
+    ],
+    "confusion_matrix_orientation": "rows = hand label (true), cols = engine prediction",
+    "per_class": {
+      "STALLED": {
+        "precision": 0.5714,
+        "recall": 1.0,
+        "f1": 0.7273,
+        "support": 4,
+        "true_positives": 4,
+        "false_positives": 3,
+        "false_negatives": 0
+      },
+      "RATIONAL_PAUSE": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "support": 6,
+        "true_positives": 6,
+        "false_positives": 0,
+        "false_negatives": 0
+      },
+      "HEALTHY": {
+        "precision": 1.0,
+        "recall": 0.85,
+        "f1": 0.9189,
+        "support": 20,
+        "true_positives": 17,
+        "false_positives": 0,
+        "false_negatives": 3
+      }
+    },
+    "macro_avg": {
+      "precision": 0.8571,
+      "recall": 0.95,
+      "f1": 0.8821
+    },
+    "disagreements": [
+      {
+        "id": "HOL-0045",
+        "client_name": "Khalid Patel",
+        "stage": "property_found",
+        "gold_label": "HEALTHY",
+        "predicted": "STALLED",
+        "flags": [
+          "PAYMENT_CLIFF",
+          "VELOCITY_STALL"
+        ],
+        "days_in_stage": 14,
+        "days_since_last_inbound": 13
+      },
+      {
+        "id": "HOL-0020",
+        "client_name": "Karim Al Balushi",
+        "stage": "valuation",
+        "gold_label": "HEALTHY",
+        "predicted": "STALLED",
+        "flags": [
+          "DOCS_STUCK"
+        ],
+        "days_in_stage": 11,
+        "days_since_last_inbound": 12
+      },
+      {
+        "id": "HOL-0027",
+        "client_name": "Sami Wang",
+        "stage": "application",
+        "gold_label": "HEALTHY",
+        "predicted": "STALLED",
+        "flags": [
+          "DOCS_STUCK"
+        ],
+        "days_in_stage": 8,
+        "days_since_last_inbound": 7
+      }
+    ],
+    "unlabelled_cases": [],
+    "cases_not_found_in_book": []
+  },
+  "llm_briefs": {
+    "status": "not_run",
+    "reason": "data/ai_briefs.json not generated yet (Prompt 5, run locally with a key)",
+    "checks": [
+      "every number in the brief exists in the case record",
+      "recommended action matches the rules engine output",
+      "no client details absent from the data",
+      "WhatsApp draft under 60 words"
+    ]
+  }
+}
