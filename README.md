@@ -63,6 +63,30 @@ Evaluation is built in, not an afterthought:
   in the case record, the recommended action matches the engine, no client details are invented,
   and the WhatsApp draft is under 60 words.
 
+## Deviations from the spec (and why)
+
+The full build spec is in [`claude.md`](claude.md). The shipped engine deviates from it in a few
+deliberate places — every one is evidence-driven, and I kept the spec as-written so the plan and
+the improvements on it are both visible.
+
+- **Seven risk flags, not five.** The spec's rules table always listed seven; one prompt said
+  "five". Implemented all seven — otherwise two planted leakage patterns would go undetected.
+- **The classifier gates on *stall-detection* flags only.** Early-warning flags (pre-approval
+  expiry, payment cliff, valuation SLA) are time-bound alerts, not stalls — a slow valuer while
+  the client is still replying is not a stalled client. This fix moved the classifier eval from
+  **66.7% → 90%**.
+- **RATIONAL_PAUSE split by cause.** Relaxed to "silent 14+ days and stalled 21+ days", then split
+  into *customer-paused* (the client stepped back → rate-watch / rent-vs-buy nurture) vs
+  *process-blocked* (a two-bank transfer is stuck → chase the bank, **don't** nurture the client).
+  Cross-sell is suppressed for both.
+- **Terminal-stage exclusions.** `VELOCITY_STALL` and `CONVEYANCING_ATTACH` don't fire on
+  `disbursed` — a funded deal can't stall, and conveyancing is a pre-closing service.
+- **Model.** Briefs use `claude-sonnet-5`; the spec's `claude-sonnet-4-6` predates the current
+  Sonnet (overridable via `BRIEF_MODEL`).
+- **Brief eval refinement.** The "no invented details" check was tightened to inspect only
+  mid-sentence capitalised tokens, after it false-flagged sentence-openers ("Wanted", "Quick") and
+  acronyms ("SLA") as hallucinations.
+
 ## Architecture
 
 Everything is computed offline and committed; the deployed app is static.

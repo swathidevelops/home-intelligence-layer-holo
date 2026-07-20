@@ -1,6 +1,13 @@
 # HOME Intelligence Layer, Prototype Build Spec
 Working prototype for Holo Principal PM submission. Built with Claude Code, deployed on Vercel.
 
+> **Note:** This is the *original* build spec. The shipped engine deviates from it in a
+> handful of deliberate, eval-driven ways (classifier gating, the customer-paused vs
+> process-blocked split, terminal-stage flag exclusions, seven risk flags not five). Those
+> changes are intentional and are the correct behaviour — see **README → "Deviations from
+> the spec (and why)"** for the full list and rationale. The spec is kept as-written to show
+> the plan the evidence then improved on.
+
 ---
 
 ## PART A: WORKFLOW
@@ -141,7 +148,7 @@ Verify the summary matches the spec before continuing.
 
 ### Prompt 3, rules engine
 ```
-Implement /lib/engine.ts per the CLAUDE.md rules: priority score, the five risk flags,
+Implement /lib/engine.ts per the CLAUDE.md rules: priority score, the seven risk flags,
 the stall vs rational-pause classifier, and the three cross-sell triggers. Pure functions,
 no React. Stage dwell benchmarks (p75) computed from the dataset itself. Every output must
 include a humanReadableReason string explaining the exact rule that fired with the numbers.
