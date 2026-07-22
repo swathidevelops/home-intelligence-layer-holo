@@ -57,103 +57,137 @@ export default function Leadership({
   }));
 
   const maxReached = Math.max(...data.funnel.map((f) => f.reached), 1);
+  const recoveryOpportunity = Math.round(data.recoverablePct * 100);
+  const topReasonsAbbrv = data.reasonBreakdown.slice(0, 2).map((r) => r.reason).join(', ');
 
   return (
     <main className="mx-auto max-w-[1180px] px-6 py-6">
       <h1 className="text-lg font-semibold tracking-tight text-slate-900">Leadership</h1>
       <p className="mb-5 text-sm text-slate-500">
-        Portfolio view across {data.totals.cases} cases. Synthetic book.
+        Funnel health, leakage, and revenue at risk across {data.totals.cases} cases.
       </p>
 
-      {/* Headline banner */}
+      {/* Strategic headline banner */}
       <div className="mb-5 rounded-lg border border-rose-200 bg-rose-50 p-5">
-        <div className="flex flex-wrap items-baseline gap-x-3 gap-y-1">
-          <span className="text-3xl font-bold tabular-nums text-rose-700">
+        <div className="mb-4 flex flex-wrap items-baseline gap-x-3 gap-y-1">
+          <span className="text-4xl font-bold tabular-nums text-rose-700">
             {aedShort(data.atRiskTotal)}
           </span>
           <span className="text-sm text-rose-600">
-            commission at risk across {data.atRiskCount} flagged cases
+            at stake ({data.atRiskCount} cases)
           </span>
         </div>
-        <div className="mt-3 flex flex-wrap gap-2">
-          {data.reasonBreakdown.map((r) => (
-            <div
-              key={r.reason}
-              className="rounded-md bg-white/70 px-2.5 py-1.5 text-xs ring-1 ring-rose-100"
-            >
-              <span className="font-medium text-slate-700">{r.reason}</span>
-              <span className="ml-1.5 text-slate-400">
-                {r.count} · {aedShort(r.commission)}
-              </span>
-            </div>
-          ))}
-        </div>
+        <p className="text-sm text-rose-700">
+          {recoveryOpportunity}% are engaged stalls (recoverable with action). Most concentrated in{' '}
+          <span className="font-semibold">{STAGE_LABELS[data.weakestStage.stage as Stage]}</span>{' '}
+          due to <span className="font-semibold">{data.topReason.reason.toLowerCase()}</span>.
+        </p>
+        <p className="mt-3 text-xs text-rose-600">
+          AED at stake = expected commission on this case.
+        </p>
       </div>
 
-      <div className="grid gap-5 lg:grid-cols-2">
-        {/* Revenue at risk by stage */}
-        <Card title="Revenue at risk by stage" subtitle="Expected commission on flagged cases">
-          <ResponsiveContainer width="100%" height={240}>
-            <BarChart data={stageData} margin={{ top: 16, right: 8, left: 8, bottom: 0 }}>
-              <XAxis
-                dataKey="stage"
-                tick={{ fontSize: 11, fill: '#64748b' }}
-                interval={0}
-                angle={-20}
-                textAnchor="end"
-                height={50}
-              />
-              <YAxis tickFormatter={(v) => aedShort(v)} tick={{ fontSize: 10, fill: '#94a3b8' }} width={64} />
-              <Tooltip
-                formatter={(v: number) => aed(v)}
-                labelStyle={{ color: '#0f172a' }}
-                contentStyle={{ fontSize: 12, borderRadius: 8 }}
-              />
-              <Bar dataKey="commission" radius={[4, 4, 0, 0]} fill={ROSE}>
-                <LabelList
-                  dataKey="count"
-                  position="top"
-                  formatter={(v: number) => `${v}`}
-                  style={{ fontSize: 10, fill: '#94a3b8' }}
-                />
-              </Bar>
-            </BarChart>
-          </ResponsiveContainer>
-        </Card>
-
-        {/* Funnel leakage */}
-        <Card title="Funnel" subtitle="Cases that reached each stage (grey) vs sit there now (teal)">
-          <div className="space-y-1.5">
-            {data.funnel.map((f) => (
-              <div key={f.stage} className="flex items-center gap-2 text-xs">
-                <span className="w-28 shrink-0 text-slate-500">{STAGE_LABELS[f.stage as Stage]}</span>
-                <div className="relative h-5 flex-1 overflow-hidden rounded bg-slate-100">
-                  <div
-                    className="absolute inset-y-0 left-0 bg-slate-200"
-                    style={{ width: `${(f.reached / maxReached) * 100}%` }}
-                  />
-                  <div
-                    className="absolute inset-y-0 left-0 bg-accent/70"
-                    style={{ width: `${(f.current / maxReached) * 100}%` }}
-                  />
+      {/* Funnel and leakage story */}
+      <div className="grid gap-5 lg:grid-cols-3">
+        {/* Funnel leakage — the drop-off story */}
+        <Card title="Funnel" subtitle="Reached vs currently in each stage" className="lg:col-span-2">
+          <div className="space-y-2.5">
+            {data.funnel.map((f) => {
+              const leakage = f.reached - f.current;
+              const leakagePct = f.reached > 0 ? (leakage / f.reached) * 100 : 0;
+              return (
+                <div key={f.stage}>
+                  <div className="mb-1 flex items-baseline justify-between">
+                    <span className="text-xs font-medium text-slate-700">
+                      {STAGE_LABELS[f.stage as Stage]}
+                    </span>
+                    <span className="text-xs tabular-nums text-slate-500">
+                      {f.current}/{f.reached}
+                      {leakage > 0 && (
+                        <span className="ml-2 text-rose-600">
+                          ↓ {leakage} ({leakagePct.toFixed(0)}%)
+                        </span>
+                      )}
+                    </span>
+                  </div>
+                  <div className="relative h-5 overflow-hidden rounded bg-slate-100">
+                    <div
+                      className="absolute inset-y-0 left-0 bg-slate-200"
+                      style={{ width: `${(f.reached / maxReached) * 100}%` }}
+                    />
+                    <div
+                      className="absolute inset-y-0 left-0 bg-accent/70"
+                      style={{ width: `${(f.current / maxReached) * 100}%` }}
+                    />
+                  </div>
                 </div>
-                <span className="w-16 shrink-0 text-right tabular-nums text-slate-400">
-                  {f.reached} → {f.current}
-                </span>
-              </div>
-            ))}
+              );
+            })}
           </div>
+          <p className="mt-3 text-xs text-slate-400">Grey = reached, teal = currently in stage.</p>
         </Card>
 
-        {/* Cross-sell attachment */}
-        <Card title="Cross-sell attachment" subtitle="Attached of eligible cases">
+        {/* Where money gets stuck */}
+        <Card title="Leakage concentration" subtitle="At-risk cases per stage">
+          <div className="space-y-2">
+            {data.stageHealth
+              .filter((s) => s.flaggedCount > 0)
+              .sort((a, b) => b.atRisk - a.atRisk)
+              .slice(0, 6)
+              .map((s) => (
+                <div key={s.stage} className="flex items-baseline justify-between text-xs">
+                  <span className="text-slate-600">{STAGE_LABELS[s.stage as Stage]}</span>
+                  <div className="flex items-baseline gap-1">
+                    <span className="font-semibold text-rose-700">{s.flaggedCount}</span>
+                    <span className="text-slate-500">of {s.current}</span>
+                    <span className="text-slate-400">({pct(s.flaggedPct)})</span>
+                  </div>
+                </div>
+              ))}
+          </div>
+          <p className="mt-3 text-xs text-slate-400">
+            Stages with the most flagged cases, ranked by cases at stake.
+          </p>
+        </Card>
+      </div>
+
+      {/* Why cases are at risk — reason breakdown */}
+      <Card title="Top leakage reasons" subtitle="By AED at stake" className="mt-5">
+        <div className="space-y-2">
+          {data.reasonBreakdown.map((r) => {
+            const pctOfTotal = (r.commission / data.atRiskTotal) * 100;
+            return (
+              <div key={r.reason} className="flex items-center justify-between text-xs">
+                <div className="flex-1">
+                  <div className="mb-1 flex justify-between">
+                    <span className="font-medium text-slate-700">{r.reason}</span>
+                    <span className="text-slate-500">
+                      {r.count} cases · {aedShort(r.commission)}
+                    </span>
+                  </div>
+                  <div className="h-2 overflow-hidden rounded bg-slate-100">
+                    <div
+                      className="h-full bg-rose-600"
+                      style={{ width: `${pctOfTotal}%` }}
+                    />
+                  </div>
+                </div>
+              </div>
+            );
+          })}
+        </div>
+      </Card>
+
+      {/* Opportunities: cross-sell + handover */}
+      <div className="mt-5 grid gap-5 lg:grid-cols-2">
+        <Card title="Cross-sell attachment" subtitle="Service-by-service eligible vs attached">
           <div className="space-y-3">
             {data.attachment.map((a) => (
               <div key={a.service}>
                 <div className="flex justify-between text-xs">
-                  <span className="text-slate-600">{a.service}</span>
-                  <span className="tabular-nums text-slate-400">
-                    {a.attached}/{a.eligible} · {pct(a.rate)}
+                  <span className="font-medium text-slate-700">{a.service}</span>
+                  <span className="tabular-nums text-slate-600">
+                    {a.attached}/{a.eligible} ({pct(a.rate)})
                   </span>
                 </div>
                 <div className="mt-1 h-2 overflow-hidden rounded bg-slate-100">
@@ -166,33 +200,21 @@ export default function Leadership({
             ))}
           </div>
           <p className="mt-3 text-[11px] text-slate-400">
-            Life insurance is mandatory with a UAE mortgage — the gap on signed cases is pure
-            leakage and the first Week-1 win.
+            Life insurance on signed cases is the Week-1 quick win.
           </p>
         </Card>
 
-        {/* Handover pipeline + recovered placeholder */}
-        <div className="grid grid-rows-2 gap-5">
-          <Card title="Handover pipeline" subtitle="Offplan handovers within 180 days">
-            <div className="flex items-baseline gap-3">
-              <span className="text-3xl font-bold tabular-nums text-accent">
-                {data.handover.count}
-              </span>
-              <span className="text-sm text-slate-500">cases</span>
-            </div>
-            <p className="mt-1 text-sm text-slate-600">
-              {aed(data.handover.futureCommission)} in future commission to pre-arrange.
-            </p>
-          </Card>
-          <Card title="Recovered this month" subtitle="Placeholder — wired once write-back lands">
-            <div className="flex items-baseline gap-3">
-              <span className="text-3xl font-bold tabular-nums text-slate-300">—</span>
-              <span className="text-sm text-slate-400">
-                measures commission saved from flagged cases that closed
-              </span>
-            </div>
-          </Card>
-        </div>
+        <Card title="Handover pipeline" subtitle="Future commission to pre-arrange">
+          <div className="flex items-baseline gap-3">
+            <span className="text-3xl font-bold tabular-nums text-accent">
+              {aedShort(data.handover.futureCommission)}
+            </span>
+            <span className="text-sm text-slate-600">across {data.handover.count} cases</span>
+          </div>
+          <p className="mt-3 text-xs text-slate-500">
+            Offplan handovers within 180 days. Pre-arrange now to capture at closing.
+          </p>
+        </Card>
       </div>
 
       {/* Bank performance */}

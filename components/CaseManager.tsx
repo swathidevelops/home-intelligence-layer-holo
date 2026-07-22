@@ -7,6 +7,7 @@ import { aed, pct, STAGE_LABELS, titleCase } from '@/lib/format';
 interface Props {
   rms: string[];
   queues: Record<string, CaseVM[]>;
+  paused: Record<string, CaseVM[]>;
   stats: Record<string, { total: number; actionable: number; atRiskCommission: number }>;
   hasBriefs: boolean;
 }
@@ -261,20 +262,25 @@ function Detail({ vm, hasBriefs }: { vm: CaseVM; hasBriefs: boolean }) {
   );
 }
 
-export default function CaseManager({ rms, queues, stats, hasBriefs }: Props) {
+export default function CaseManager({ rms, queues, paused, stats, hasBriefs }: Props) {
   const [rm, setRm] = useState(rms[0]);
   const [openId, setOpenId] = useState<string | null>(null);
+  const [pausedOpen, setPausedOpen] = useState(false);
   const queue = queues[rm] ?? [];
+  const pausedList = paused[rm] ?? [];
   const s = stats[rm];
 
   return (
     <main className="mx-auto max-w-[1180px] px-6 py-6">
-      <div className="mb-4 flex items-end justify-between">
+      <div className="mb-2 flex items-end justify-between">
         <div>
           <h1 className="text-lg font-semibold tracking-tight text-slate-900">Today</h1>
-          <p className="text-sm text-slate-500">
-            Your action queue, ranked by AED at stake. Top {queue.length} of {s?.actionable ?? 0}{' '}
-            cases needing attention.
+          <p className="text-xs text-slate-400">
+            What each case manager should do this morning, ranked by AED at stake. Viewing{' '}
+            <span className="font-medium">{rm}</span>'s book.
+          </p>
+          <p className="mt-2 text-sm text-slate-500">
+            Your action queue: top {queue.length} of {s?.actionable ?? 0} cases needing attention.
           </p>
         </div>
       </div>
@@ -304,6 +310,19 @@ export default function CaseManager({ rms, queues, stats, hasBriefs }: Props) {
         <Stat label="Cases in book" value={String(s?.total ?? 0)} />
         <Stat label="Need action" value={String(s?.actionable ?? 0)} />
         <Stat label="Commission at risk" value={aed(s?.atRiskCommission ?? 0)} />
+      </div>
+
+      {/* Legend */}
+      <div className="mb-4 rounded-lg border border-slate-100 bg-slate-50 px-4 py-2.5 text-xs text-slate-600">
+        <span className="inline-block font-medium text-slate-700">Early warning</span>
+        <span className="mx-2 text-slate-300">·</span>
+        <span>Act before it breaks</span>
+        <span className="mx-4 inline-block font-medium text-slate-700">Stalled</span>
+        <span className="mx-2 text-slate-300">·</span>
+        <span>Engaged but stuck, call now</span>
+        <span className="mx-4 inline-block font-medium text-slate-700">Opportunity</span>
+        <span className="mx-2 text-slate-300">·</span>
+        <span>A service to attach</span>
       </div>
 
       {/* Queue table */}
@@ -344,6 +363,79 @@ export default function CaseManager({ rms, queues, stats, hasBriefs }: Props) {
           </tbody>
         </table>
       </div>
+
+      {/* Paused cases — collapsed section */}
+      {pausedList.length > 0 && (
+        <div className="mt-6">
+          <button
+            onClick={() => setPausedOpen(!pausedOpen)}
+            className="flex w-full items-center justify-between rounded-lg border border-slate-200 bg-slate-50 px-4 py-3 text-left text-sm font-semibold text-slate-800 hover:bg-slate-100"
+          >
+            <span>
+              Paused, do not chase ({pausedList.length})
+            </span>
+            <span className={`transform transition-transform ${pausedOpen ? 'rotate-180' : ''}`}>
+              ▼
+            </span>
+          </button>
+
+          {pausedOpen && (
+            <div className="mt-1 overflow-hidden rounded-lg border border-slate-200 bg-white">
+              <div className="border-b border-slate-100 bg-slate-50 px-4 py-2 text-xs text-slate-500">
+                Rational pauses: clients re-evaluating. Suppress active outreach. Cross-sell held.
+              </div>
+              <table className="w-full text-sm">
+                <thead>
+                  <tr className="border-b border-slate-200 text-left text-xs text-slate-400">
+                    <th className="px-4 py-2 font-medium">Client</th>
+                    <th className="px-4 py-2 font-medium">Stage</th>
+                    <th className="px-4 py-2 text-right font-medium">AED at stake</th>
+                    <th className="px-4 py-2 font-medium">Type</th>
+                    <th className="px-4 py-2 font-medium">Cross-sell</th>
+                    <th className="px-4 py-2"></th>
+                  </tr>
+                </thead>
+                <tbody>
+                  {pausedList.map((vm) => (
+                    <tr key={vm.id} className="border-b border-slate-100 hover:bg-slate-50">
+                      <td className="px-4 py-2 font-medium text-slate-800">{vm.clientName}</td>
+                      <td className="px-4 py-2 text-slate-600">{STAGE_LABELS[vm.stage]}</td>
+                      <td className="px-4 py-2 text-right font-medium tabular-nums text-slate-800">
+                        {aed(vm.expectedCommission)}
+                      </td>
+                      <td className="px-4 py-2 text-xs">
+                        <span className="rounded-full bg-slate-100 px-2 py-0.5 text-slate-600">
+                          {vm.pauseKind === 'process_blocked' ? 'Process blocked' : 'Customer paused'}
+                        </span>
+                      </td>
+                      <td className="px-4 py-2">
+                        {vm.crossSellChips.length > 0 ? (
+                          <div className="flex flex-wrap gap-1">
+                            {vm.crossSellChips.map((c, i) => (
+                              <span
+                                key={i}
+                                className="rounded bg-slate-100 px-1.5 py-0.5 text-[11px] font-medium text-slate-400 line-through decoration-slate-300"
+                                title={c.reason}
+                              >
+                                {c.label}
+                              </span>
+                            ))}
+                          </div>
+                        ) : (
+                          <span className="text-xs text-slate-400">—</span>
+                        )}
+                      </td>
+                      <td className="px-4 py-2 text-right text-xs text-slate-400">
+                        held: re-evaluating
+                      </td>
+                    </tr>
+                  ))}
+                </tbody>
+              </table>
+            </div>
+          )}
+        </div>
+      )}
     </main>
   );
 }

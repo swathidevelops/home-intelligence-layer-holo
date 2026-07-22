@@ -1,6 +1,6 @@
 [
   {
-    "client_name": "Hamdan Haddad",
+    "client_name": "Hannah Smith",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "investment",
@@ -98,7 +98,7 @@
     "id": "HOL-0001"
   },
   {
-    "client_name": "Vikram Al Marri",
+    "client_name": "Priya Mansour",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "end_use",
@@ -216,7 +216,7 @@
     "id": "HOL-0002"
   },
   {
-    "client_name": "Sami Patel",
+    "client_name": "Zainab Rossi",
     "segment": "self_employed",
     "residency": "non_resident",
     "purpose": "investment",
@@ -310,7 +310,7 @@
     "id": "HOL-0003"
   },
   {
-    "client_name": "Thomas Farouk",
+    "client_name": "Deepak Nasser",
     "segment": "self_employed",
     "residency": "resident",
     "purpose": "end_use",
@@ -431,7 +431,7 @@
     "id": "HOL-0004"
   },
   {
-    "client_name": "Layla Farouk",
+    "client_name": "James Farouk",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "investment",
@@ -525,7 +525,7 @@
     "id": "HOL-0005"
   },
   {
-    "client_name": "Ahmed Williams",
+    "client_name": "Sneha Al Balushi",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "end_use",
@@ -619,7 +619,7 @@
     "id": "HOL-0006"
   },
   {
-    "client_name": "Omar Mansour",
+    "client_name": "Saeed Johnson",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "investment",
@@ -725,7 +725,7 @@
     "id": "HOL-0007"
   },
   {
-    "client_name": "Elena Petrov",
+    "client_name": "Daniel Kapoor",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "end_use",
@@ -854,7 +854,7 @@
     "id": "HOL-0008"
   },
   {
-    "client_name": "Yuki Al Qassimi",
+    "client_name": "Fatima Patel",
     "segment": "self_employed",
     "residency": "non_resident",
     "purpose": "investment",
@@ -957,7 +957,7 @@
     "id": "HOL-0009"
   },
   {
-    "client_name": "Mohammed Schmidt",
+    "client_name": "Omar Petrov",
     "segment": "self_employed",
     "residency": "resident",
     "purpose": "end_use",
@@ -1079,7 +1079,7 @@
     "id": "HOL-0010"
   },
   {
-    "client_name": "Huda Farouk",
+    "client_name": "Deepak Tanaka",
     "segment": "self_employed",
     "residency": "resident",
     "purpose": "end_use",
@@ -1184,7 +1184,7 @@
     "id": "HOL-0011"
   },
   {
-    "client_name": "Mohammed Al Balushi",
+    "client_name": "Chen Mueller",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "investment",
@@ -1282,7 +1282,7 @@
     "id": "HOL-0012"
   },
   {
-    "client_name": "Vikram Petrov",
+    "client_name": "James Rahman",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "investment",
@@ -1405,7 +1405,7 @@
     "id": "HOL-0013"
   },
   {
-    "client_name": "Sneha Smith",
+    "client_name": "Neha Wang",
     "segment": "self_employed",
     "residency": "non_resident",
     "purpose": "end_use",
@@ -1520,7 +1520,7 @@
     "id": "HOL-0014"
   },
   {
-    "client_name": "Fatima Sharma",
+    "client_name": "Saeed Zhang",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "investment",
@@ -1652,7 +1652,7 @@
     "id": "HOL-0015"
   },
   {
-    "client_name": "Noura Sharma",
+    "client_name": "Ling Mueller",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "end_use",
@@ -1753,7 +1753,7 @@
     "id": "HOL-0016"
   },
   {
-    "client_name": "Emily Ivanov",
+    "client_name": "Ahmed Brown",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "end_use",
@@ -1859,7 +1859,7 @@
     "id": "HOL-0017"
   },
   {
-    "client_name": "Khalid Johnson",
+    "client_name": "Vikram Fernandez",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "end_use",
@@ -1967,7 +1967,7 @@
     "id": "HOL-0018"
   },
   {
-    "client_name": "Michael Haddad",
+    "client_name": "Ling Al Hashimi",
     "segment": "self_employed",
     "residency": "resident",
     "purpose": "end_use",
@@ -2070,7 +2070,7 @@
     "id": "HOL-0019"
   },
   {
-    "client_name": "Karim Al Balushi",
+    "client_name": "Sophie Brown",
     "segment": "salaried",
     "residency": "non_resident",
     "purpose": "end_use",
@@ -2158,7 +2158,7 @@
     "id": "HOL-0020"
   },
   {
-    "client_name": "Daniel Khan",
+    "client_name": "Andrei Johnson",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "investment",
@@ -2260,7 +2260,7 @@
     "id": "HOL-0021"
   },
   {
-    "client_name": "Thomas Al Marri",
+    "client_name": "Dina Schmidt",
     "segment": "self_employed",
     "residency": "resident",
     "purpose": "end_use",
@@ -2382,7 +2382,7 @@
     "id": "HOL-0022"
   },
   {
-    "client_name": "Khalid Ivanov",
+    "client_name": "Layla Al Suwaidi",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "end_use",
@@ -2499,7 +2499,7 @@
     "id": "HOL-0023"
   },
   {
-    "client_name": "Saeed Smith",
+    "client_name": "Thomas Johnson",
     "segment": "salaried",
     "residency": "non_resident",
     "purpose": "investment",
@@ -2622,7 +2622,7 @@
     "id": "HOL-0024"
   },
   {
-    "client_name": "Yuki Al Suwaidi",
+    "client_name": "Bilal Reddy",
     "segment": "self_employed",
     "residency": "resident",
     "purpose": "end_use",
@@ -2737,7 +2737,7 @@
     "id": "HOL-0025"
   },
   {
-    "client_name": "Emily Sharma",
+    "client_name": "Hannah Khan",
     "segment": "self_employed",
     "residency": "resident",
     "purpose": "end_use",
@@ -2877,7 +2877,7 @@
     "id": "HOL-0026"
   },
   {
-    "client_name": "Sami Wang",
+    "client_name": "Daniel Nasser",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "investment",
@@ -2961,7 +2961,7 @@
     "id": "HOL-0027"
   },
   {
-    "client_name": "Rohan Nair",
+    "client_name": "Michael Iqbal",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "investment",
@@ -3072,7 +3072,7 @@
     "id": "HOL-0028"
   },
   {
-    "client_name": "Ahmed Li",
+    "client_name": "Anjali Khan",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "investment",
@@ -3174,7 +3174,7 @@
     "id": "HOL-0029"
   },
   {
-    "client_name": "Sneha Brown",
+    "client_name": "Hiroshi Li",
     "segment": "salaried",
     "residency": "non_resident",
     "purpose": "investment",
@@ -3295,7 +3295,7 @@
     "id": "HOL-0030"
   },
   {
-    "client_name": "Ling Al Suwaidi",
+    "client_name": "Wei Haddad",
     "segment": "self_employed",
     "residency": "resident",
     "purpose": "investment",
@@ -3408,7 +3408,7 @@
     "id": "HOL-0031"
   },
   {
-    "client_name": "Chen Iqbal",
+    "client_name": "Huda Li",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "investment",
@@ -3538,7 +3538,7 @@
     "id": "HOL-0032"
   },
   {
-    "client_name": "Faisal Ferrari",
+    "client_name": "Bilal Rahman",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "investment",
@@ -3647,7 +3647,7 @@
     "id": "HOL-0033"
   },
   {
-    "client_name": "James Zhang",
+    "client_name": "Elena Wang",
     "segment": "self_employed",
     "residency": "resident",
     "purpose": "investment",
@@ -3787,7 +3787,7 @@
     "id": "HOL-0034"
   },
   {
-    "client_name": "Tariq Fernandez",
+    "client_name": "Hamdan Wang",
     "segment": "self_employed",
     "residency": "resident",
     "purpose": "end_use",
@@ -3904,7 +3904,7 @@
     "id": "HOL-0035"
   },
   {
-    "client_name": "Chen Haddad",
+    "client_name": "Daniel Fernandez",
     "segment": "self_employed",
     "residency": "resident",
     "purpose": "investment",
@@ -4017,7 +4017,7 @@
     "id": "HOL-0036"
   },
   {
-    "client_name": "Saeed Petrov",
+    "client_name": "Rohan Costa",
     "segment": "self_employed",
     "residency": "resident",
     "purpose": "investment",
@@ -4116,7 +4116,7 @@
     "id": "HOL-0037"
   },
   {
-    "client_name": "Deepak Al Hashimi",
+    "client_name": "Huda Farouk",
     "segment": "self_employed",
     "residency": "resident",
     "purpose": "end_use",
@@ -4224,7 +4224,7 @@
     "id": "HOL-0038"
   },
   {
-    "client_name": "Isabella Brown",
+    "client_name": "Michael Al Hashimi",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "investment",
@@ -4320,7 +4320,7 @@
     "id": "HOL-0039"
   },
   {
-    "client_name": "Emily Williams",
+    "client_name": "Ahmed Haddad",
     "segment": "self_employed",
     "residency": "resident",
     "purpose": "investment",
@@ -4442,7 +4442,7 @@
     "id": "HOL-0040"
   },
   {
-    "client_name": "Neha Nair",
+    "client_name": "Laura Al Suwaidi",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "end_use",
@@ -4536,7 +4536,7 @@
     "id": "HOL-0041"
   },
   {
-    "client_name": "Neha Nair",
+    "client_name": "Elena Reddy",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "investment",
@@ -4638,7 +4638,7 @@
     "id": "HOL-0042"
   },
   {
-    "client_name": "Nadia Reddy",
+    "client_name": "Wei Khan",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "end_use",
@@ -4739,7 +4739,7 @@
     "id": "HOL-0043"
   },
   {
-    "client_name": "Fatima Ferrari",
+    "client_name": "Daniel Tanaka",
     "segment": "self_employed",
     "residency": "resident",
     "purpose": "end_use",
@@ -4851,7 +4851,7 @@
     "id": "HOL-0044"
   },
   {
-    "client_name": "Khalid Patel",
+    "client_name": "Marco Al Hashimi",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "investment",
@@ -4948,7 +4948,7 @@
     "id": "HOL-0045"
   },
   {
-    "client_name": "Aisha Zhang",
+    "client_name": "Arjun Farouk",
     "segment": "self_employed",
     "residency": "resident",
     "purpose": "investment",
@@ -5085,7 +5085,7 @@
     "id": "HOL-0046"
   },
   {
-    "client_name": "Noura Ivanov",
+    "client_name": "Laura Williams",
     "segment": "self_employed",
     "residency": "resident",
     "purpose": "investment",
@@ -5192,7 +5192,7 @@
     "id": "HOL-0047"
   },
   {
-    "client_name": "Bilal Al Marri",
+    "client_name": "Saeed Wang",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "end_use",
@@ -5304,7 +5304,7 @@
     "id": "HOL-0048"
   },
   {
-    "client_name": "Thomas Rahman",
+    "client_name": "Vikram Reddy",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "end_use",
@@ -5402,7 +5402,7 @@
     "id": "HOL-0049"
   },
   {
-    "client_name": "Marco Smith",
+    "client_name": "Vikram Li",
     "segment": "salaried",
     "residency": "non_resident",
     "purpose": "investment",
@@ -5534,7 +5534,7 @@
     "id": "HOL-0050"
   },
   {
-    "client_name": "Emily Brown",
+    "client_name": "Huda Smith",
     "segment": "salaried",
     "residency": "non_resident",
     "purpose": "investment",
@@ -5637,7 +5637,7 @@
     "id": "HOL-0051"
   },
   {
-    "client_name": "Vikram Johnson",
+    "client_name": "Layla Haddad",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "investment",
@@ -5755,7 +5755,7 @@
     "id": "HOL-0052"
   },
   {
-    "client_name": "Thomas Rossi",
+    "client_name": "Reem Tanaka",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "end_use",
@@ -5845,7 +5845,7 @@
     "id": "HOL-0053"
   },
   {
-    "client_name": "Yousef Nair",
+    "client_name": "Sophie Khan",
     "segment": "salaried",
     "residency": "non_resident",
     "purpose": "investment",
@@ -5949,7 +5949,7 @@
     "id": "HOL-0054"
   },
   {
-    "client_name": "Khalid Ferrari",
+    "client_name": "Michael Mueller",
     "segment": "self_employed",
     "residency": "non_resident",
     "purpose": "investment",
@@ -6065,7 +6065,7 @@
     "id": "HOL-0055"
   },
   {
-    "client_name": "Layla Tanaka",
+    "client_name": "Aisha Al Hashimi",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "investment",
@@ -6188,7 +6188,7 @@
     "id": "HOL-0056"
   },
   {
-    "client_name": "Arjun Patel",
+    "client_name": "Fatima Farouk",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "end_use",
@@ -6298,7 +6298,7 @@
     "id": "HOL-0057"
   },
   {
-    "client_name": "Khalid Fernandez",
+    "client_name": "Rohan Al Balushi",
     "segment": "self_employed",
     "residency": "resident",
     "purpose": "investment",
@@ -6406,7 +6406,7 @@
     "id": "HOL-0058"
   },
   {
-    "client_name": "Laura Zhang",
+    "client_name": "Zainab Kapoor",
     "segment": "self_employed",
     "residency": "resident",
     "purpose": "investment",
@@ -6526,7 +6526,7 @@
     "id": "HOL-0059"
   },
   {
-    "client_name": "Sara Tanaka",
+    "client_name": "Sophie Nasser",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "investment",
@@ -6630,7 +6630,7 @@
     "id": "HOL-0060"
   },
   {
-    "client_name": "Daniel Nair",
+    "client_name": "Mariam Costa",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "investment",
@@ -6736,7 +6736,7 @@
     "id": "HOL-0061"
   },
   {
-    "client_name": "Daniel Al Nahyan",
+    "client_name": "Aisha Reddy",
     "segment": "salaried",
     "residency": "non_resident",
     "purpose": "investment",
@@ -6830,7 +6830,7 @@
     "id": "HOL-0062"
   },
   {
-    "client_name": "Zainab Sharma",
+    "client_name": "Rashid Al Suwaidi",
     "segment": "salaried",
     "residency": "non_resident",
     "purpose": "end_use",
@@ -6946,7 +6946,7 @@
     "id": "HOL-0063"
   },
   {
-    "client_name": "Wei Brown",
+    "client_name": "Nadia Reddy",
     "segment": "self_employed",
     "residency": "resident",
     "purpose": "end_use",
@@ -7036,7 +7036,7 @@
     "id": "HOL-0064"
   },
   {
-    "client_name": "Hamdan Al Suwaidi",
+    "client_name": "Yuki Schmidt",
     "segment": "salaried",
     "residency": "non_resident",
     "purpose": "end_use",
@@ -7161,7 +7161,7 @@
     "id": "HOL-0065"
   },
   {
-    "client_name": "Tariq Rahman",
+    "client_name": "Reem Ferrari",
     "segment": "self_employed",
     "residency": "resident",
     "purpose": "investment",
@@ -7265,7 +7265,7 @@
     "id": "HOL-0066"
   },
   {
-    "client_name": "Sara Patel",
+    "client_name": "Rashid Ivanov",
     "segment": "self_employed",
     "residency": "non_resident",
     "purpose": "end_use",
@@ -7387,7 +7387,7 @@
     "id": "HOL-0067"
   },
   {
-    "client_name": "Sami Patel",
+    "client_name": "Hessa Ivanov",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "end_use",
@@ -7481,7 +7481,7 @@
     "id": "HOL-0068"
   },
   {
-    "client_name": "Vikram Schmidt",
+    "client_name": "Faisal Tanaka",
     "segment": "self_employed",
     "residency": "non_resident",
     "purpose": "investment",
@@ -7561,7 +7561,7 @@
     "id": "HOL-0069"
   },
   {
-    "client_name": "Vikram Williams",
+    "client_name": "Ling Ferrari",
     "segment": "self_employed",
     "residency": "resident",
     "purpose": "end_use",
@@ -7672,7 +7672,7 @@
     "id": "HOL-0070"
   },
   {
-    "client_name": "Sami Haddad",
+    "client_name": "Reem Al Balushi",
     "segment": "self_employed",
     "residency": "resident",
     "purpose": "investment",
@@ -7794,7 +7794,7 @@
     "id": "HOL-0071"
   },
   {
-    "client_name": "Layla Sharma",
+    "client_name": "Sophie Sharma",
     "segment": "salaried",
     "residency": "non_resident",
     "purpose": "investment",
@@ -7915,7 +7915,7 @@
     "id": "HOL-0072"
   },
   {
-    "client_name": "Hamdan Iqbal",
+    "client_name": "Sophie Reddy",
     "segment": "salaried",
     "residency": "non_resident",
     "purpose": "investment",
@@ -8027,7 +8027,7 @@
     "id": "HOL-0073"
   },
   {
-    "client_name": "Elena Haddad",
+    "client_name": "Tariq Brown",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "end_use",
@@ -8134,7 +8134,7 @@
     "id": "HOL-0074"
   },
   {
-    "client_name": "Nadia Ivanov",
+    "client_name": "Faisal Reddy",
     "segment": "self_employed",
     "residency": "resident",
     "purpose": "end_use",
@@ -8242,7 +8242,7 @@
     "id": "HOL-0075"
   },
   {
-    "client_name": "Laura Al Balushi",
+    "client_name": "Elena Nair",
     "segment": "salaried",
     "residency": "non_resident",
     "purpose": "end_use",
@@ -8350,7 +8350,7 @@
     "id": "HOL-0076"
   },
   {
-    "client_name": "Daniel Al Balushi",
+    "client_name": "Ahmed Khan",
     "segment": "salaried",
     "residency": "non_resident",
     "purpose": "investment",
@@ -8448,7 +8448,7 @@
     "id": "HOL-0077"
   },
   {
-    "client_name": "Nadia Al Balushi",
+    "client_name": "Marco Ferrari",
     "segment": "self_employed",
     "residency": "non_resident",
     "purpose": "end_use",
@@ -8559,7 +8559,7 @@
     "id": "HOL-0078"
   },
   {
-    "client_name": "Wei Mueller",
+    "client_name": "Rashid Tanaka",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "investment",
@@ -8667,7 +8667,7 @@
     "id": "HOL-0079"
   },
   {
-    "client_name": "Elena Iqbal",
+    "client_name": "Sami Williams",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "investment",
@@ -8798,7 +8798,7 @@
     "id": "HOL-0080"
   },
   {
-    "client_name": "Layla Sharma",
+    "client_name": "Rashid Nasser",
     "segment": "self_employed",
     "residency": "resident",
     "purpose": "end_use",
@@ -8927,7 +8927,7 @@
     "id": "HOL-0081"
   },
   {
-    "client_name": "Zainab Khan",
+    "client_name": "Noura Schmidt",
     "segment": "salaried",
     "residency": "non_resident",
     "purpose": "end_use",
@@ -9032,7 +9032,7 @@
     "id": "HOL-0082"
   },
   {
-    "client_name": "Laura Petrov",
+    "client_name": "Daniel Ivanov",
     "segment": "self_employed",
     "residency": "non_resident",
     "purpose": "investment",
@@ -9145,7 +9145,7 @@
     "id": "HOL-0083"
   },
   {
-    "client_name": "Rohan Al Suwaidi",
+    "client_name": "Deepak Williams",
     "segment": "self_employed",
     "residency": "non_resident",
     "purpose": "end_use",
@@ -9251,7 +9251,7 @@
     "id": "HOL-0084"
   },
   {
-    "client_name": "Mohammed Petrov",
+    "client_name": "Fatima Mansour",
     "segment": "salaried",
     "residency": "non_resident",
     "purpose": "investment",
@@ -9345,7 +9345,7 @@
     "id": "HOL-0085"
   },
   {
-    "client_name": "Sara Al Marri",
+    "client_name": "Arjun Kapoor",
     "segment": "self_employed",
     "residency": "non_resident",
     "purpose": "investment",
@@ -9452,7 +9452,7 @@
     "id": "HOL-0086"
   },
   {
-    "client_name": "Laura Patel",
+    "client_name": "Mariam Iqbal",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "end_use",
@@ -9573,7 +9573,7 @@
     "id": "HOL-0087"
   },
   {
-    "client_name": "Vikram Li",
+    "client_name": "Mariam Li",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "end_use",
@@ -9667,7 +9667,7 @@
     "id": "HOL-0088"
   },
   {
-    "client_name": "James Rahman",
+    "client_name": "James Schmidt",
     "segment": "self_employed",
     "residency": "non_resident",
     "purpose": "investment",
@@ -9769,7 +9769,7 @@
     "id": "HOL-0089"
   },
   {
-    "client_name": "Isabella Al Balushi",
+    "client_name": "Michael Nasser",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "end_use",
@@ -9869,7 +9869,7 @@
     "id": "HOL-0090"
   },
   {
-    "client_name": "Hessa Rossi",
+    "client_name": "Anjali Mueller",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "investment",
@@ -9977,7 +9977,7 @@
     "id": "HOL-0091"
   },
   {
-    "client_name": "Hessa Al Hashimi",
+    "client_name": "Emily Fernandez",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "investment",
@@ -10075,7 +10075,7 @@
     "id": "HOL-0092"
   },
   {
-    "client_name": "Daniel Patel",
+    "client_name": "Fatima Li",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "end_use",
@@ -10187,7 +10187,7 @@
     "id": "HOL-0093"
   },
   {
-    "client_name": "Tariq Al Suwaidi",
+    "client_name": "Anjali Iqbal",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "end_use",
@@ -10293,7 +10293,7 @@
     "id": "HOL-0094"
   },
   {
-    "client_name": "Rashid Mueller",
+    "client_name": "Faisal Nair",
     "segment": "salaried",
     "residency": "non_resident",
     "purpose": "end_use",
@@ -10436,7 +10436,7 @@
     "id": "HOL-0095"
   },
   {
-    "client_name": "Huda Al Hashimi",
+    "client_name": "Saeed Farouk",
     "segment": "salaried",
     "residency": "non_resident",
     "purpose": "end_use",
@@ -10542,7 +10542,7 @@
     "id": "HOL-0096"
   },
   {
-    "client_name": "Mariam Schmidt",
+    "client_name": "Rashid Schmidt",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "end_use",
@@ -10632,7 +10632,7 @@
     "id": "HOL-0097"
   },
   {
-    "client_name": "Aisha Patel",
+    "client_name": "Dina Haddad",
     "segment": "self_employed",
     "residency": "resident",
     "purpose": "end_use",
@@ -10742,7 +10742,7 @@
     "id": "HOL-0098"
   },
   {
-    "client_name": "Priya Li",
+    "client_name": "Faisal Ferrari",
     "segment": "self_employed",
     "residency": "resident",
     "purpose": "investment",
@@ -10850,7 +10850,7 @@
     "id": "HOL-0099"
   },
   {
-    "client_name": "Yousef Farouk",
+    "client_name": "Reem Schmidt",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "investment",
@@ -10959,7 +10959,7 @@
     "id": "HOL-0100"
   },
   {
-    "client_name": "Nadia Haddad",
+    "client_name": "Chen Nasser",
     "segment": "salaried",
     "residency": "non_resident",
     "purpose": "end_use",
@@ -11066,7 +11066,7 @@
     "id": "HOL-0101"
   },
   {
-    "client_name": "Sneha Williams",
+    "client_name": "James Rahman",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "investment",
@@ -11185,7 +11185,7 @@
     "id": "HOL-0102"
   },
   {
-    "client_name": "Marco Khan",
+    "client_name": "Arjun Rossi",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "investment",
@@ -11292,7 +11292,7 @@
     "id": "HOL-0103"
   },
   {
-    "client_name": "Marco Nair",
+    "client_name": "Tariq Kapoor",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "investment",
@@ -11415,7 +11415,7 @@
     "id": "HOL-0104"
   },
   {
-    "client_name": "Mariam Patel",
+    "client_name": "Neha Farouk",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "end_use",
@@ -11536,7 +11536,7 @@
     "id": "HOL-0105"
   },
   {
-    "client_name": "Saeed Brown",
+    "client_name": "Karim Rossi",
     "segment": "self_employed",
     "residency": "resident",
     "purpose": "end_use",
@@ -11663,7 +11663,7 @@
     "id": "HOL-0106"
   },
   {
-    "client_name": "Nadia Al Nahyan",
+    "client_name": "Neha Smith",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "end_use",
@@ -11769,7 +11769,7 @@
     "id": "HOL-0107"
   },
   {
-    "client_name": "Vikram Ivanov",
+    "client_name": "Nadia Williams",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "investment",
@@ -11867,7 +11867,7 @@
     "id": "HOL-0108"
   },
   {
-    "client_name": "Tariq Sharma",
+    "client_name": "Emily Mueller",
     "segment": "self_employed",
     "residency": "non_resident",
     "purpose": "end_use",
@@ -11984,7 +11984,7 @@
     "id": "HOL-0109"
   },
   {
-    "client_name": "Hamdan Nair",
+    "client_name": "Yuki Ivanov",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "end_use",
@@ -12091,7 +12091,7 @@
     "id": "HOL-0110"
   },
   {
-    "client_name": "Anjali Al Suwaidi",
+    "client_name": "Sami Li",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "end_use",
@@ -12199,7 +12199,7 @@
     "id": "HOL-0111"
   },
   {
-    "client_name": "Yousef Zhang",
+    "client_name": "Zainab Al Hashimi",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "end_use",
@@ -12289,7 +12289,7 @@
     "id": "HOL-0112"
   },
   {
-    "client_name": "Yuki Costa",
+    "client_name": "Bilal Fernandez",
     "segment": "self_employed",
     "residency": "non_resident",
     "purpose": "investment",
@@ -12397,7 +12397,7 @@
     "id": "HOL-0113"
   },
   {
-    "client_name": "Zainab Rossi",
+    "client_name": "Nadia Patel",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "investment",
@@ -12500,7 +12500,7 @@
     "id": "HOL-0114"
   },
   {
-    "client_name": "Sara Tanaka",
+    "client_name": "Tariq Li",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "end_use",
@@ -12584,7 +12584,7 @@
     "id": "HOL-0115"
   },
   {
-    "client_name": "Anjali Williams",
+    "client_name": "Yousef Sharma",
     "segment": "self_employed",
     "residency": "resident",
     "purpose": "end_use",
@@ -12683,7 +12683,7 @@
     "id": "HOL-0116"
   },
   {
-    "client_name": "Laura Mueller",
+    "client_name": "Omar Johnson",
     "segment": "self_employed",
     "residency": "resident",
     "purpose": "end_use",
@@ -12806,7 +12806,7 @@
     "id": "HOL-0117"
   },
   {
-    "client_name": "Omar Rossi",
+    "client_name": "Khalid Fernandez",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "end_use",
@@ -12916,7 +12916,7 @@
     "id": "HOL-0118"
   },
   {
-    "client_name": "Laura Al Nahyan",
+    "client_name": "Sara Nasser",
     "segment": "salaried",
     "residency": "non_resident",
     "purpose": "end_use",
@@ -13025,7 +13025,7 @@
     "id": "HOL-0119"
   },
   {
-    "client_name": "Huda Haddad",
+    "client_name": "Sneha Al Hashimi",
     "segment": "self_employed",
     "residency": "non_resident",
     "purpose": "investment",
@@ -13128,7 +13128,7 @@
     "id": "HOL-0120"
   },
   {
-    "client_name": "Nadia Farouk",
+    "client_name": "Laura Smith",
     "segment": "salaried",
     "residency": "non_resident",
     "purpose": "investment",
@@ -13267,7 +13267,7 @@
     "id": "HOL-0121"
   },
   {
-    "client_name": "Sophie Rahman",
+    "client_name": "Vikram Haddad",
     "segment": "salaried",
     "residency": "non_resident",
     "purpose": "investment",
@@ -13388,7 +13388,7 @@
     "id": "HOL-0122"
   },
   {
-    "client_name": "Emily Johnson",
+    "client_name": "Mariam Rossi",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "end_use",
@@ -13468,7 +13468,7 @@
     "id": "HOL-0123"
   },
   {
-    "client_name": "Anjali Ferrari",
+    "client_name": "Ahmed Al Suwaidi",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "end_use",
@@ -13589,7 +13589,7 @@
     "id": "HOL-0124"
   },
   {
-    "client_name": "Ling Nasser",
+    "client_name": "Neha Patel",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "end_use",
@@ -13677,7 +13677,7 @@
     "id": "HOL-0125"
   },
   {
-    "client_name": "Mariam Al Hashimi",
+    "client_name": "James Petrov",
     "segment": "self_employed",
     "residency": "non_resident",
     "purpose": "end_use",
@@ -13792,7 +13792,7 @@
     "id": "HOL-0126"
   },
   {
-    "client_name": "Noura Khan",
+    "client_name": "Emily Johnson",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "end_use",
@@ -13890,7 +13890,7 @@
     "id": "HOL-0127"
   },
   {
-    "client_name": "Karim Li",
+    "client_name": "Bilal Patel",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "end_use",
@@ -14003,7 +14003,7 @@
     "id": "HOL-0128"
   },
   {
-    "client_name": "Isabella Al Suwaidi",
+    "client_name": "Sneha Kapoor",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "investment",
@@ -14097,7 +14097,7 @@
     "id": "HOL-0129"
   },
   {
-    "client_name": "Priya Ferrari",
+    "client_name": "Hiroshi Williams",
     "segment": "salaried",
     "residency": "non_resident",
     "purpose": "investment",
@@ -14215,7 +14215,7 @@
     "id": "HOL-0130"
   },
   {
-    "client_name": "Deepak Nasser",
+    "client_name": "Deepak Wang",
     "segment": "salaried",
     "residency": "non_resident",
     "purpose": "end_use",
@@ -14315,7 +14315,7 @@
     "id": "HOL-0131"
   },
   {
-    "client_name": "Layla Rahman",
+    "client_name": "Wei Costa",
     "segment": "self_employed",
     "residency": "resident",
     "purpose": "end_use",
@@ -14432,7 +14432,7 @@
     "id": "HOL-0132"
   },
   {
-    "client_name": "Sami Nasser",
+    "client_name": "Thomas Reddy",
     "segment": "self_employed",
     "residency": "resident",
     "purpose": "investment",
@@ -14533,7 +14533,7 @@
     "id": "HOL-0133"
   },
   {
-    "client_name": "Omar Petrov",
+    "client_name": "Huda Fernandez",
     "segment": "self_employed",
     "residency": "resident",
     "purpose": "end_use",
@@ -14654,7 +14654,7 @@
     "id": "HOL-0134"
   },
   {
-    "client_name": "Hannah Petrov",
+    "client_name": "Khalid Wang",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "investment",
@@ -14777,7 +14777,7 @@
     "id": "HOL-0135"
   },
   {
-    "client_name": "Hannah Al Qassimi",
+    "client_name": "Faisal Schmidt",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "investment",
@@ -14890,7 +14890,7 @@
     "id": "HOL-0136"
   },
   {
-    "client_name": "Mohammed Tanaka",
+    "client_name": "Vikram Johnson",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "end_use",
@@ -14984,7 +14984,7 @@
     "id": "HOL-0137"
   },
   {
-    "client_name": "Sami Johnson",
+    "client_name": "Bilal Fernandez",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "investment",
@@ -15086,7 +15086,7 @@
     "id": "HOL-0138"
   },
   {
-    "client_name": "Bilal Brown",
+    "client_name": "Sneha Kapoor",
     "segment": "self_employed",
     "residency": "resident",
     "purpose": "end_use",
@@ -15174,7 +15174,7 @@
     "id": "HOL-0139"
   },
   {
-    "client_name": "Rohan Tanaka",
+    "client_name": "Deepak Williams",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "investment",
@@ -15264,7 +15264,7 @@
     "id": "HOL-0140"
   },
   {
-    "client_name": "Vikram Schmidt",
+    "client_name": "Mariam Nasser",
     "segment": "self_employed",
     "residency": "resident",
     "purpose": "investment",
@@ -15384,7 +15384,7 @@
     "id": "HOL-0141"
   },
   {
-    "client_name": "Yuki Farouk",
+    "client_name": "Mariam Brown",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "end_use",
@@ -15521,7 +15521,7 @@
     "id": "HOL-0142"
   },
   {
-    "client_name": "Noura Al Maktoum",
+    "client_name": "Saeed Haddad",
     "segment": "salaried",
     "residency": "non_resident",
     "purpose": "end_use",
@@ -15643,7 +15643,7 @@
     "id": "HOL-0143"
   },
   {
-    "client_name": "Deepak Smith",
+    "client_name": "Fatima Johnson",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "end_use",
@@ -15742,7 +15742,7 @@
     "id": "HOL-0144"
   },
   {
-    "client_name": "Dina Al Marri",
+    "client_name": "Vikram Johnson",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "end_use",
@@ -15873,7 +15873,7 @@
     "id": "HOL-0145"
   },
   {
-    "client_name": "Rashid Costa",
+    "client_name": "Sara Nair",
     "segment": "salaried",
     "residency": "non_resident",
     "purpose": "investment",
@@ -15984,7 +15984,7 @@
     "id": "HOL-0146"
   },
   {
-    "client_name": "Wei Ferrari",
+    "client_name": "Faisal Mansour",
     "segment": "self_employed",
     "residency": "resident",
     "purpose": "investment",
@@ -16084,7 +16084,7 @@
     "id": "HOL-0147"
   },
   {
-    "client_name": "Khalid Al Nahyan",
+    "client_name": "Priya Khan",
     "segment": "salaried",
     "residency": "non_resident",
     "purpose": "end_use",
@@ -16181,7 +16181,7 @@
     "id": "HOL-0148"
   },
   {
-    "client_name": "Layla Mueller",
+    "client_name": "Rohan Mueller",
     "segment": "self_employed",
     "residency": "resident",
     "purpose": "investment",
@@ -16293,7 +16293,7 @@
     "id": "HOL-0149"
   },
   {
-    "client_name": "Dina Zhang",
+    "client_name": "Ling Nasser",
     "segment": "self_employed",
     "residency": "resident",
     "purpose": "investment",
@@ -16410,7 +16410,7 @@
     "id": "HOL-0150"
   },
   {
-    "client_name": "Hiroshi Ferrari",
+    "client_name": "Elena Al Marri",
     "segment": "salaried",
     "residency": "non_resident",
     "purpose": "investment",
@@ -16521,7 +16521,7 @@
     "id": "HOL-0151"
   },
   {
-    "client_name": "Huda Ivanov",
+    "client_name": "Michael Sharma",
     "segment": "salaried",
     "residency": "non_resident",
     "purpose": "investment",
@@ -16619,7 +16619,7 @@
     "id": "HOL-0152"
   },
   {
-    "client_name": "Sara Iqbal",
+    "client_name": "Tariq Li",
     "segment": "self_employed",
     "residency": "resident",
     "purpose": "investment",
@@ -16714,7 +16714,7 @@
     "id": "HOL-0153"
   },
   {
-    "client_name": "Rashid Rossi",
+    "client_name": "Ling Ivanov",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "investment",
@@ -16827,7 +16827,7 @@
     "id": "HOL-0154"
   },
   {
-    "client_name": "Neha Williams",
+    "client_name": "Noura Iqbal",
     "segment": "self_employed",
     "residency": "non_resident",
     "purpose": "end_use",
@@ -16945,7 +16945,7 @@
     "id": "HOL-0155"
   },
   {
-    "client_name": "Aisha Khan",
+    "client_name": "Mohammed Li",
     "segment": "self_employed",
     "residency": "resident",
     "purpose": "end_use",
@@ -17072,7 +17072,7 @@
     "id": "HOL-0156"
   },
   {
-    "client_name": "Huda Patel",
+    "client_name": "Saeed Sharma",
     "segment": "self_employed",
     "residency": "resident",
     "purpose": "end_use",
@@ -17213,7 +17213,7 @@
     "id": "HOL-0157"
   },
   {
-    "client_name": "Noura Al Suwaidi",
+    "client_name": "Emily Rossi",
     "segment": "self_employed",
     "residency": "resident",
     "purpose": "end_use",
@@ -17318,7 +17318,7 @@
     "id": "HOL-0158"
   },
   {
-    "client_name": "Ahmed Williams",
+    "client_name": "Yuki Johnson",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "investment",
@@ -17418,7 +17418,7 @@
     "id": "HOL-0159"
   },
   {
-    "client_name": "Michael Al Suwaidi",
+    "client_name": "Fatima Wang",
     "segment": "self_employed",
     "residency": "resident",
     "purpose": "end_use",
@@ -17549,7 +17549,7 @@
     "id": "HOL-0160"
   },
   {
-    "client_name": "Reem Costa",
+    "client_name": "Nadia Patel",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "end_use",
@@ -17664,7 +17664,7 @@
     "id": "HOL-0161"
   },
   {
-    "client_name": "Sneha Petrov",
+    "client_name": "James Farouk",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "investment",
@@ -17791,7 +17791,7 @@
     "id": "HOL-0162"
   },
   {
-    "client_name": "Nadia Mansour",
+    "client_name": "Chen Rossi",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "end_use",
@@ -17885,7 +17885,7 @@
     "id": "HOL-0163"
   },
   {
-    "client_name": "Isabella Mansour",
+    "client_name": "Noura Brown",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "end_use",
@@ -18002,7 +18002,7 @@
     "id": "HOL-0164"
   },
   {
-    "client_name": "Reem Nair",
+    "client_name": "Rashid Al Marri",
     "segment": "self_employed",
     "residency": "resident",
     "purpose": "end_use",
@@ -18133,7 +18133,7 @@
     "id": "HOL-0165"
   },
   {
-    "client_name": "Arjun Zhang",
+    "client_name": "Thomas Al Marri",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "end_use",
@@ -18246,7 +18246,7 @@
     "id": "HOL-0166"
   },
   {
-    "client_name": "Michael Nair",
+    "client_name": "Rohan Rossi",
     "segment": "salaried",
     "residency": "non_resident",
     "purpose": "end_use",
@@ -18357,7 +18357,7 @@
     "id": "HOL-0167"
   },
   {
-    "client_name": "Marco Zhang",
+    "client_name": "Thomas Wang",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "end_use",
@@ -18472,7 +18472,7 @@
     "id": "HOL-0168"
   },
   {
-    "client_name": "Daniel Reddy",
+    "client_name": "Yousef Johnson",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "investment",
@@ -18588,7 +18588,7 @@
     "id": "HOL-0169"
   },
   {
-    "client_name": "Marco Al Maktoum",
+    "client_name": "Anjali Mueller",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "end_use",
@@ -18705,7 +18705,7 @@
     "id": "HOL-0170"
   },
   {
-    "client_name": "Nadia Al Balushi",
+    "client_name": "Huda Khan",
     "segment": "self_employed",
     "residency": "resident",
     "purpose": "end_use",
@@ -18807,7 +18807,7 @@
     "id": "HOL-0171"
   },
   {
-    "client_name": "Noura Schmidt",
+    "client_name": "Sami Mueller",
     "segment": "self_employed",
     "residency": "resident",
     "purpose": "investment",
@@ -18922,7 +18922,7 @@
     "id": "HOL-0172"
   },
   {
-    "client_name": "Faisal Iqbal",
+    "client_name": "Elena Brown",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "end_use",
@@ -19020,7 +19020,7 @@
     "id": "HOL-0173"
   },
   {
-    "client_name": "Priya Nair",
+    "client_name": "Michael Al Hashimi",
     "segment": "salaried",
     "residency": "non_resident",
     "purpose": "end_use",
@@ -19141,7 +19141,7 @@
     "id": "HOL-0174"
   },
   {
-    "client_name": "James Al Suwaidi",
+    "client_name": "Elena Petrov",
     "segment": "salaried",
     "residency": "non_resident",
     "purpose": "investment",
@@ -19252,7 +19252,7 @@
     "id": "HOL-0175"
   },
   {
-    "client_name": "Neha Kapoor",
+    "client_name": "Aisha Johnson",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "investment",
@@ -19377,7 +19377,7 @@
     "id": "HOL-0176"
   },
   {
-    "client_name": "Hamdan Khan",
+    "client_name": "Dina Al Balushi",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "investment",
@@ -19465,7 +19465,7 @@
     "id": "HOL-0177"
   },
   {
-    "client_name": "Andrei Farouk",
+    "client_name": "Saeed Al Hashimi",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "investment",
@@ -19571,7 +19571,7 @@
     "id": "HOL-0178"
   },
   {
-    "client_name": "Anjali Rahman",
+    "client_name": "Huda Ivanov",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "investment",
@@ -19669,7 +19669,7 @@
     "id": "HOL-0179"
   },
   {
-    "client_name": "Layla Wang",
+    "client_name": "Laura Al Marri",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "investment",
@@ -19764,7 +19764,7 @@
     "id": "HOL-0180"
   },
   {
-    "client_name": "Laura Williams",
+    "client_name": "Layla Tanaka",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "end_use",
@@ -19886,7 +19886,7 @@
     "id": "HOL-0181"
   },
   {
-    "client_name": "Deepak Iqbal",
+    "client_name": "Mariam Zhang",
     "segment": "self_employed",
     "residency": "non_resident",
     "purpose": "investment",
@@ -19990,7 +19990,7 @@
     "id": "HOL-0182"
   },
   {
-    "client_name": "Michael Al Balushi",
+    "client_name": "Fatima Al Hashimi",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "end_use",
@@ -20094,7 +20094,7 @@
     "id": "HOL-0183"
   },
   {
-    "client_name": "Rohan Smith",
+    "client_name": "Arjun Ferrari",
     "segment": "self_employed",
     "residency": "non_resident",
     "purpose": "end_use",
@@ -20214,7 +20214,7 @@
     "id": "HOL-0184"
   },
   {
-    "client_name": "Sara Ivanov",
+    "client_name": "Arjun Johnson",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "end_use",
@@ -20302,7 +20302,7 @@
     "id": "HOL-0185"
   },
   {
-    "client_name": "Dina Patel",
+    "client_name": "Anjali Wang",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "investment",
@@ -20404,7 +20404,7 @@
     "id": "HOL-0186"
   },
   {
-    "client_name": "Aisha Williams",
+    "client_name": "Ling Al Hashimi",
     "segment": "self_employed",
     "residency": "non_resident",
     "purpose": "investment",
@@ -20498,7 +20498,7 @@
     "id": "HOL-0187"
   },
   {
-    "client_name": "Daniel Iqbal",
+    "client_name": "Michael Reddy",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "end_use",
@@ -20596,7 +20596,7 @@
     "id": "HOL-0188"
   },
   {
-    "client_name": "Mohammed Sharma",
+    "client_name": "Mohammed Farouk",
     "segment": "self_employed",
     "residency": "resident",
     "purpose": "end_use",
@@ -20692,7 +20692,7 @@
     "id": "HOL-0189"
   },
   {
-    "client_name": "Bilal Farouk",
+    "client_name": "Hessa Khan",
     "segment": "salaried",
     "residency": "non_resident",
     "purpose": "investment",
@@ -20828,7 +20828,7 @@
     "id": "HOL-0190"
   },
   {
-    "client_name": "Isabella Tanaka",
+    "client_name": "Rohan Al Marri",
     "segment": "self_employed",
     "residency": "resident",
     "purpose": "end_use",
@@ -20954,7 +20954,7 @@
     "id": "HOL-0191"
   },
   {
-    "client_name": "Marco Al Suwaidi",
+    "client_name": "Dina Wang",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "investment",
@@ -21066,7 +21066,7 @@
     "id": "HOL-0192"
   },
   {
-    "client_name": "Huda Farouk",
+    "client_name": "Hessa Patel",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "investment",
@@ -21192,7 +21192,7 @@
     "id": "HOL-0193"
   },
   {
-    "client_name": "Faisal Petrov",
+    "client_name": "Emily Patel",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "investment",
@@ -21308,7 +21308,7 @@
     "id": "HOL-0194"
   },
   {
-    "client_name": "Daniel Al Hashimi",
+    "client_name": "Hamdan Fernandez",
     "segment": "self_employed",
     "residency": "resident",
     "purpose": "end_use",
@@ -21424,7 +21424,7 @@
     "id": "HOL-0195"
   },
   {
-    "client_name": "Arjun Mansour",
+    "client_name": "Nadia Al Suwaidi",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "investment",
@@ -21532,7 +21532,7 @@
     "id": "HOL-0196"
   },
   {
-    "client_name": "Khalid Reddy",
+    "client_name": "Emily Al Suwaidi",
     "segment": "salaried",
     "residency": "non_resident",
     "purpose": "end_use",
@@ -21752,7 +21752,7 @@
     "id": "HOL-0198"
   },
   {
-    "client_name": "Ling Petrov",
+    "client_name": "Omar Al Hashimi",
     "segment": "salaried",
     "residency": "non_resident",
     "purpose": "investment",
@@ -21859,7 +21859,7 @@
     "id": "HOL-0199"
   },
   {
-    "client_name": "Hannah Petrov",
+    "client_name": "Dina Schmidt",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "investment",
@@ -21988,7 +21988,7 @@
     "id": "HOL-0200"
   },
   {
-    "client_name": "Chen Williams",
+    "client_name": "Mohammed Patel",
     "segment": "self_employed",
     "residency": "resident",
     "purpose": "end_use",
@@ -22102,7 +22102,7 @@
     "id": "HOL-0201"
   },
   {
-    "client_name": "Mariam Al Balushi",
+    "client_name": "Hannah Petrov",
     "segment": "salaried",
     "residency": "non_resident",
     "purpose": "end_use",
@@ -22213,7 +22213,7 @@
     "id": "HOL-0202"
   },
   {
-    "client_name": "Faisal Haddad",
+    "client_name": "Mariam Nair",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "investment",
@@ -22320,7 +22320,7 @@
     "id": "HOL-0203"
   },
   {
-    "client_name": "Fatima Al Suwaidi",
+    "client_name": "Elena Zhang",
     "segment": "salaried",
     "residency": "non_resident",
     "purpose": "investment",
@@ -22437,7 +22437,7 @@
     "id": "HOL-0204"
   },
   {
-    "client_name": "Sneha Johnson",
+    "client_name": "Daniel Tanaka",
     "segment": "self_employed",
     "residency": "resident",
     "purpose": "end_use",
@@ -22581,7 +22581,7 @@
     "id": "HOL-0205"
   },
   {
-    "client_name": "Daniel Khan",
+    "client_name": "Mariam Al Marri",
     "segment": "salaried",
     "residency": "non_resident",
     "purpose": "end_use",
@@ -22676,7 +22676,7 @@
     "id": "HOL-0206"
   },
   {
-    "client_name": "Mariam Al Nahyan",
+    "client_name": "Elena Al Marri",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "investment",
@@ -22774,7 +22774,7 @@
     "id": "HOL-0207"
   },
   {
-    "client_name": "Sneha Al Marri",
+    "client_name": "Chen Farouk",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "end_use",
@@ -22889,7 +22889,7 @@
     "id": "HOL-0208"
   },
   {
-    "client_name": "Wei Sharma",
+    "client_name": "Aisha Iqbal",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "investment",
@@ -22995,7 +22995,7 @@
     "id": "HOL-0209"
   },
   {
-    "client_name": "Rohan Haddad",
+    "client_name": "Rohan Ferrari",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "investment",
@@ -23101,7 +23101,7 @@
     "id": "HOL-0210"
   },
   {
-    "client_name": "Noura Fernandez",
+    "client_name": "Sneha Al Balushi",
     "segment": "self_employed",
     "residency": "non_resident",
     "purpose": "investment",
@@ -23222,7 +23222,7 @@
     "id": "HOL-0211"
   },
   {
-    "client_name": "Bilal Smith",
+    "client_name": "Arjun Johnson",
     "segment": "self_employed",
     "residency": "resident",
     "purpose": "end_use",
@@ -23339,7 +23339,7 @@
     "id": "HOL-0212"
   },
   {
-    "client_name": "Hessa Ferrari",
+    "client_name": "Anjali Costa",
     "segment": "self_employed",
     "residency": "resident",
     "purpose": "end_use",
@@ -23445,7 +23445,7 @@
     "id": "HOL-0213"
   },
   {
-    "client_name": "Yousef Farouk",
+    "client_name": "Faisal Khan",
     "segment": "self_employed",
     "residency": "non_resident",
     "purpose": "investment",
@@ -23539,7 +23539,7 @@
     "id": "HOL-0214"
   },
   {
-    "client_name": "Faisal Al Hashimi",
+    "client_name": "Noura Petrov",
     "segment": "self_employed",
     "residency": "resident",
     "purpose": "investment",
@@ -23645,7 +23645,7 @@
     "id": "HOL-0215"
   },
   {
-    "client_name": "James Li",
+    "client_name": "Daniel Li",
     "segment": "self_employed",
     "residency": "resident",
     "purpose": "end_use",
@@ -23754,7 +23754,7 @@
     "id": "HOL-0216"
   },
   {
-    "client_name": "Ahmed Mansour",
+    "client_name": "Huda Ivanov",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "end_use",
@@ -23871,7 +23871,7 @@
     "id": "HOL-0217"
   },
   {
-    "client_name": "Reem Iqbal",
+    "client_name": "Ling Smith",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "end_use",
@@ -23961,7 +23961,7 @@
     "id": "HOL-0218"
   },
   {
-    "client_name": "Vikram Haddad",
+    "client_name": "Faisal Nair",
     "segment": "self_employed",
     "residency": "resident",
     "purpose": "end_use",
@@ -24070,7 +24070,7 @@
     "id": "HOL-0219"
   },
   {
-    "client_name": "Chen Schmidt",
+    "client_name": "Andrei Reddy",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "investment",
@@ -24187,7 +24187,7 @@
     "id": "HOL-0220"
   },
   {
-    "client_name": "Chen Schmidt",
+    "client_name": "Reem Smith",
     "segment": "self_employed",
     "residency": "resident",
     "purpose": "end_use",
@@ -24298,7 +24298,7 @@
     "id": "HOL-0221"
   },
   {
-    "client_name": "Daniel Li",
+    "client_name": "Faisal Wang",
     "segment": "self_employed",
     "residency": "non_resident",
     "purpose": "investment",
@@ -24411,7 +24411,7 @@
     "id": "HOL-0222"
   },
   {
-    "client_name": "Fatima Rossi",
+    "client_name": "Noura Nair",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "end_use",
@@ -24524,7 +24524,7 @@
     "id": "HOL-0223"
   },
   {
-    "client_name": "Arjun Al Suwaidi",
+    "client_name": "Huda Li",
     "segment": "self_employed",
     "residency": "resident",
     "purpose": "end_use",
@@ -24635,7 +24635,7 @@
     "id": "HOL-0224"
   },
   {
-    "client_name": "Hamdan Fernandez",
+    "client_name": "Aisha Kapoor",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "end_use",
@@ -24758,7 +24758,7 @@
     "id": "HOL-0225"
   },
   {
-    "client_name": "Ahmed Nair",
+    "client_name": "Priya Petrov",
     "segment": "salaried",
     "residency": "non_resident",
     "purpose": "end_use",
@@ -24869,7 +24869,7 @@
     "id": "HOL-0226"
   },
   {
-    "client_name": "Wei Costa",
+    "client_name": "Omar Khan",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "investment",
@@ -25005,7 +25005,7 @@
     "id": "HOL-0227"
   },
   {
-    "client_name": "Hiroshi Wang",
+    "client_name": "Hessa Khan",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "end_use",
@@ -25103,7 +25103,7 @@
     "id": "HOL-0228"
   },
   {
-    "client_name": "Sophie Al Marri",
+    "client_name": "Reem Li",
     "segment": "salaried",
     "residency": "non_resident",
     "purpose": "end_use",
@@ -25214,7 +25214,7 @@
     "id": "HOL-0229"
   },
   {
-    "client_name": "Wei Johnson",
+    "client_name": "Thomas Ferrari",
     "segment": "self_employed",
     "residency": "resident",
     "purpose": "end_use",
@@ -25322,7 +25322,7 @@
     "id": "HOL-0230"
   },
   {
-    "client_name": "Rohan Li",
+    "client_name": "Mohammed Nasser",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "end_use",
@@ -25452,7 +25452,7 @@
     "id": "HOL-0231"
   },
   {
-    "client_name": "Huda Smith",
+    "client_name": "Karim Tanaka",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "investment",
@@ -25568,7 +25568,7 @@
     "id": "HOL-0232"
   },
   {
-    "client_name": "Huda Al Marri",
+    "client_name": "Mariam Khan",
     "segment": "self_employed",
     "residency": "resident",
     "purpose": "investment",
@@ -25677,7 +25677,7 @@
     "id": "HOL-0233"
   },
   {
-    "client_name": "Dina Costa",
+    "client_name": "Sneha Fernandez",
     "segment": "self_employed",
     "residency": "resident",
     "purpose": "investment",
@@ -25788,7 +25788,7 @@
     "id": "HOL-0234"
   },
   {
-    "client_name": "Dina Smith",
+    "client_name": "Zainab Ivanov",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "end_use",
@@ -25917,7 +25917,7 @@
     "id": "HOL-0235"
   },
   {
-    "client_name": "Dina Rossi",
+    "client_name": "Sara Brown",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "end_use",
@@ -26034,7 +26034,7 @@
     "id": "HOL-0236"
   },
   {
-    "client_name": "Priya Kapoor",
+    "client_name": "Sami Mansour",
     "segment": "self_employed",
     "residency": "resident",
     "purpose": "investment",
@@ -26156,7 +26156,7 @@
     "id": "HOL-0237"
   },
   {
-    "client_name": "Hamdan Zhang",
+    "client_name": "Arjun Farouk",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "investment",
@@ -26275,7 +26275,7 @@
     "id": "HOL-0238"
   },
   {
-    "client_name": "Saeed Sharma",
+    "client_name": "Daniel Costa",
     "segment": "salaried",
     "residency": "non_resident",
     "purpose": "investment",
@@ -26395,7 +26395,7 @@
     "id": "HOL-0239"
   },
   {
-    "client_name": "Yousef Williams",
+    "client_name": "Marco Rahman",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "end_use",
@@ -26502,7 +26502,7 @@
     "id": "HOL-0240"
   },
   {
-    "client_name": "Vikram Al Qassimi",
+    "client_name": "Laura Khan",
     "segment": "salaried",
     "residency": "non_resident",
     "purpose": "investment",
@@ -26624,7 +26624,7 @@
     "id": "HOL-0241"
   },
   {
-    "client_name": "Dina Patel",
+    "client_name": "Reem Haddad",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "investment",
@@ -26755,7 +26755,7 @@
     "id": "HOL-0242"
   },
   {
-    "client_name": "Anjali Farouk",
+    "client_name": "Karim Farouk",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "end_use",
@@ -26860,7 +26860,7 @@
     "id": "HOL-0243"
   },
   {
-    "client_name": "Zainab Haddad",
+    "client_name": "Sara Reddy",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "end_use",
@@ -26970,7 +26970,7 @@
     "id": "HOL-0244"
   },
   {
-    "client_name": "Hessa Kapoor",
+    "client_name": "Faisal Ferrari",
     "segment": "salaried",
     "residency": "non_resident",
     "purpose": "investment",
@@ -27060,7 +27060,7 @@
     "id": "HOL-0245"
   },
   {
-    "client_name": "Layla Reddy",
+    "client_name": "Yousef Patel",
     "segment": "salaried",
     "residency": "non_resident",
     "purpose": "end_use",
@@ -27155,7 +27155,7 @@
     "id": "HOL-0246"
   },
   {
-    "client_name": "James Rossi",
+    "client_name": "Tariq Williams",
     "segment": "self_employed",
     "residency": "resident",
     "purpose": "investment",
@@ -27258,7 +27258,7 @@
     "id": "HOL-0247"
   },
   {
-    "client_name": "Saeed Al Suwaidi",
+    "client_name": "James Smith",
     "segment": "self_employed",
     "residency": "resident",
     "purpose": "investment",
@@ -27369,7 +27369,7 @@
     "id": "HOL-0248"
   },
   {
-    "client_name": "Sara Al Qassimi",
+    "client_name": "Bilal Kapoor",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "end_use",
@@ -27463,7 +27463,7 @@
     "id": "HOL-0249"
   },
   {
-    "client_name": "Tariq Iqbal",
+    "client_name": "Tariq Petrov",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "investment",
@@ -27565,7 +27565,7 @@
     "id": "HOL-0250"
   },
   {
-    "client_name": "Sneha Khan",
+    "client_name": "Rashid Zhang",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "investment",
@@ -27647,7 +27647,7 @@
     "id": "HOL-0251"
   },
   {
-    "client_name": "Layla Haddad",
+    "client_name": "Mariam Haddad",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "end_use",
@@ -27762,7 +27762,7 @@
     "id": "HOL-0252"
   },
   {
-    "client_name": "Yuki Schmidt",
+    "client_name": "Sara Ivanov",
     "segment": "self_employed",
     "residency": "non_resident",
     "purpose": "end_use",
@@ -27874,7 +27874,7 @@
     "id": "HOL-0253"
   },
   {
-    "client_name": "Deepak Mueller",
+    "client_name": "Saeed Kapoor",
     "segment": "self_employed",
     "residency": "resident",
     "purpose": "end_use",
@@ -27993,7 +27993,7 @@
     "id": "HOL-0254"
   },
   {
-    "client_name": "Deepak Mueller",
+    "client_name": "Sami Haddad",
     "segment": "self_employed",
     "residency": "resident",
     "purpose": "investment",
@@ -28106,7 +28106,7 @@
     "id": "HOL-0255"
   },
   {
-    "client_name": "James Zhang",
+    "client_name": "Hannah Mueller",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "investment",
@@ -28223,7 +28223,7 @@
     "id": "HOL-0256"
   },
   {
-    "client_name": "Sophie Al Nahyan",
+    "client_name": "Vikram Fernandez",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "end_use",
@@ -28331,7 +28331,7 @@
     "id": "HOL-0257"
   },
   {
-    "client_name": "Tariq Mansour",
+    "client_name": "James Mueller",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "end_use",
@@ -28452,7 +28452,7 @@
     "id": "HOL-0258"
   },
   {
-    "client_name": "Anjali Johnson",
+    "client_name": "Sara Li",
     "segment": "self_employed",
     "residency": "resident",
     "purpose": "investment",
@@ -28555,7 +28555,7 @@
     "id": "HOL-0259"
   },
   {
-    "client_name": "Neha Al Hashimi",
+    "client_name": "Sophie Nasser",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "investment",
@@ -28678,7 +28678,7 @@
     "id": "HOL-0260"
   },
   {
-    "client_name": "Noura Mueller",
+    "client_name": "Michael Tanaka",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "end_use",
@@ -28786,7 +28786,7 @@
     "id": "HOL-0261"
   },
   {
-    "client_name": "Ahmed Brown",
+    "client_name": "Sami Haddad",
     "segment": "self_employed",
     "residency": "resident",
     "purpose": "end_use",
@@ -28896,7 +28896,7 @@
     "id": "HOL-0262"
   },
   {
-    "client_name": "Bilal Rahman",
+    "client_name": "Elena Williams",
     "segment": "self_employed",
     "residency": "resident",
     "purpose": "investment",
@@ -28984,7 +28984,7 @@
     "id": "HOL-0263"
   },
   {
-    "client_name": "Arjun Johnson",
+    "client_name": "Bilal Smith",
     "segment": "self_employed",
     "residency": "non_resident",
     "purpose": "end_use",
@@ -29101,7 +29101,7 @@
     "id": "HOL-0264"
   },
   {
-    "client_name": "Bilal Ivanov",
+    "client_name": "Fatima Wang",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "investment",
@@ -29193,7 +29193,7 @@
     "id": "HOL-0265"
   },
   {
-    "client_name": "Huda Kapoor",
+    "client_name": "Nadia Nair",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "end_use",
@@ -29333,7 +29333,7 @@
     "id": "HOL-0266"
   },
   {
-    "client_name": "Yousef Al Qassimi",
+    "client_name": "Andrei Mansour",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "end_use",
@@ -29439,7 +29439,7 @@
     "id": "HOL-0267"
   },
   {
-    "client_name": "Andrei Williams",
+    "client_name": "Emily Farouk",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "investment",
@@ -29582,7 +29582,7 @@
     "id": "HOL-0268"
   },
   {
-    "client_name": "Daniel Al Maktoum",
+    "client_name": "Yousef Ferrari",
     "segment": "salaried",
     "residency": "non_resident",
     "purpose": "end_use",
@@ -29686,7 +29686,7 @@
     "id": "HOL-0269"
   },
   {
-    "client_name": "Karim Schmidt",
+    "client_name": "Sami Petrov",
     "segment": "self_employed",
     "residency": "resident",
     "purpose": "investment",
@@ -29805,7 +29805,7 @@
     "id": "HOL-0270"
   },
   {
-    "client_name": "Yousef Khan",
+    "client_name": "Hamdan Mueller",
     "segment": "self_employed",
     "residency": "resident",
     "purpose": "investment",
@@ -29885,7 +29885,7 @@
     "id": "HOL-0271"
   },
   {
-    "client_name": "Andrei Williams",
+    "client_name": "Hannah Nair",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "end_use",
@@ -30015,7 +30015,7 @@
     "id": "HOL-0272"
   },
   {
-    "client_name": "Zainab Costa",
+    "client_name": "Zainab Khan",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "end_use",
@@ -30131,7 +30131,7 @@
     "id": "HOL-0273"
   },
   {
-    "client_name": "Sami Al Balushi",
+    "client_name": "Anjali Al Hashimi",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "end_use",
@@ -30225,7 +30225,7 @@
     "id": "HOL-0274"
   },
   {
-    "client_name": "Emily Mueller",
+    "client_name": "Dina Petrov",
     "segment": "salaried",
     "residency": "non_resident",
     "purpose": "end_use",
@@ -30330,7 +30330,7 @@
     "id": "HOL-0275"
   },
   {
-    "client_name": "Nadia Petrov",
+    "client_name": "Noura Fernandez",
     "segment": "self_employed",
     "residency": "non_resident",
     "purpose": "investment",
@@ -30442,7 +30442,7 @@
     "id": "HOL-0276"
   },
   {
-    "client_name": "Elena Kapoor",
+    "client_name": "Priya Khan",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "investment",
@@ -30536,7 +30536,7 @@
     "id": "HOL-0277"
   },
   {
-    "client_name": "Zainab Sharma",
+    "client_name": "Hamdan Schmidt",
     "segment": "self_employed",
     "residency": "resident",
     "purpose": "end_use",
@@ -30654,7 +30654,7 @@
     "id": "HOL-0278"
   },
   {
-    "client_name": "Nadia Ferrari",
+    "client_name": "Khalid Tanaka",
     "segment": "self_employed",
     "residency": "resident",
     "purpose": "investment",
@@ -30748,7 +30748,7 @@
     "id": "HOL-0279"
   },
   {
-    "client_name": "Emily Mansour",
+    "client_name": "Hamdan Al Balushi",
     "segment": "salaried",
     "residency": "non_resident",
     "purpose": "investment",
@@ -30832,7 +30832,7 @@
     "id": "HOL-0280"
   },
   {
-    "client_name": "Isabella Petrov",
+    "client_name": "Sara Sharma",
     "segment": "self_employed",
     "residency": "resident",
     "purpose": "investment",
@@ -30968,7 +30968,7 @@
     "id": "HOL-0281"
   },
   {
-    "client_name": "Sneha Reddy",
+    "client_name": "Isabella Nair",
     "segment": "self_employed",
     "residency": "non_resident",
     "purpose": "end_use",
@@ -31099,7 +31099,7 @@
     "id": "HOL-0282"
   },
   {
-    "client_name": "Marco Schmidt",
+    "client_name": "Ahmed Sharma",
     "segment": "self_employed",
     "residency": "non_resident",
     "purpose": "end_use",
@@ -31221,7 +31221,7 @@
     "id": "HOL-0283"
   },
   {
-    "client_name": "Zainab Nair",
+    "client_name": "Reem Nair",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "end_use",
@@ -31333,7 +31333,7 @@
     "id": "HOL-0284"
   },
   {
-    "client_name": "James Al Qassimi",
+    "client_name": "Rashid Smith",
     "segment": "self_employed",
     "residency": "resident",
     "purpose": "end_use",
@@ -31454,7 +31454,7 @@
     "id": "HOL-0285"
   },
   {
-    "client_name": "Dina Khan",
+    "client_name": "Huda Zhang",
     "segment": "salaried",
     "residency": "non_resident",
     "purpose": "end_use",
@@ -31575,7 +31575,7 @@
     "id": "HOL-0286"
   },
   {
-    "client_name": "Sara Al Hashimi",
+    "client_name": "Ahmed Rossi",
     "segment": "self_employed",
     "residency": "non_resident",
     "purpose": "investment",
@@ -31692,7 +31692,7 @@
     "id": "HOL-0287"
   },
   {
-    "client_name": "Zainab Smith",
+    "client_name": "Isabella Al Suwaidi",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "end_use",
@@ -31786,7 +31786,7 @@
     "id": "HOL-0288"
   },
   {
-    "client_name": "Chen Ferrari",
+    "client_name": "Dina Kapoor",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "investment",
@@ -31894,7 +31894,7 @@
     "id": "HOL-0289"
   },
   {
-    "client_name": "Aisha Al Hashimi",
+    "client_name": "Andrei Johnson",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "end_use",
@@ -31996,7 +31996,7 @@
     "id": "HOL-0290"
   },
   {
-    "client_name": "Neha Tanaka",
+    "client_name": "Daniel Haddad",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "end_use",
@@ -32100,7 +32100,7 @@
     "id": "HOL-0291"
   },
   {
-    "client_name": "Yuki Sharma",
+    "client_name": "Layla Rossi",
     "segment": "self_employed",
     "residency": "resident",
     "purpose": "investment",
@@ -32205,7 +32205,7 @@
     "id": "HOL-0292"
   },
   {
-    "client_name": "Reem Tanaka",
+    "client_name": "Vikram Al Suwaidi",
     "segment": "salaried",
     "residency": "non_resident",
     "purpose": "end_use",
@@ -32322,7 +32322,7 @@
     "id": "HOL-0293"
   },
   {
-    "client_name": "Sophie Ivanov",
+    "client_name": "Rohan Wang",
     "segment": "salaried",
     "residency": "non_resident",
     "purpose": "investment",
@@ -32441,7 +32441,7 @@
     "id": "HOL-0294"
   },
   {
-    "client_name": "Michael Wang",
+    "client_name": "Nadia Wang",
     "segment": "self_employed",
     "residency": "resident",
     "purpose": "investment",
@@ -32539,7 +32539,7 @@
     "id": "HOL-0295"
   },
   {
-    "client_name": "Marco Tanaka",
+    "client_name": "Dina Al Marri",
     "segment": "self_employed",
     "residency": "resident",
     "purpose": "investment",
@@ -32643,7 +32643,7 @@
     "id": "HOL-0296"
   },
   {
-    "client_name": "Vikram Haddad",
+    "client_name": "Mariam Wang",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "investment",
@@ -32763,7 +32763,7 @@
     "id": "HOL-0297"
   },
   {
-    "client_name": "Thomas Al Marri",
+    "client_name": "Wei Zhang",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "investment",
@@ -32888,7 +32888,7 @@
     "id": "HOL-0298"
   },
   {
-    "client_name": "Hessa Reddy",
+    "client_name": "Anjali Farouk",
     "segment": "salaried",
     "residency": "non_resident",
     "purpose": "end_use",
@@ -33009,7 +33009,7 @@
     "id": "HOL-0299"
   },
   {
-    "client_name": "Arjun Tanaka",
+    "client_name": "Elena Williams",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "end_use",
@@ -33132,7 +33132,7 @@
     "id": "HOL-0300"
   },
   {
-    "client_name": "Sami Rahman",
+    "client_name": "Faisal Reddy",
     "segment": "salaried",
     "residency": "non_resident",
     "purpose": "investment",
@@ -33227,7 +33227,7 @@
     "id": "HOL-0301"
   },
   {
-    "client_name": "Michael Iqbal",
+    "client_name": "Reem Sharma",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "investment",
@@ -33326,7 +33326,7 @@
     "id": "HOL-0302"
   },
   {
-    "client_name": "Faisal Tanaka",
+    "client_name": "Anjali Ivanov",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "investment",
@@ -33425,7 +33425,7 @@
     "id": "HOL-0303"
   },
   {
-    "client_name": "Ling Al Marri",
+    "client_name": "Anjali Ferrari",
     "segment": "self_employed",
     "residency": "resident",
     "purpose": "end_use",
@@ -33524,7 +33524,7 @@
     "id": "HOL-0304"
   },
   {
-    "client_name": "Sophie Kapoor",
+    "client_name": "Dina Schmidt",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "end_use",
@@ -33645,7 +33645,7 @@
     "id": "HOL-0305"
   },
   {
-    "client_name": "Hannah Schmidt",
+    "client_name": "Omar Wang",
     "segment": "salaried",
     "residency": "non_resident",
     "purpose": "end_use",
@@ -33772,7 +33772,7 @@
     "id": "HOL-0306"
   },
   {
-    "client_name": "Zainab Petrov",
+    "client_name": "Priya Al Balushi",
     "segment": "self_employed",
     "residency": "resident",
     "purpose": "investment",
@@ -33901,7 +33901,7 @@
     "id": "HOL-0307"
   },
   {
-    "client_name": "Vikram Williams",
+    "client_name": "Yuki Fernandez",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "end_use",
@@ -33996,7 +33996,7 @@
     "id": "HOL-0308"
   },
   {
-    "client_name": "Huda Zhang",
+    "client_name": "Faisal Farouk",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "investment",
@@ -34119,7 +34119,7 @@
     "id": "HOL-0309"
   },
   {
-    "client_name": "Reem Fernandez",
+    "client_name": "Arjun Li",
     "segment": "self_employed",
     "residency": "resident",
     "purpose": "investment",
@@ -34242,7 +34242,7 @@
     "id": "HOL-0310"
   },
   {
-    "client_name": "Dina Mueller",
+    "client_name": "Hamdan Farouk",
     "segment": "self_employed",
     "residency": "resident",
     "purpose": "end_use",
@@ -34351,7 +34351,7 @@
     "id": "HOL-0311"
   },
   {
-    "client_name": "Isabella Al Balushi",
+    "client_name": "Zainab Rahman",
     "segment": "self_employed",
     "residency": "resident",
     "purpose": "investment",
@@ -34467,7 +34467,7 @@
     "id": "HOL-0312"
   },
   {
-    "client_name": "Ahmed Mueller",
+    "client_name": "Vikram Reddy",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "investment",
@@ -34570,7 +34570,7 @@
     "id": "HOL-0313"
   },
   {
-    "client_name": "Emily Petrov",
+    "client_name": "Tariq Sharma",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "end_use",
@@ -34690,7 +34690,7 @@
     "id": "HOL-0314"
   },
   {
-    "client_name": "Isabella Mansour",
+    "client_name": "Priya Reddy",
     "segment": "self_employed",
     "residency": "resident",
     "purpose": "investment",
@@ -34818,7 +34818,7 @@
     "id": "HOL-0315"
   },
   {
-    "client_name": "Aisha Al Maktoum",
+    "client_name": "Bilal Schmidt",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "investment",
@@ -34938,7 +34938,7 @@
     "id": "HOL-0316"
   },
   {
-    "client_name": "Rohan Li",
+    "client_name": "Arjun Costa",
     "segment": "salaried",
     "residency": "non_resident",
     "purpose": "investment",
@@ -35043,7 +35043,7 @@
     "id": "HOL-0317"
   },
   {
-    "client_name": "Hessa Rossi",
+    "client_name": "Elena Kapoor",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "end_use",
@@ -35146,7 +35146,7 @@
     "id": "HOL-0318"
   },
   {
-    "client_name": "Sara Schmidt",
+    "client_name": "Andrei Al Balushi",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "end_use",
@@ -35257,7 +35257,7 @@
     "id": "HOL-0319"
   },
   {
-    "client_name": "Elena Al Hashimi",
+    "client_name": "Arjun Mueller",
     "segment": "self_employed",
     "residency": "resident",
     "purpose": "end_use",
@@ -35372,7 +35372,7 @@
     "id": "HOL-0320"
   },
   {
-    "client_name": "Deepak Tanaka",
+    "client_name": "Tariq Zhang",
     "segment": "self_employed",
     "residency": "resident",
     "purpose": "investment",
@@ -35493,7 +35493,7 @@
     "id": "HOL-0321"
   },
   {
-    "client_name": "Dina Nasser",
+    "client_name": "Hessa Rossi",
     "segment": "self_employed",
     "residency": "resident",
     "purpose": "end_use",
@@ -35591,7 +35591,7 @@
     "id": "HOL-0322"
   },
   {
-    "client_name": "Sami Rossi",
+    "client_name": "Michael Iqbal",
     "segment": "self_employed",
     "residency": "non_resident",
     "purpose": "end_use",
@@ -35713,7 +35713,7 @@
     "id": "HOL-0323"
   },
   {
-    "client_name": "Chen Rossi",
+    "client_name": "Wei Haddad",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "end_use",
@@ -35806,7 +35806,7 @@
     "id": "HOL-0324"
   },
   {
-    "client_name": "Faisal Williams",
+    "client_name": "Sara Costa",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "investment",
@@ -35912,7 +35912,7 @@
     "id": "HOL-0325"
   },
   {
-    "client_name": "Hessa Li",
+    "client_name": "Rohan Ferrari",
     "segment": "salaried",
     "residency": "non_resident",
     "purpose": "investment",
@@ -36033,7 +36033,7 @@
     "id": "HOL-0326"
   },
   {
-    "client_name": "Dina Al Qassimi",
+    "client_name": "Yousef Nasser",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "end_use",
@@ -36118,7 +36118,7 @@
     "id": "HOL-0327"
   },
   {
-    "client_name": "Vikram Al Qassimi",
+    "client_name": "Chen Mansour",
     "segment": "salaried",
     "residency": "non_resident",
     "purpose": "end_use",
@@ -36220,7 +36220,7 @@
     "id": "HOL-0328"
   },
   {
-    "client_name": "Arjun Iqbal",
+    "client_name": "Saeed Haddad",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "investment",
@@ -36338,7 +36338,7 @@
     "id": "HOL-0329"
   },
   {
-    "client_name": "Chen Al Suwaidi",
+    "client_name": "Karim Petrov",
     "segment": "self_employed",
     "residency": "resident",
     "purpose": "investment",
@@ -36459,7 +36459,7 @@
     "id": "HOL-0330"
   },
   {
-    "client_name": "Anjali Al Maktoum",
+    "client_name": "Bilal Al Hashimi",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "end_use",
@@ -36576,7 +36576,7 @@
     "id": "HOL-0331"
   },
   {
-    "client_name": "Aisha Farouk",
+    "client_name": "Arjun Iqbal",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "end_use",
@@ -36679,7 +36679,7 @@
     "id": "HOL-0332"
   },
   {
-    "client_name": "Emily Haddad",
+    "client_name": "Daniel Al Balushi",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "investment",
@@ -36798,7 +36798,7 @@
     "id": "HOL-0333"
   },
   {
-    "client_name": "James Al Marri",
+    "client_name": "Sneha Petrov",
     "segment": "self_employed",
     "residency": "resident",
     "purpose": "end_use",
@@ -36878,7 +36878,7 @@
     "id": "HOL-0334"
   },
   {
-    "client_name": "Marco Ferrari",
+    "client_name": "Elena Iqbal",
     "segment": "self_employed",
     "residency": "resident",
     "purpose": "end_use",
@@ -36966,7 +36966,7 @@
     "id": "HOL-0335"
   },
   {
-    "client_name": "Sophie Petrov",
+    "client_name": "Thomas Nasser",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "end_use",
@@ -37073,7 +37073,7 @@
     "id": "HOL-0336"
   },
   {
-    "client_name": "Sami Nasser",
+    "client_name": "Khalid Sharma",
     "segment": "self_employed",
     "residency": "resident",
     "purpose": "investment",
@@ -37161,7 +37161,7 @@
     "id": "HOL-0337"
   },
   {
-    "client_name": "Karim Al Qassimi",
+    "client_name": "Laura Rahman",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "investment",
@@ -37249,7 +37249,7 @@
     "id": "HOL-0338"
   },
   {
-    "client_name": "Sneha Al Hashimi",
+    "client_name": "Deepak Rossi",
     "segment": "self_employed",
     "residency": "resident",
     "purpose": "end_use",
@@ -37363,7 +37363,7 @@
     "id": "HOL-0339"
   },
   {
-    "client_name": "Andrei Petrov",
+    "client_name": "Omar Farouk",
     "segment": "self_employed",
     "residency": "resident",
     "purpose": "investment",
@@ -37478,7 +37478,7 @@
     "id": "HOL-0340"
   },
   {
-    "client_name": "Wei Mueller",
+    "client_name": "Ahmed Fernandez",
     "segment": "self_employed",
     "residency": "non_resident",
     "purpose": "end_use",
@@ -37593,7 +37593,7 @@
     "id": "HOL-0341"
   },
   {
-    "client_name": "Sophie Al Balushi",
+    "client_name": "Layla Patel",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "investment",
@@ -37700,7 +37700,7 @@
     "id": "HOL-0342"
   },
   {
-    "client_name": "Reem Iqbal",
+    "client_name": "Reem Sharma",
     "segment": "self_employed",
     "residency": "resident",
     "purpose": "investment",
@@ -37788,7 +37788,7 @@
     "id": "HOL-0343"
   },
   {
-    "client_name": "Rohan Brown",
+    "client_name": "Nadia Zhang",
     "segment": "self_employed",
     "residency": "resident",
     "purpose": "investment",
@@ -37882,7 +37882,7 @@
     "id": "HOL-0344"
   },
   {
-    "client_name": "Karim Al Marri",
+    "client_name": "Saeed Ivanov",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "investment",
@@ -37972,7 +37972,7 @@
     "id": "HOL-0345"
   },
   {
-    "client_name": "Tariq Al Qassimi",
+    "client_name": "Hamdan Reddy",
     "segment": "self_employed",
     "residency": "non_resident",
     "purpose": "investment",
@@ -38094,7 +38094,7 @@
     "id": "HOL-0346"
   },
   {
-    "client_name": "James Farouk",
+    "client_name": "Omar Iqbal",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "investment",
@@ -38195,7 +38195,7 @@
     "id": "HOL-0347"
   },
   {
-    "client_name": "Vikram Mansour",
+    "client_name": "Huda Farouk",
     "segment": "self_employed",
     "residency": "resident",
     "purpose": "end_use",
@@ -38289,7 +38289,7 @@
     "id": "HOL-0348"
   },
   {
-    "client_name": "Sneha Li",
+    "client_name": "Laura Al Marri",
     "segment": "self_employed",
     "residency": "resident",
     "purpose": "investment",
@@ -38400,7 +38400,7 @@
     "id": "HOL-0349"
   },
   {
-    "client_name": "Noura Johnson",
+    "client_name": "Thomas Al Hashimi",
     "segment": "self_employed",
     "residency": "resident",
     "purpose": "end_use",
@@ -38535,7 +38535,7 @@
     "id": "HOL-0350"
   },
   {
-    "client_name": "Deepak Nair",
+    "client_name": "Aisha Williams",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "end_use",
@@ -38644,7 +38644,7 @@
     "id": "HOL-0351"
   },
   {
-    "client_name": "James Ferrari",
+    "client_name": "Ling Al Marri",
     "segment": "self_employed",
     "residency": "resident",
     "purpose": "end_use",
@@ -38743,7 +38743,7 @@
     "id": "HOL-0352"
   },
   {
-    "client_name": "Hessa Sharma",
+    "client_name": "Hamdan Reddy",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "end_use",
@@ -38862,7 +38862,7 @@
     "id": "HOL-0353"
   },
   {
-    "client_name": "Reem Zhang",
+    "client_name": "Tariq Patel",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "end_use",
@@ -38975,7 +38975,7 @@
     "id": "HOL-0354"
   },
   {
-    "client_name": "Omar Nasser",
+    "client_name": "Sophie Patel",
     "segment": "self_employed",
     "residency": "non_resident",
     "purpose": "end_use",
@@ -39088,7 +39088,7 @@
     "id": "HOL-0355"
   },
   {
-    "client_name": "Omar Costa",
+    "client_name": "Aisha Haddad",
     "segment": "self_employed",
     "residency": "resident",
     "purpose": "investment",
@@ -39188,7 +39188,7 @@
     "id": "HOL-0356"
   },
   {
-    "client_name": "Layla Schmidt",
+    "client_name": "Saeed Nasser",
     "segment": "self_employed",
     "residency": "resident",
     "purpose": "end_use",
@@ -39294,7 +39294,7 @@
     "id": "HOL-0357"
   },
   {
-    "client_name": "Rohan Al Qassimi",
+    "client_name": "Vikram Al Balushi",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "investment",
@@ -39397,7 +39397,7 @@
     "id": "HOL-0358"
   },
   {
-    "client_name": "Karim Schmidt",
+    "client_name": "Khalid Kapoor",
     "segment": "self_employed",
     "residency": "resident",
     "purpose": "end_use",
@@ -39504,7 +39504,7 @@
     "id": "HOL-0359"
   },
   {
-    "client_name": "Rashid Rahman",
+    "client_name": "Omar Rahman",
     "segment": "self_employed",
     "residency": "resident",
     "purpose": "investment",
@@ -39608,7 +39608,7 @@
     "id": "HOL-0360"
   },
   {
-    "client_name": "Huda Reddy",
+    "client_name": "Chen Al Marri",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "end_use",
@@ -39721,7 +39721,7 @@
     "id": "HOL-0361"
   },
   {
-    "client_name": "Marco Ferrari",
+    "client_name": "Mohammed Haddad",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "end_use",
@@ -39836,7 +39836,7 @@
     "id": "HOL-0362"
   },
   {
-    "client_name": "Zainab Iqbal",
+    "client_name": "Zainab Khan",
     "segment": "self_employed",
     "residency": "resident",
     "purpose": "investment",
@@ -39952,7 +39952,7 @@
     "id": "HOL-0363"
   },
   {
-    "client_name": "Priya Ivanov",
+    "client_name": "Chen Schmidt",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "end_use",
@@ -40068,7 +40068,7 @@
     "id": "HOL-0364"
   },
   {
-    "client_name": "Michael Johnson",
+    "client_name": "Vikram Ivanov",
     "segment": "salaried",
     "residency": "non_resident",
     "purpose": "investment",
@@ -40179,7 +40179,7 @@
     "id": "HOL-0365"
   },
   {
-    "client_name": "Yousef Ferrari",
+    "client_name": "Hannah Al Balushi",
     "segment": "self_employed",
     "residency": "resident",
     "purpose": "investment",
@@ -40308,7 +40308,7 @@
     "id": "HOL-0366"
   },
   {
-    "client_name": "Faisal Ivanov",
+    "client_name": "Reem Mueller",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "investment",
@@ -40402,7 +40402,7 @@
     "id": "HOL-0367"
   },
   {
-    "client_name": "Chen Al Hashimi",
+    "client_name": "Sara Mueller",
     "segment": "salaried",
     "residency": "non_resident",
     "purpose": "end_use",
@@ -40509,7 +40509,7 @@
     "id": "HOL-0368"
   },
   {
-    "client_name": "Hannah Al Maktoum",
+    "client_name": "Laura Farouk",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "investment",
@@ -40624,7 +40624,7 @@
     "id": "HOL-0369"
   },
   {
-    "client_name": "Hannah Wang",
+    "client_name": "Laura Fernandez",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "investment",
@@ -40743,7 +40743,7 @@
     "id": "HOL-0370"
   },
   {
-    "client_name": "Andrei Tanaka",
+    "client_name": "Elena Nasser",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "investment",
@@ -40884,7 +40884,7 @@
     "id": "HOL-0371"
   },
   {
-    "client_name": "Chen Iqbal",
+    "client_name": "Ahmed Reddy",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "investment",
@@ -40983,7 +40983,7 @@
     "id": "HOL-0372"
   },
   {
-    "client_name": "Hessa Iqbal",
+    "client_name": "Aisha Schmidt",
     "segment": "self_employed",
     "residency": "resident",
     "purpose": "investment",
@@ -41092,7 +41092,7 @@
     "id": "HOL-0373"
   },
   {
-    "client_name": "Hannah Ferrari",
+    "client_name": "Isabella Al Balushi",
     "segment": "self_employed",
     "residency": "resident",
     "purpose": "investment",
@@ -41228,7 +41228,7 @@
     "id": "HOL-0374"
   },
   {
-    "client_name": "Yousef Tanaka",
+    "client_name": "Huda Williams",
     "segment": "self_employed",
     "residency": "resident",
     "purpose": "end_use",
@@ -41344,7 +41344,7 @@
     "id": "HOL-0375"
   },
   {
-    "client_name": "Noura Al Suwaidi",
+    "client_name": "Mariam Ferrari",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "end_use",
@@ -41450,7 +41450,7 @@
     "id": "HOL-0376"
   },
   {
-    "client_name": "Daniel Li",
+    "client_name": "Hiroshi Al Suwaidi",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "investment",
@@ -41554,7 +41554,7 @@
     "id": "HOL-0377"
   },
   {
-    "client_name": "Emily Farouk",
+    "client_name": "Saeed Sharma",
     "segment": "self_employed",
     "residency": "resident",
     "purpose": "investment",
@@ -41671,7 +41671,7 @@
     "id": "HOL-0378"
   },
   {
-    "client_name": "Andrei Al Hashimi",
+    "client_name": "Noura Fernandez",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "investment",
@@ -41800,7 +41800,7 @@
     "id": "HOL-0379"
   },
   {
-    "client_name": "Bilal Ivanov",
+    "client_name": "Chen Khan",
     "segment": "self_employed",
     "residency": "resident",
     "purpose": "end_use",
@@ -41913,7 +41913,7 @@
     "id": "HOL-0380"
   },
   {
-    "client_name": "Arjun Reddy",
+    "client_name": "Elena Costa",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "investment",
@@ -42050,7 +42050,7 @@
     "id": "HOL-0381"
   },
   {
-    "client_name": "Yuki Brown",
+    "client_name": "Sara Mansour",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "end_use",
@@ -42171,7 +42171,7 @@
     "id": "HOL-0382"
   },
   {
-    "client_name": "Rashid Li",
+    "client_name": "Tariq Rahman",
     "segment": "self_employed",
     "residency": "resident",
     "purpose": "end_use",
@@ -42261,7 +42261,7 @@
     "id": "HOL-0383"
   },
   {
-    "client_name": "Ahmed Rossi",
+    "client_name": "Aisha Kapoor",
     "segment": "salaried",
     "residency": "non_resident",
     "purpose": "end_use",
@@ -42351,7 +42351,7 @@
     "id": "HOL-0384"
   },
   {
-    "client_name": "Hiroshi Nasser",
+    "client_name": "Neha Wang",
     "segment": "self_employed",
     "residency": "resident",
     "purpose": "end_use",
@@ -42466,7 +42466,7 @@
     "id": "HOL-0385"
   },
   {
-    "client_name": "Hannah Brown",
+    "client_name": "Yousef Iqbal",
     "segment": "salaried",
     "residency": "non_resident",
     "purpose": "end_use",
@@ -42570,7 +42570,7 @@
     "id": "HOL-0386"
   },
   {
-    "client_name": "Fatima Reddy",
+    "client_name": "Yuki Petrov",
     "segment": "salaried",
     "residency": "non_resident",
     "purpose": "investment",
@@ -42705,7 +42705,7 @@
     "id": "HOL-0387"
   },
   {
-    "client_name": "Priya Zhang",
+    "client_name": "Sneha Smith",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "end_use",
@@ -42830,7 +42830,7 @@
     "id": "HOL-0388"
   },
   {
-    "client_name": "Dina Mansour",
+    "client_name": "Sophie Nair",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "end_use",
@@ -42919,7 +42919,7 @@
     "id": "HOL-0389"
   },
   {
-    "client_name": "Rohan Khan",
+    "client_name": "Michael Costa",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "end_use",
@@ -43031,7 +43031,7 @@
     "id": "HOL-0390"
   },
   {
-    "client_name": "Rashid Fernandez",
+    "client_name": "Tariq Kapoor",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "investment",
@@ -43160,7 +43160,7 @@
     "id": "HOL-0391"
   },
   {
-    "client_name": "Hiroshi Johnson",
+    "client_name": "Zainab Farouk",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "investment",
@@ -43280,7 +43280,7 @@
     "id": "HOL-0392"
   },
   {
-    "client_name": "Laura Khan",
+    "client_name": "Hessa Iqbal",
     "segment": "self_employed",
     "residency": "resident",
     "purpose": "end_use",
@@ -43382,7 +43382,7 @@
     "id": "HOL-0393"
   },
   {
-    "client_name": "Neha Petrov",
+    "client_name": "Bilal Nasser",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "investment",
@@ -43479,7 +43479,7 @@
     "id": "HOL-0394"
   },
   {
-    "client_name": "Fatima Schmidt",
+    "client_name": "Dina Khan",
     "segment": "self_employed",
     "residency": "resident",
     "purpose": "investment",
@@ -43573,7 +43573,7 @@
     "id": "HOL-0395"
   },
   {
-    "client_name": "Andrei Al Nahyan",
+    "client_name": "Karim Schmidt",
     "segment": "self_employed",
     "residency": "resident",
     "purpose": "investment",
@@ -43703,7 +43703,7 @@
     "id": "HOL-0396"
   },
   {
-    "client_name": "Arjun Kapoor",
+    "client_name": "Hessa Haddad",
     "segment": "self_employed",
     "residency": "non_resident",
     "purpose": "end_use",
@@ -43809,7 +43809,7 @@
     "id": "HOL-0397"
   },
   {
-    "client_name": "Nadia Haddad",
+    "client_name": "Faisal Sharma",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "investment",
@@ -43917,7 +43917,7 @@
     "id": "HOL-0398"
   },
   {
-    "client_name": "Sara Nasser",
+    "client_name": "Hannah Ivanov",
     "segment": "self_employed",
     "residency": "resident",
     "purpose": "investment",
@@ -44026,7 +44026,7 @@
     "id": "HOL-0399"
   },
   {
-    "client_name": "Sami Smith",
+    "client_name": "Ling Fernandez",
     "segment": "salaried",
     "residency": "resident",
     "purpose": "investment",

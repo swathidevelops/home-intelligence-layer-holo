@@ -72,9 +72,11 @@ FIRST_NAMES = [
     "Chen", "Wei", "Ling", "Hiroshi", "Yuki", "Sami", "Nadia", "Karim", "Dina",
     "Faisal",
 ]
+# UAE ruling-family surnames (Al Maktoum, Al Nahyan, Al Qassimi, Al Sharqi,
+# Al Mualla, Al Nuaimi, ...) are deliberately excluded — only common family names.
 LAST_NAMES = [
-    "Al Maktoum", "Al Nahyan", "Al Qassimi", "Al Marri", "Al Suwaidi", "Al Hashimi",
-    "Al Balushi", "Khan", "Sharma", "Patel", "Nair", "Reddy", "Kapoor", "Smith",
+    "Al Marri", "Al Suwaidi", "Al Hashimi", "Al Balushi",
+    "Khan", "Sharma", "Patel", "Nair", "Reddy", "Kapoor", "Smith",
     "Johnson", "Williams", "Brown", "Petrov", "Ivanov", "Rossi", "Ferrari", "Wang",
     "Li", "Zhang", "Tanaka", "Haddad", "Nasser", "Farouk", "Mansour", "Rahman",
     "Iqbal", "Costa", "Fernandez", "Mueller", "Schmidt",
@@ -563,6 +565,11 @@ def generate() -> list:
     random.shuffle(records)
     for idx, (case, _label) in enumerate(records, start=1):
         case["id"] = f"HOL-{idx:04d}"
+
+    # Reassign client names last, with a dedicated RNG that does NOT touch the
+    # stream above (so every other field is unchanged), enforcing no duplicate
+    # first/last name within any RM's top-10 action queue.
+    assign_client_names([c for c, _ in records])
     return records
 
 
@@ -727,6 +734,72 @@ def detect_p1(case, p75map):
         and case["valuation_status"] == "completed"
         and len(risk_flags(case, p75map)) > 0
     )
+
+
+# --------------------------------------------------------------------------- #
+# Client-name assignment (mirrors the app's action-queue ranking)
+# --------------------------------------------------------------------------- #
+
+# stage_probability from CLAUDE.md; disbursed (funded) = 1.0. Matches lib/engine.ts.
+STAGE_PROB = {
+    "lead": 0.15, "pre_approval": 0.35, "property_found": 0.50, "application": 0.55,
+    "valuation": 0.65, "final_offer": 0.85, "signed": 0.95, "disbursed": 1.0,
+}
+
+
+def _priority(case):
+    """Same score the UI ranks the action queue by: commission x stage x freshness."""
+    days = min((days_ago(a["date"]) for a in case["activities"]), default=None)
+    if days is None:
+        decay = 0.2
+    elif days < 7:
+        decay = 1.0
+    elif days < 14:
+        decay = 0.7
+    elif days < 30:
+        decay = 0.4
+    else:
+        decay = 0.2
+    return case["expected_commission"] * STAGE_PROB[case["stage"]] * decay
+
+
+def rm_top10(cases, p75map):
+    """Each RM's top-10 action queue: cases carrying a flag or cross-sell, ranked
+    by priority (stable) — exactly what Screen 1 shows."""
+    by_rm = {}
+    for c in cases:
+        by_rm.setdefault(c["assigned_rm"], []).append(c)
+    out = {}
+    for rm, cs in by_rm.items():
+        flagged = [c for c in cs if risk_flags(c, p75map) or cross_sell(c)]
+        flagged.sort(key=_priority, reverse=True)
+        out[rm] = flagged[:10]
+    return out
+
+
+def assign_client_names(cases, seed=20260720):
+    """Reassign every client_name in place. Guarantees that within each RM's
+    top-10 action queue no first name and no last name repeats. Uses a dedicated
+    RNG so it never perturbs the main generation stream."""
+    rng = random.Random(seed)
+    p75map = p75_by_stage(cases)
+    queues = rm_top10(cases, p75map)
+
+    names = {}
+    for rm in sorted(queues):
+        group = queues[rm]
+        firsts = rng.sample(FIRST_NAMES, len(group))
+        lasts = rng.sample(LAST_NAMES, len(group))
+        for case, f, l in zip(group, firsts, lasts):
+            names[case["id"]] = (f, l)
+
+    for c in sorted(cases, key=lambda c: c["id"]):
+        if c["id"] not in names:
+            names[c["id"]] = (rng.choice(FIRST_NAMES), rng.choice(LAST_NAMES))
+
+    for c in cases:
+        f, l = names[c["id"]]
+        c["client_name"] = f"{f} {l}"
 
 
 # --------------------------------------------------------------------------- #

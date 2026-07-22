@@ -186,23 +186,44 @@ const allVMs: CaseVM[] = cases.map(toVM);
 
 export const RMS: string[] = Array.from(new Set(cases.map((c) => c.assigned_rm))).sort();
 
-/** An RM's action queue: cases carrying a flag or a cross-sell, ranked by priority. */
+/**
+ * An RM's morning action queue: the top cases carrying a flag or cross-sell,
+ * ranked by priority, with rational-pause cases removed — those belong in the
+ * "do not chase" section, not the do-this-now list. Ranking the top `limit`
+ * first (before removing pauses) keeps this a subset of the name-unique top-10.
+ */
 export function actionQueue(rm: string, limit = 10): CaseVM[] {
   return allVMs
     .filter((v) => v.rm === rm && (v.riskChips.length > 0 || v.crossSellChips.length > 0))
     .sort((a, b) => b.priorityScore - a.priorityScore)
-    .slice(0, limit);
+    .slice(0, limit)
+    .filter((v) => v.classification !== 'RATIONAL_PAUSE');
+}
+
+/** An RM's rational-pause cases — held, not to be chased. Ranked by AED at stake. */
+export function pausedCases(rm: string): CaseVM[] {
+  return allVMs
+    .filter((v) => v.rm === rm && v.classification === 'RATIONAL_PAUSE')
+    .sort((a, b) => b.expectedCommission - a.expectedCommission);
 }
 
 export function rmStats(rm: string) {
   const mine = allVMs.filter((v) => v.rm === rm);
   const actionable = mine.filter(
-    (v) => v.riskChips.length > 0 || v.crossSellChips.length > 0,
+    (v) =>
+      v.classification !== 'RATIONAL_PAUSE' &&
+      (v.riskChips.length > 0 || v.crossSellChips.length > 0),
   );
+  const paused = mine.filter((v) => v.classification === 'RATIONAL_PAUSE');
   const atRiskCommission = mine
     .filter((v) => v.riskChips.length > 0)
     .reduce((s, v) => s + v.expectedCommission, 0);
-  return { total: mine.length, actionable: actionable.length, atRiskCommission };
+  return {
+    total: mine.length,
+    actionable: actionable.length,
+    paused: paused.length,
+    atRiskCommission,
+  };
 }
 
 // --------------------------------------------------------------------------- //
@@ -262,10 +283,23 @@ const REASON_LABELS: Record<RiskFlagCode, string> = {
   VELOCITY_STALL: 'Stuck in stage',
 };
 
+export interface StageHealth {
+  stage: string;
+  current: number; // cases sitting in this stage now
+  reached: number; // cases that ever reached this stage
+  flaggedCount: number; // at-risk cases in this stage
+  atRisk: number; // at-risk commission in this stage
+  flaggedPct: number; // flaggedCount / current
+}
+
 export interface LeadershipData {
   atRiskTotal: number;
   atRiskCount: number;
+  recoverablePct: number; // at-risk cases that are STALLED (still engaged) share
+  weakestStage: StageHealth;
+  topReason: { reason: string; count: number; commission: number };
   reasonBreakdown: { reason: string; count: number; commission: number }[];
+  stageHealth: StageHealth[];
   revenueByStage: { stage: string; commission: number; count: number }[];
   funnel: { stage: string; reached: number; current: number }[];
   attachment: { service: string; attached: number; eligible: number; rate: number }[];
@@ -283,6 +317,8 @@ export interface LeadershipData {
 export function leadershipData(): LeadershipData {
   const flagged = allVMs.filter((v) => v.riskChips.length > 0);
   const atRiskTotal = flagged.reduce((s, v) => s + v.expectedCommission, 0);
+  const stalled = allVMs.filter((v) => v.classification === 'STALLED');
+  const recoverablePct = flagged.length > 0 ? stalled.length / flagged.length : 0;
 
   // Reason breakdown — attribute each at-risk case to its single most severe flag.
   const reasonMap = new Map<string, { count: number; commission: number }>();
@@ -298,30 +334,47 @@ export function leadershipData(): LeadershipData {
   const reasonBreakdown = Array.from(reasonMap.entries())
     .map(([reason, x]) => ({ reason, ...x }))
     .sort((a, b) => b.commission - a.commission);
+  const topReason = reasonBreakdown[0] ?? { reason: 'None', count: 0, commission: 0 };
 
-  // Revenue at risk by stage.
-  const revenueByStage = STAGE_ORDER.map((stage) => {
-    const inStage = flagged.filter((v) => v.stage === stage);
-    return {
-      stage,
-      commission: inStage.reduce((s, v) => s + v.expectedCommission, 0),
-      count: inStage.length,
-    };
-  }).filter((x) => x.count > 0);
-
-  // Funnel — how many cases ever reached each stage (from stage_history) vs sit there now.
-  const reachedCount = new Map<string, number>();
-  const currentCount = new Map<string, number>();
+  // Stage health: current vs reached + leakage metrics.
+  const reachedByStage = new Map<string, number>();
+  const currentByStage = new Map<string, number>();
   for (const c of cases) {
-    currentCount.set(c.stage, (currentCount.get(c.stage) ?? 0) + 1);
+    currentByStage.set(c.stage, (currentByStage.get(c.stage) ?? 0) + 1);
     for (const h of c.stage_history) {
-      reachedCount.set(h.stage, (reachedCount.get(h.stage) ?? 0) + 1);
+      reachedByStage.set(h.stage, (reachedByStage.get(h.stage) ?? 0) + 1);
     }
   }
-  const funnel = STAGE_ORDER.map((stage) => ({
-    stage,
-    reached: reachedCount.get(stage) ?? 0,
-    current: currentCount.get(stage) ?? 0,
+
+  const stageHealth = STAGE_ORDER.map((stage) => {
+    const current = currentByStage.get(stage) ?? 0;
+    const reached = reachedByStage.get(stage) ?? 0;
+    const flaggedInStage = flagged.filter((v) => v.stage === stage);
+    const atRiskInStage = flaggedInStage.reduce((s, v) => s + v.expectedCommission, 0);
+    return {
+      stage,
+      current,
+      reached,
+      flaggedCount: flaggedInStage.length,
+      atRisk: atRiskInStage,
+      flaggedPct: current > 0 ? flaggedInStage.length / current : 0,
+    };
+  }).filter((x) => x.current > 0);
+
+  const weakestStage = stageHealth.reduce((best, s) => (s.atRisk > best.atRisk ? s : best), stageHealth[0] ?? stageHealth[0]);
+
+  // Revenue at risk by stage.
+  const revenueByStage = stageHealth.map((s) => ({
+    stage: s.stage,
+    commission: s.atRisk,
+    count: s.flaggedCount,
+  })).filter((x) => x.count > 0);
+
+  // Funnel — map stageHealth to the existing funnel format.
+  const funnel = stageHealth.map((s) => ({
+    stage: s.stage,
+    reached: s.reached,
+    current: s.current,
   }));
 
   // Cross-sell attachment rates.
@@ -400,7 +453,11 @@ export function leadershipData(): LeadershipData {
   return {
     atRiskTotal,
     atRiskCount: flagged.length,
+    recoverablePct,
+    weakestStage,
+    topReason,
     reasonBreakdown,
+    stageHealth,
     revenueByStage,
     funnel,
     attachment,
