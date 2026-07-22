@@ -2,7 +2,7 @@
 
 import { useState } from 'react';
 import type { CaseVM, Chip } from '@/lib/data';
-import { aed, pct, STAGE_LABELS, titleCase } from '@/lib/format';
+import { aed, aedShort, pct, STAGE_LABELS, titleCase } from '@/lib/format';
 
 interface Props {
   rms: string[];
@@ -47,6 +47,24 @@ function Badge({ vm }: { vm: CaseVM }) {
     <span className="rounded-full bg-accent/10 px-2 py-0.5 text-xs font-semibold text-accent">
       Opportunity
     </span>
+  );
+}
+
+function MetricCard({
+  label,
+  value,
+  sublabel,
+}: {
+  label: string;
+  value: string;
+  sublabel: string;
+}) {
+  return (
+    <div className="rounded-lg border border-slate-200 bg-white p-4">
+      <div className="text-xs font-medium text-slate-500">{label}</div>
+      <div className="mt-1 text-2xl font-bold tabular-nums text-slate-900">{value}</div>
+      <div className="mt-1 text-xs text-slate-500">{sublabel}</div>
+    </div>
   );
 }
 
@@ -272,16 +290,40 @@ export default function CaseManager({ rms, queues, paused, stats, hasBriefs }: P
 
   return (
     <main className="mx-auto max-w-[1180px] px-6 py-6">
-      <div className="mb-2 flex items-end justify-between">
-        <div>
-          <h1 className="text-lg font-semibold tracking-tight text-slate-900">Today</h1>
-          <p className="text-xs text-slate-400">
-            What each case manager should do this morning, ranked by AED at stake. Viewing{' '}
-            <span className="font-medium">{rm}</span>'s book.
+      {/* Hero section — narrative, not table */}
+      <div className="mb-6">
+        <div className="mb-4">
+          <h1 className="text-3xl font-bold tracking-tight text-slate-900">
+            {s?.actionable ?? 0} cases need attention today
+          </h1>
+          <p className="mt-2 text-lg text-slate-600">
+            <span className="font-semibold">{aed(s?.atRiskCommission ?? 0)}</span> is at risk unless the right
+            cases are handled now.
           </p>
-          <p className="mt-2 text-sm text-slate-500">
-            Your action queue: top {queue.length} of {s?.actionable ?? 0} cases needing attention.
-          </p>
+        </div>
+
+        {/* Metric cards */}
+        <div className="grid gap-3 lg:grid-cols-4">
+          <MetricCard
+            label="Recoverable stalls"
+            value={String(queue.filter((v) => v.classification === 'STALLED').length)}
+            sublabel="engaged, call now"
+          />
+          <MetricCard
+            label="Rational pauses"
+            value={String(pausedList.length)}
+            sublabel="re-evaluating, nurture"
+          />
+          <MetricCard
+            label="Revenue at risk"
+            value={aedShort(s?.atRiskCommission ?? 0)}
+            sublabel="across flagged cases"
+          />
+          <MetricCard
+            label="Viewing"
+            value={rm}
+            sublabel="case manager book"
+          />
         </div>
       </div>
 
@@ -303,13 +345,6 @@ export default function CaseManager({ rms, queues, paused, stats, hasBriefs }: P
             {name}
           </button>
         ))}
-      </div>
-
-      {/* Stats strip */}
-      <div className="mb-4 grid grid-cols-3 gap-3">
-        <Stat label="Cases in book" value={String(s?.total ?? 0)} />
-        <Stat label="Need action" value={String(s?.actionable ?? 0)} />
-        <Stat label="Commission at risk" value={aed(s?.atRiskCommission ?? 0)} />
       </div>
 
       {/* Legend */}
@@ -466,11 +501,15 @@ function FragmentRow({
     <>
       <tr
         onClick={onToggle}
-        className={`cursor-pointer border-b border-slate-100 hover:bg-slate-50 ${
-          open ? 'bg-slate-50' : ''
-        }`}
+        className={`cursor-pointer border-b transition-colors ${
+          rank <= 3
+            ? 'border-amber-100 bg-amber-50 hover:bg-amber-100'
+            : 'border-slate-100 hover:bg-slate-50'
+        } ${open ? (rank <= 3 ? 'bg-amber-100' : 'bg-slate-50') : ''}`}
       >
-        <td className="px-4 py-2.5 text-xs font-semibold text-slate-400">{rank}</td>
+        <td className={`px-4 py-2.5 text-xs font-bold ${
+          rank <= 3 ? 'text-amber-700' : 'text-slate-400'
+        }`}>{rank}</td>
         <td className="px-4 py-2.5">
           <div className="font-medium text-slate-900">{vm.clientName}</div>
           <div className="text-[11px] text-slate-400">
