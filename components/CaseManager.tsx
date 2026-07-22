@@ -348,16 +348,19 @@ export default function CaseManager({ rms, queues, paused, stats, hasBriefs }: P
       </div>
 
       {/* Legend */}
-      <div className="mb-4 rounded-lg border border-slate-100 bg-slate-50 px-4 py-2.5 text-xs text-slate-600">
-        <span className="inline-block font-medium text-slate-700">Early warning</span>
-        <span className="mx-2 text-slate-300">·</span>
-        <span>Act before it breaks</span>
-        <span className="mx-4 inline-block font-medium text-slate-700">Stalled</span>
-        <span className="mx-2 text-slate-300">·</span>
-        <span>Engaged but stuck, call now</span>
-        <span className="mx-4 inline-block font-medium text-slate-700">Opportunity</span>
-        <span className="mx-2 text-slate-300">·</span>
-        <span>A service to attach</span>
+      <div className="mb-4 grid gap-2 rounded-lg border border-slate-100 bg-slate-50 p-4 text-xs lg:grid-cols-3">
+        <div>
+          <span className="font-medium text-slate-700">Early warning</span>
+          <span className="ml-2 text-slate-500">Act before it breaks</span>
+        </div>
+        <div>
+          <span className="font-medium text-slate-700">Stalled</span>
+          <span className="ml-2 text-slate-500">Engaged but stuck, call now</span>
+        </div>
+        <div>
+          <span className="font-medium text-slate-700">Opportunity</span>
+          <span className="ml-2 text-slate-500">A service to attach</span>
+        </div>
       </div>
 
       {/* Queue table */}
